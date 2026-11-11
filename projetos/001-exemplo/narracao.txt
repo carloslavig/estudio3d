@@ -1,0 +1,1 @@
+Juros compostos são juros sobre juros. No começo o saldo cresce devagar. Com o tempo, a curva dispara. Quanto antes começar, melhor.

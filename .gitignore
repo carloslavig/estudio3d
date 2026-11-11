@@ -1,0 +1,8 @@
+node_modules/
+out/
+public/audio/*.wav
+public/audio/*.mp3
+.env
+edicoes/**/*.mp4
+edicoes/**/quadro-*.png
+edicoes/**/montagem.png

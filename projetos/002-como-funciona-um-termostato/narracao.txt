@@ -1,0 +1,1 @@
+Você já reparou que um termostato não liga e desliga o tempo todo? Ele funciona como um porteiro de temperatura. Quando o ambiente esfria, ele liga o aquecimento. Quando esquenta o suficiente, ele desliga. Esse vai e vem mantém a temperatura quase constante, sem gastar energia à toa. É um controle simples, que se repete sozinho.

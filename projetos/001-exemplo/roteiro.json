@@ -1,0 +1,95 @@
+{
+  "titulo": "Por que juros compostos assustam",
+  "estilo": "padrao",
+  "legenda": [
+    {
+      "inicio": 0.0,
+      "fim": 2.66,
+      "texto": "Juros compostos são juros sobre"
+    },
+    {
+      "inicio": 2.66,
+      "fim": 3.31,
+      "texto": "juros."
+    },
+    {
+      "inicio": 3.78,
+      "fim": 5.56,
+      "texto": "No começo, o saldo cresce"
+    },
+    {
+      "inicio": 5.56,
+      "fim": 6.19,
+      "texto": "devagar."
+    },
+    {
+      "inicio": 6.78,
+      "fim": 7.61,
+      "texto": "Com o tempo,"
+    },
+    {
+      "inicio": 7.9,
+      "fim": 9.55,
+      "texto": "a curva dispara."
+    },
+    {
+      "inicio": 9.72,
+      "fim": 11.17,
+      "texto": "Quanto antes começar,"
+    },
+    {
+      "inicio": 11.6,
+      "fim": 12.07,
+      "texto": "melhor."
+    }
+  ],
+  "cenas": [
+    {
+      "inicio": 0,
+      "fim": 3.7,
+      "titulo": "Juros sobre juros",
+      "peca": "globo"
+    },
+    {
+      "inicio": 3.7,
+      "fim": 6.7,
+      "titulo": "Começa devagar",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          1,
+          1.1,
+          1.2,
+          1.35,
+          1.5
+        ]
+      }
+    },
+    {
+      "inicio": 6.7,
+      "fim": 9.65,
+      "titulo": "Depois dispara",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          1,
+          1.5,
+          2.3,
+          3.7,
+          6.2,
+          10
+        ]
+      }
+    },
+    {
+      "inicio": 9.65,
+      "fim": 12.6,
+      "titulo": "Comece cedo",
+      "peca": "pilha",
+      "dados": {
+        "itens": 8
+      }
+    }
+  ],
+  "audio": "audio/001-exemplo.wav"
+}

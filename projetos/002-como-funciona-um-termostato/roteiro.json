@@ -1,0 +1,123 @@
+{
+  "titulo": "Como funciona um termostato",
+  "estilo": "padrao",
+  "legenda": [
+    {
+      "inicio": 0.0,
+      "fim": 1.58,
+      "texto": "Você já reparou que um"
+    },
+    {
+      "inicio": 1.58,
+      "fim": 4.06,
+      "texto": "termostato não liga e desliga"
+    },
+    {
+      "inicio": 4.06,
+      "fim": 4.93,
+      "texto": "o tempo todo."
+    },
+    {
+      "inicio": 5.42,
+      "fim": 7.24,
+      "texto": "Ele funciona como um porteiro"
+    },
+    {
+      "inicio": 7.24,
+      "fim": 7.99,
+      "texto": "de temperatura."
+    },
+    {
+      "inicio": 8.7,
+      "fim": 10.19,
+      "texto": "Quando o ambiente esfria,"
+    },
+    {
+      "inicio": 10.52,
+      "fim": 11.73,
+      "texto": "ele liga o aquecimento."
+    },
+    {
+      "inicio": 12.4,
+      "fim": 13.85,
+      "texto": "Quando esquenta o suficiente,"
+    },
+    {
+      "inicio": 14.38,
+      "fim": 15.13,
+      "texto": "ele desliga."
+    },
+    {
+      "inicio": 15.76,
+      "fim": 17.44,
+      "texto": "Esse vai e vem mantém"
+    },
+    {
+      "inicio": 17.44,
+      "fim": 19.35,
+      "texto": "a temperatura quase constante,"
+    },
+    {
+      "inicio": 19.62,
+      "fim": 21.49,
+      "texto": "sem gastar energia à toa."
+    },
+    {
+      "inicio": 21.9,
+      "fim": 23.56,
+      "texto": "É um controle simples que"
+    },
+    {
+      "inicio": 23.56,
+      "fim": 24.87,
+      "texto": "se repete sozinho."
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "O porteiro",
+      "peca": "globo",
+      "dados": {},
+      "inicio": 0.0,
+      "fim": 5.42
+    },
+    {
+      "titulo": "Esfriou, liga",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      "inicio": 5.42,
+      "fim": 12.4
+    },
+    {
+      "titulo": "Esquentou, desliga",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "inicio": 12.4,
+      "fim": 19.62
+    },
+    {
+      "titulo": "Controle simples",
+      "peca": "pilha",
+      "dados": {
+        "itens": 5
+      },
+      "inicio": 19.62,
+      "fim": 25.37
+    }
+  ],
+  "audio": "audio/002-como-funciona-um-termostato.wav"
+}
