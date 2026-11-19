@@ -1,0 +1,3112 @@
+{
+  "titulo": "150 Salvador (2º render)",
+  "estilo": "mesa",
+  "cabecalho": {
+    "titulo": "SALVADOR",
+    "arroba": "@eumagnoleite",
+    "fonte": "FONTE: BALANÇO 2024 E 2025 · DESPESA CONSOLIDADA 09/2026 (PCMGE065) · TCM-BA",
+    "escala": "1 PILHA = R$ 200 MI · DOURADO 2024 · VERDE 2025 · ROSA 2026"
+  },
+  "legenda": [
+    {
+      "inicio": 0.0,
+      "fim": 1.84,
+      "texto": "Salvador, arrecadou 12 bilhões e",
+      "palavras": [
+        {
+          "inicio": 0.0,
+          "fim": 0.36,
+          "texto": "Salvador,"
+        },
+        {
+          "inicio": 0.74,
+          "fim": 1.14,
+          "texto": "arrecadou"
+        },
+        {
+          "inicio": 1.14,
+          "fim": 1.38,
+          "texto": "12"
+        },
+        {
+          "inicio": 1.38,
+          "fim": 1.74,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 1.74,
+          "fim": 1.84,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 1.84,
+      "fim": 3.43,
+      "texto": "200 milhões em 2024,",
+      "palavras": [
+        {
+          "inicio": 1.84,
+          "fim": 1.98,
+          "texto": "200"
+        },
+        {
+          "inicio": 1.98,
+          "fim": 2.44,
+          "texto": "milhões"
+        },
+        {
+          "inicio": 2.44,
+          "fim": 2.66,
+          "texto": "em"
+        },
+        {
+          "inicio": 2.66,
+          "fim": 3.28,
+          "texto": "2024,"
+        }
+      ]
+    },
+    {
+      "inicio": 3.7,
+      "fim": 5.52,
+      "texto": "12 bilhões e 390 milhões",
+      "palavras": [
+        {
+          "inicio": 3.7,
+          "fim": 3.94,
+          "texto": "12"
+        },
+        {
+          "inicio": 3.94,
+          "fim": 4.36,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 4.36,
+          "fim": 4.48,
+          "texto": "e"
+        },
+        {
+          "inicio": 4.48,
+          "fim": 4.84,
+          "texto": "390"
+        },
+        {
+          "inicio": 4.84,
+          "fim": 5.52,
+          "texto": "milhões"
+        }
+      ]
+    },
+    {
+      "inicio": 5.52,
+      "fim": 6.81,
+      "texto": "em 2025 e 10,",
+      "palavras": [
+        {
+          "inicio": 5.52,
+          "fim": 5.7,
+          "texto": "em"
+        },
+        {
+          "inicio": 5.7,
+          "fim": 6.16,
+          "texto": "2025"
+        },
+        {
+          "inicio": 6.16,
+          "fim": 6.52,
+          "texto": "e"
+        },
+        {
+          "inicio": 6.52,
+          "fim": 6.66,
+          "texto": "10,"
+        }
+      ]
+    },
+    {
+      "inicio": 7.0,
+      "fim": 9.02,
+      "texto": "bilhões e 890 milhões até",
+      "palavras": [
+        {
+          "inicio": 7.0,
+          "fim": 7.32,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 7.32,
+          "fim": 7.46,
+          "texto": "e"
+        },
+        {
+          "inicio": 7.46,
+          "fim": 7.84,
+          "texto": "890"
+        },
+        {
+          "inicio": 7.84,
+          "fim": 8.54,
+          "texto": "milhões"
+        },
+        {
+          "inicio": 8.54,
+          "fim": 9.02,
+          "texto": "até"
+        }
+      ]
+    },
+    {
+      "inicio": 9.02,
+      "fim": 10.49,
+      "texto": "setembro de 2026.",
+      "palavras": [
+        {
+          "inicio": 9.02,
+          "fim": 9.46,
+          "texto": "setembro"
+        },
+        {
+          "inicio": 9.46,
+          "fim": 9.58,
+          "texto": "de"
+        },
+        {
+          "inicio": 9.58,
+          "fim": 10.34,
+          "texto": "2026."
+        }
+      ]
+    },
+    {
+      "inicio": 10.84,
+      "fim": 11.86,
+      "texto": "Eu abri as contas que",
+      "palavras": [
+        {
+          "inicio": 10.84,
+          "fim": 11.0,
+          "texto": "Eu"
+        },
+        {
+          "inicio": 11.0,
+          "fim": 11.24,
+          "texto": "abri"
+        },
+        {
+          "inicio": 11.24,
+          "fim": 11.42,
+          "texto": "as"
+        },
+        {
+          "inicio": 11.42,
+          "fim": 11.74,
+          "texto": "contas"
+        },
+        {
+          "inicio": 11.74,
+          "fim": 11.86,
+          "texto": "que"
+        }
+      ]
+    },
+    {
+      "inicio": 11.86,
+      "fim": 12.78,
+      "texto": "a Prefeitura e a Câmara",
+      "palavras": [
+        {
+          "inicio": 11.86,
+          "fim": 11.92,
+          "texto": "a"
+        },
+        {
+          "inicio": 11.92,
+          "fim": 12.34,
+          "texto": "Prefeitura"
+        },
+        {
+          "inicio": 12.34,
+          "fim": 12.44,
+          "texto": "e"
+        },
+        {
+          "inicio": 12.44,
+          "fim": 12.54,
+          "texto": "a"
+        },
+        {
+          "inicio": 12.54,
+          "fim": 12.78,
+          "texto": "Câmara"
+        }
+      ]
+    },
+    {
+      "inicio": 12.78,
+      "fim": 14.02,
+      "texto": "mandaram ao Tribunal de Contas",
+      "palavras": [
+        {
+          "inicio": 12.78,
+          "fim": 13.18,
+          "texto": "mandaram"
+        },
+        {
+          "inicio": 13.18,
+          "fim": 13.32,
+          "texto": "ao"
+        },
+        {
+          "inicio": 13.32,
+          "fim": 13.56,
+          "texto": "Tribunal"
+        },
+        {
+          "inicio": 13.56,
+          "fim": 13.74,
+          "texto": "de"
+        },
+        {
+          "inicio": 13.74,
+          "fim": 14.02,
+          "texto": "Contas"
+        }
+      ]
+    },
+    {
+      "inicio": 14.02,
+      "fim": 14.83,
+      "texto": "dos Municípios.",
+      "palavras": [
+        {
+          "inicio": 14.02,
+          "fim": 14.16,
+          "texto": "dos"
+        },
+        {
+          "inicio": 14.16,
+          "fim": 14.68,
+          "texto": "Municípios."
+        }
+      ]
+    },
+    {
+      "inicio": 15.08,
+      "fim": 17.6,
+      "texto": "2024, arrecadou 12 bilhões e",
+      "palavras": [
+        {
+          "inicio": 15.08,
+          "fim": 15.68,
+          "texto": "2024,"
+        },
+        {
+          "inicio": 16.3,
+          "fim": 16.74,
+          "texto": "arrecadou"
+        },
+        {
+          "inicio": 16.74,
+          "fim": 17.02,
+          "texto": "12"
+        },
+        {
+          "inicio": 17.02,
+          "fim": 17.46,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 17.46,
+          "fim": 17.6,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 17.6,
+      "fim": 19.54,
+      "texto": "200, gastou 12 bilhões e",
+      "palavras": [
+        {
+          "inicio": 17.6,
+          "fim": 17.76,
+          "texto": "200,"
+        },
+        {
+          "inicio": 18.36,
+          "fim": 18.7,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 18.7,
+          "fim": 18.96,
+          "texto": "12"
+        },
+        {
+          "inicio": 18.96,
+          "fim": 19.34,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 19.34,
+          "fim": 19.54,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 19.54,
+      "fim": 22.28,
+      "texto": "390, gastou 190 milhões a",
+      "palavras": [
+        {
+          "inicio": 19.54,
+          "fim": 20.12,
+          "texto": "390,"
+        },
+        {
+          "inicio": 20.74,
+          "fim": 21.08,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 21.08,
+          "fim": 21.4,
+          "texto": "190"
+        },
+        {
+          "inicio": 21.4,
+          "fim": 22.14,
+          "texto": "milhões"
+        },
+        {
+          "inicio": 22.14,
+          "fim": 22.28,
+          "texto": "a"
+        }
+      ]
+    },
+    {
+      "inicio": 22.28,
+      "fim": 23.08,
+      "texto": "mais do que arrecadou.",
+      "palavras": [
+        {
+          "inicio": 22.28,
+          "fim": 22.48,
+          "texto": "mais"
+        },
+        {
+          "inicio": 22.48,
+          "fim": 22.6,
+          "texto": "do"
+        },
+        {
+          "inicio": 22.6,
+          "fim": 22.68,
+          "texto": "que"
+        },
+        {
+          "inicio": 22.68,
+          "fim": 23.08,
+          "texto": "arrecadou."
+        }
+      ]
+    },
+    {
+      "inicio": 23.08,
+      "fim": 25.73,
+      "texto": "Educação, 2 bilhões e 690,",
+      "palavras": [
+        {
+          "inicio": 23.08,
+          "fim": 24.12,
+          "texto": "Educação,"
+        },
+        {
+          "inicio": 24.32,
+          "fim": 24.48,
+          "texto": "2"
+        },
+        {
+          "inicio": 24.48,
+          "fim": 24.84,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 24.84,
+          "fim": 24.98,
+          "texto": "e"
+        },
+        {
+          "inicio": 24.98,
+          "fim": 25.58,
+          "texto": "690,"
+        }
+      ]
+    },
+    {
+      "inicio": 26.06,
+      "fim": 27.31,
+      "texto": "saúde, 3 bilhões,",
+      "palavras": [
+        {
+          "inicio": 26.06,
+          "fim": 26.4,
+          "texto": "saúde,"
+        },
+        {
+          "inicio": 26.68,
+          "fim": 26.78,
+          "texto": "3"
+        },
+        {
+          "inicio": 26.78,
+          "fim": 27.16,
+          "texto": "bilhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 27.44,
+      "fim": 28.83,
+      "texto": "administração e previdência,",
+      "palavras": [
+        {
+          "inicio": 27.44,
+          "fim": 28.06,
+          "texto": "administração"
+        },
+        {
+          "inicio": 28.06,
+          "fim": 28.2,
+          "texto": "e"
+        },
+        {
+          "inicio": 28.2,
+          "fim": 28.68,
+          "texto": "previdência,"
+        }
+      ]
+    },
+    {
+      "inicio": 28.96,
+      "fim": 30.21,
+      "texto": "1 bilhão e 840,",
+      "palavras": [
+        {
+          "inicio": 28.96,
+          "fim": 29.02,
+          "texto": "1"
+        },
+        {
+          "inicio": 29.02,
+          "fim": 29.28,
+          "texto": "bilhão"
+        },
+        {
+          "inicio": 29.28,
+          "fim": 29.38,
+          "texto": "e"
+        },
+        {
+          "inicio": 29.38,
+          "fim": 30.06,
+          "texto": "840,"
+        }
+      ]
+    },
+    {
+      "inicio": 30.56,
+      "fim": 31.99,
+      "texto": "obras e serviços urbanos,",
+      "palavras": [
+        {
+          "inicio": 30.56,
+          "fim": 30.86,
+          "texto": "obras"
+        },
+        {
+          "inicio": 30.86,
+          "fim": 31.06,
+          "texto": "e"
+        },
+        {
+          "inicio": 31.06,
+          "fim": 31.38,
+          "texto": "serviços"
+        },
+        {
+          "inicio": 31.38,
+          "fim": 31.84,
+          "texto": "urbanos,"
+        }
+      ]
+    },
+    {
+      "inicio": 32.14,
+      "fim": 33.47,
+      "texto": "2 bilhões e 810,",
+      "palavras": [
+        {
+          "inicio": 32.14,
+          "fim": 32.32,
+          "texto": "2"
+        },
+        {
+          "inicio": 32.32,
+          "fim": 32.7,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 32.7,
+          "fim": 32.82,
+          "texto": "e"
+        },
+        {
+          "inicio": 32.82,
+          "fim": 33.32,
+          "texto": "810,"
+        }
+      ]
+    },
+    {
+      "inicio": 33.9,
+      "fim": 35.67,
+      "texto": "Câmara, 270 milhões,",
+      "palavras": [
+        {
+          "inicio": 33.9,
+          "fim": 34.22,
+          "texto": "Câmara,"
+        },
+        {
+          "inicio": 34.5,
+          "fim": 34.98,
+          "texto": "270"
+        },
+        {
+          "inicio": 34.98,
+          "fim": 35.52,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 36.1,
+      "fim": 37.99,
+      "texto": "dívidas, 660 milhões,",
+      "palavras": [
+        {
+          "inicio": 36.1,
+          "fim": 36.46,
+          "texto": "dívidas,"
+        },
+        {
+          "inicio": 36.76,
+          "fim": 37.36,
+          "texto": "660"
+        },
+        {
+          "inicio": 37.36,
+          "fim": 37.84,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 38.3,
+      "fim": 40.19,
+      "texto": "transporte, 309 milhões,",
+      "palavras": [
+        {
+          "inicio": 38.3,
+          "fim": 38.82,
+          "texto": "transporte,"
+        },
+        {
+          "inicio": 39.02,
+          "fim": 39.64,
+          "texto": "309"
+        },
+        {
+          "inicio": 39.64,
+          "fim": 40.04,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 40.7,
+      "fim": 41.87,
+      "texto": "festas e eventos,",
+      "palavras": [
+        {
+          "inicio": 40.7,
+          "fim": 41.22,
+          "texto": "festas"
+        },
+        {
+          "inicio": 41.22,
+          "fim": 41.34,
+          "texto": "e"
+        },
+        {
+          "inicio": 41.34,
+          "fim": 41.72,
+          "texto": "eventos,"
+        }
+      ]
+    },
+    {
+      "inicio": 42.08,
+      "fim": 44.49,
+      "texto": "220 milhões, cultura e turismo,",
+      "palavras": [
+        {
+          "inicio": 42.08,
+          "fim": 42.4,
+          "texto": "220"
+        },
+        {
+          "inicio": 42.4,
+          "fim": 43.06,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 43.44,
+          "fim": 43.78,
+          "texto": "cultura"
+        },
+        {
+          "inicio": 43.78,
+          "fim": 43.96,
+          "texto": "e"
+        },
+        {
+          "inicio": 43.96,
+          "fim": 44.34,
+          "texto": "turismo,"
+        }
+      ]
+    },
+    {
+      "inicio": 44.66,
+      "fim": 47.17,
+      "texto": "139 milhões, assistência social,",
+      "palavras": [
+        {
+          "inicio": 44.66,
+          "fim": 45.3,
+          "texto": "139"
+        },
+        {
+          "inicio": 45.3,
+          "fim": 45.7,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 45.7,
+          "fim": 46.58,
+          "texto": "assistência"
+        },
+        {
+          "inicio": 46.58,
+          "fim": 47.02,
+          "texto": "social,"
+        }
+      ]
+    },
+    {
+      "inicio": 47.28,
+      "fim": 49.49,
+      "texto": "307 milhões, meio ambiente,",
+      "palavras": [
+        {
+          "inicio": 47.28,
+          "fim": 48.06,
+          "texto": "307"
+        },
+        {
+          "inicio": 48.06,
+          "fim": 48.34,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 48.74,
+          "fim": 49.02,
+          "texto": "meio"
+        },
+        {
+          "inicio": 49.02,
+          "fim": 49.34,
+          "texto": "ambiente,"
+        }
+      ]
+    },
+    {
+      "inicio": 49.72,
+      "fim": 51.61,
+      "texto": "50 milhões, agricultura,",
+      "palavras": [
+        {
+          "inicio": 49.72,
+          "fim": 49.96,
+          "texto": "50"
+        },
+        {
+          "inicio": 49.96,
+          "fim": 50.44,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 50.84,
+          "fim": 51.46,
+          "texto": "agricultura,"
+        }
+      ]
+    },
+    {
+      "inicio": 51.86,
+      "fim": 54.09,
+      "texto": "457 mil, esporte,",
+      "palavras": [
+        {
+          "inicio": 51.86,
+          "fim": 53.02,
+          "texto": "457"
+        },
+        {
+          "inicio": 53.02,
+          "fim": 53.26,
+          "texto": "mil,"
+        },
+        {
+          "inicio": 53.62,
+          "fim": 53.94,
+          "texto": "esporte,"
+        }
+      ]
+    },
+    {
+      "inicio": 54.32,
+      "fim": 55.29,
+      "texto": "91 milhões.",
+      "palavras": [
+        {
+          "inicio": 54.32,
+          "fim": 54.76,
+          "texto": "91"
+        },
+        {
+          "inicio": 54.76,
+          "fim": 55.14,
+          "texto": "milhões."
+        }
+      ]
+    },
+    {
+      "inicio": 55.78,
+      "fim": 58.38,
+      "texto": "2025, arrecadou 12 bilhões e",
+      "palavras": [
+        {
+          "inicio": 55.78,
+          "fim": 56.32,
+          "texto": "2025,"
+        },
+        {
+          "inicio": 57.0,
+          "fim": 57.48,
+          "texto": "arrecadou"
+        },
+        {
+          "inicio": 57.48,
+          "fim": 57.8,
+          "texto": "12"
+        },
+        {
+          "inicio": 57.8,
+          "fim": 58.24,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 58.24,
+          "fim": 58.38,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 58.38,
+      "fim": 60.74,
+      "texto": "390, gastou 11 bilhões e",
+      "palavras": [
+        {
+          "inicio": 58.38,
+          "fim": 58.76,
+          "texto": "390,"
+        },
+        {
+          "inicio": 59.54,
+          "fim": 59.88,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 59.88,
+          "fim": 60.24,
+          "texto": "11"
+        },
+        {
+          "inicio": 60.24,
+          "fim": 60.64,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 60.64,
+          "fim": 60.74,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 60.74,
+      "fim": 63.73,
+      "texto": "900, sobraram 486 milhões,",
+      "palavras": [
+        {
+          "inicio": 60.74,
+          "fim": 60.9,
+          "texto": "900,"
+        },
+        {
+          "inicio": 61.62,
+          "fim": 62.06,
+          "texto": "sobraram"
+        },
+        {
+          "inicio": 62.06,
+          "fim": 63.34,
+          "texto": "486"
+        },
+        {
+          "inicio": 63.34,
+          "fim": 63.58,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 64.16,
+      "fim": 66.33,
+      "texto": "educação, 2 bilhões e 640,",
+      "palavras": [
+        {
+          "inicio": 64.16,
+          "fim": 64.58,
+          "texto": "educação,"
+        },
+        {
+          "inicio": 64.94,
+          "fim": 65.06,
+          "texto": "2"
+        },
+        {
+          "inicio": 65.06,
+          "fim": 65.42,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 65.42,
+          "fim": 65.56,
+          "texto": "e"
+        },
+        {
+          "inicio": 65.56,
+          "fim": 66.18,
+          "texto": "640,"
+        }
+      ]
+    },
+    {
+      "inicio": 66.66,
+      "fim": 68.41,
+      "texto": "saúde, 3 bilhões e 30,",
+      "palavras": [
+        {
+          "inicio": 66.66,
+          "fim": 67.0,
+          "texto": "saúde,"
+        },
+        {
+          "inicio": 67.44,
+          "fim": 67.56,
+          "texto": "3"
+        },
+        {
+          "inicio": 67.56,
+          "fim": 67.92,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 67.92,
+          "fim": 68.06,
+          "texto": "e"
+        },
+        {
+          "inicio": 68.06,
+          "fim": 68.26,
+          "texto": "30,"
+        }
+      ]
+    },
+    {
+      "inicio": 68.76,
+      "fim": 70.15,
+      "texto": "administração e previdência,",
+      "palavras": [
+        {
+          "inicio": 68.76,
+          "fim": 69.36,
+          "texto": "administração"
+        },
+        {
+          "inicio": 69.36,
+          "fim": 69.48,
+          "texto": "e"
+        },
+        {
+          "inicio": 69.48,
+          "fim": 70.0,
+          "texto": "previdência,"
+        }
+      ]
+    },
+    {
+      "inicio": 70.32,
+      "fim": 71.18,
+      "texto": "2 bilhões e 60,",
+      "palavras": [
+        {
+          "inicio": 70.32,
+          "fim": 70.46,
+          "texto": "2"
+        },
+        {
+          "inicio": 70.46,
+          "fim": 70.8,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 70.8,
+          "fim": 70.94,
+          "texto": "e"
+        },
+        {
+          "inicio": 70.94,
+          "fim": 71.18,
+          "texto": "60,"
+        }
+      ]
+    },
+    {
+      "inicio": 71.18,
+      "fim": 73.13,
+      "texto": "obras e serviços urbanos,",
+      "palavras": [
+        {
+          "inicio": 71.18,
+          "fim": 71.94,
+          "texto": "obras"
+        },
+        {
+          "inicio": 71.94,
+          "fim": 72.14,
+          "texto": "e"
+        },
+        {
+          "inicio": 72.14,
+          "fim": 72.48,
+          "texto": "serviços"
+        },
+        {
+          "inicio": 72.48,
+          "fim": 72.98,
+          "texto": "urbanos,"
+        }
+      ]
+    },
+    {
+      "inicio": 73.26,
+      "fim": 74.49,
+      "texto": "2 bilhões e 110,",
+      "palavras": [
+        {
+          "inicio": 73.26,
+          "fim": 73.46,
+          "texto": "2"
+        },
+        {
+          "inicio": 73.46,
+          "fim": 73.84,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 73.84,
+          "fim": 73.98,
+          "texto": "e"
+        },
+        {
+          "inicio": 73.98,
+          "fim": 74.34,
+          "texto": "110,"
+        }
+      ]
+    },
+    {
+      "inicio": 74.78,
+      "fim": 76.73,
+      "texto": "Câmara, 293 milhões,",
+      "palavras": [
+        {
+          "inicio": 74.78,
+          "fim": 75.14,
+          "texto": "Câmara,"
+        },
+        {
+          "inicio": 75.44,
+          "fim": 76.32,
+          "texto": "293"
+        },
+        {
+          "inicio": 76.32,
+          "fim": 76.58,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 77.02,
+      "fim": 79.29,
+      "texto": "dívidas, 839 milhões,",
+      "palavras": [
+        {
+          "inicio": 77.02,
+          "fim": 77.5,
+          "texto": "dívidas,"
+        },
+        {
+          "inicio": 77.78,
+          "fim": 78.6,
+          "texto": "839"
+        },
+        {
+          "inicio": 78.6,
+          "fim": 79.14,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 79.6,
+      "fim": 81.49,
+      "texto": "transporte, 204 milhões,",
+      "palavras": [
+        {
+          "inicio": 79.6,
+          "fim": 80.2,
+          "texto": "transporte,"
+        },
+        {
+          "inicio": 80.44,
+          "fim": 80.98,
+          "texto": "204"
+        },
+        {
+          "inicio": 80.98,
+          "fim": 81.34,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 81.84,
+      "fim": 82.81,
+      "texto": "festas e eventos,",
+      "palavras": [
+        {
+          "inicio": 81.84,
+          "fim": 82.16,
+          "texto": "festas"
+        },
+        {
+          "inicio": 82.16,
+          "fim": 82.26,
+          "texto": "e"
+        },
+        {
+          "inicio": 82.26,
+          "fim": 82.66,
+          "texto": "eventos,"
+        }
+      ]
+    },
+    {
+      "inicio": 82.98,
+      "fim": 85.31,
+      "texto": "159 milhões, cultura e turismo,",
+      "palavras": [
+        {
+          "inicio": 82.98,
+          "fim": 83.64,
+          "texto": "159"
+        },
+        {
+          "inicio": 83.64,
+          "fim": 84.04,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 84.4,
+          "fim": 84.7,
+          "texto": "cultura"
+        },
+        {
+          "inicio": 84.7,
+          "fim": 84.84,
+          "texto": "e"
+        },
+        {
+          "inicio": 84.84,
+          "fim": 85.16,
+          "texto": "turismo,"
+        }
+      ]
+    },
+    {
+      "inicio": 85.48,
+      "fim": 88.09,
+      "texto": "127 milhões, assistência social,",
+      "palavras": [
+        {
+          "inicio": 85.48,
+          "fim": 85.84,
+          "texto": "127"
+        },
+        {
+          "inicio": 85.84,
+          "fim": 86.44,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 87.24,
+          "fim": 87.62,
+          "texto": "assistência"
+        },
+        {
+          "inicio": 87.62,
+          "fim": 87.94,
+          "texto": "social,"
+        }
+      ]
+    },
+    {
+      "inicio": 88.36,
+      "fim": 90.39,
+      "texto": "309 milhões, meio ambiente,",
+      "palavras": [
+        {
+          "inicio": 88.36,
+          "fim": 88.92,
+          "texto": "309"
+        },
+        {
+          "inicio": 88.92,
+          "fim": 89.34,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 89.7,
+          "fim": 89.92,
+          "texto": "meio"
+        },
+        {
+          "inicio": 89.92,
+          "fim": 90.24,
+          "texto": "ambiente,"
+        }
+      ]
+    },
+    {
+      "inicio": 90.64,
+      "fim": 92.45,
+      "texto": "39 milhões, agricultura,",
+      "palavras": [
+        {
+          "inicio": 90.64,
+          "fim": 90.96,
+          "texto": "39"
+        },
+        {
+          "inicio": 90.96,
+          "fim": 91.48,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 91.84,
+          "fim": 92.3,
+          "texto": "agricultura,"
+        }
+      ]
+    },
+    {
+      "inicio": 92.56,
+      "fim": 94.17,
+      "texto": "86 mil, esporte,",
+      "palavras": [
+        {
+          "inicio": 92.56,
+          "fim": 92.96,
+          "texto": "86"
+        },
+        {
+          "inicio": 92.96,
+          "fim": 93.26,
+          "texto": "mil,"
+        },
+        {
+          "inicio": 93.7,
+          "fim": 94.02,
+          "texto": "esporte,"
+        }
+      ]
+    },
+    {
+      "inicio": 94.42,
+      "fim": 95.75,
+      "texto": "91 milhões e 500.",
+      "palavras": [
+        {
+          "inicio": 94.42,
+          "fim": 94.84,
+          "texto": "91"
+        },
+        {
+          "inicio": 94.84,
+          "fim": 95.1,
+          "texto": "milhões"
+        },
+        {
+          "inicio": 95.1,
+          "fim": 95.32,
+          "texto": "e"
+        },
+        {
+          "inicio": 95.32,
+          "fim": 95.6,
+          "texto": "500."
+        }
+      ]
+    },
+    {
+      "inicio": 96.3,
+      "fim": 98.01,
+      "texto": "2026 até setembro,",
+      "palavras": [
+        {
+          "inicio": 96.3,
+          "fim": 97.0,
+          "texto": "2026"
+        },
+        {
+          "inicio": 97.0,
+          "fim": 97.34,
+          "texto": "até"
+        },
+        {
+          "inicio": 97.34,
+          "fim": 97.86,
+          "texto": "setembro,"
+        }
+      ]
+    },
+    {
+      "inicio": 98.12,
+      "fim": 100.17,
+      "texto": "arrecadou 10 bilhões e 890,",
+      "palavras": [
+        {
+          "inicio": 98.12,
+          "fim": 98.58,
+          "texto": "arrecadou"
+        },
+        {
+          "inicio": 98.58,
+          "fim": 98.9,
+          "texto": "10"
+        },
+        {
+          "inicio": 98.9,
+          "fim": 99.28,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 99.28,
+          "fim": 99.38,
+          "texto": "e"
+        },
+        {
+          "inicio": 99.38,
+          "fim": 100.02,
+          "texto": "890,"
+        }
+      ]
+    },
+    {
+      "inicio": 100.6,
+      "fim": 102.71,
+      "texto": "gastou 9 bilhões e 880,",
+      "palavras": [
+        {
+          "inicio": 100.6,
+          "fim": 100.9,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 100.9,
+          "fim": 101.18,
+          "texto": "9"
+        },
+        {
+          "inicio": 101.18,
+          "fim": 101.6,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 101.6,
+          "fim": 101.74,
+          "texto": "e"
+        },
+        {
+          "inicio": 101.74,
+          "fim": 102.56,
+          "texto": "880,"
+        }
+      ]
+    },
+    {
+      "inicio": 103.04,
+      "fim": 104.89,
+      "texto": "educação, 2 bilhões e 160,",
+      "palavras": [
+        {
+          "inicio": 103.04,
+          "fim": 103.5,
+          "texto": "educação,"
+        },
+        {
+          "inicio": 103.8,
+          "fim": 103.9,
+          "texto": "2"
+        },
+        {
+          "inicio": 103.9,
+          "fim": 104.26,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 104.26,
+          "fim": 104.42,
+          "texto": "e"
+        },
+        {
+          "inicio": 104.42,
+          "fim": 104.74,
+          "texto": "160,"
+        }
+      ]
+    },
+    {
+      "inicio": 105.26,
+      "fim": 107.51,
+      "texto": "saúde, 2 bilhões e 440,",
+      "palavras": [
+        {
+          "inicio": 105.26,
+          "fim": 105.6,
+          "texto": "saúde,"
+        },
+        {
+          "inicio": 106.0,
+          "fim": 106.1,
+          "texto": "2"
+        },
+        {
+          "inicio": 106.1,
+          "fim": 106.52,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 106.52,
+          "fim": 106.64,
+          "texto": "e"
+        },
+        {
+          "inicio": 106.64,
+          "fim": 107.36,
+          "texto": "440,"
+        }
+      ]
+    },
+    {
+      "inicio": 107.92,
+      "fim": 109.37,
+      "texto": "administração e previdência,",
+      "palavras": [
+        {
+          "inicio": 107.92,
+          "fim": 108.5,
+          "texto": "administração"
+        },
+        {
+          "inicio": 108.5,
+          "fim": 108.66,
+          "texto": "e"
+        },
+        {
+          "inicio": 108.66,
+          "fim": 109.22,
+          "texto": "previdência,"
+        }
+      ]
+    },
+    {
+      "inicio": 109.52,
+      "fim": 110.61,
+      "texto": "1 bilhão e 720,",
+      "palavras": [
+        {
+          "inicio": 109.52,
+          "fim": 109.62,
+          "texto": "1"
+        },
+        {
+          "inicio": 109.62,
+          "fim": 109.9,
+          "texto": "bilhão"
+        },
+        {
+          "inicio": 109.9,
+          "fim": 110.04,
+          "texto": "e"
+        },
+        {
+          "inicio": 110.04,
+          "fim": 110.46,
+          "texto": "720,"
+        }
+      ]
+    },
+    {
+      "inicio": 111.26,
+      "fim": 112.59,
+      "texto": "obras e serviços urbanos,",
+      "palavras": [
+        {
+          "inicio": 111.26,
+          "fim": 111.42,
+          "texto": "obras"
+        },
+        {
+          "inicio": 111.42,
+          "fim": 111.6,
+          "texto": "e"
+        },
+        {
+          "inicio": 111.6,
+          "fim": 111.96,
+          "texto": "serviços"
+        },
+        {
+          "inicio": 111.96,
+          "fim": 112.44,
+          "texto": "urbanos,"
+        }
+      ]
+    },
+    {
+      "inicio": 112.7,
+      "fim": 113.59,
+      "texto": "1 bilhão e 700,",
+      "palavras": [
+        {
+          "inicio": 112.7,
+          "fim": 112.82,
+          "texto": "1"
+        },
+        {
+          "inicio": 112.82,
+          "fim": 113.04,
+          "texto": "bilhão"
+        },
+        {
+          "inicio": 113.04,
+          "fim": 113.14,
+          "texto": "e"
+        },
+        {
+          "inicio": 113.14,
+          "fim": 113.44,
+          "texto": "700,"
+        }
+      ]
+    },
+    {
+      "inicio": 114.02,
+      "fim": 115.65,
+      "texto": "Câmara, 227 milhões,",
+      "palavras": [
+        {
+          "inicio": 114.02,
+          "fim": 114.28,
+          "texto": "Câmara,"
+        },
+        {
+          "inicio": 114.52,
+          "fim": 115.3,
+          "texto": "227"
+        },
+        {
+          "inicio": 115.3,
+          "fim": 115.5,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 115.96,
+      "fim": 117.81,
+      "texto": "dívidas, 538 milhões,",
+      "palavras": [
+        {
+          "inicio": 115.96,
+          "fim": 116.34,
+          "texto": "dívidas,"
+        },
+        {
+          "inicio": 116.58,
+          "fim": 117.24,
+          "texto": "538"
+        },
+        {
+          "inicio": 117.24,
+          "fim": 117.66,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 118.18,
+      "fim": 120.04,
+      "texto": "transporte, 336 milhões,",
+      "palavras": [
+        {
+          "inicio": 118.18,
+          "fim": 118.74,
+          "texto": "transporte,"
+        },
+        {
+          "inicio": 118.96,
+          "fim": 119.6,
+          "texto": "336"
+        },
+        {
+          "inicio": 119.6,
+          "fim": 120.04,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 120.04,
+      "fim": 121.61,
+      "texto": "festas e eventos,",
+      "palavras": [
+        {
+          "inicio": 120.04,
+          "fim": 120.94,
+          "texto": "festas"
+        },
+        {
+          "inicio": 120.94,
+          "fim": 121.04,
+          "texto": "e"
+        },
+        {
+          "inicio": 121.04,
+          "fim": 121.46,
+          "texto": "eventos,"
+        }
+      ]
+    },
+    {
+      "inicio": 121.68,
+      "fim": 124.25,
+      "texto": "237 milhões, cultura e turismo,",
+      "palavras": [
+        {
+          "inicio": 121.68,
+          "fim": 122.64,
+          "texto": "237"
+        },
+        {
+          "inicio": 122.64,
+          "fim": 122.82,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 123.3,
+          "fim": 123.64,
+          "texto": "cultura"
+        },
+        {
+          "inicio": 123.64,
+          "fim": 123.78,
+          "texto": "e"
+        },
+        {
+          "inicio": 123.78,
+          "fim": 124.1,
+          "texto": "turismo,"
+        }
+      ]
+    },
+    {
+      "inicio": 124.38,
+      "fim": 126.73,
+      "texto": "94 milhões, assistência social,",
+      "palavras": [
+        {
+          "inicio": 124.38,
+          "fim": 124.84,
+          "texto": "94"
+        },
+        {
+          "inicio": 124.84,
+          "fim": 125.26,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 125.86,
+          "fim": 126.24,
+          "texto": "assistência"
+        },
+        {
+          "inicio": 126.24,
+          "fim": 126.58,
+          "texto": "social,"
+        }
+      ]
+    },
+    {
+      "inicio": 126.92,
+      "fim": 129.01,
+      "texto": "262 milhões, meio ambiente,",
+      "palavras": [
+        {
+          "inicio": 126.92,
+          "fim": 127.74,
+          "texto": "262"
+        },
+        {
+          "inicio": 127.74,
+          "fim": 128.1,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 128.5,
+          "fim": 128.64,
+          "texto": "meio"
+        },
+        {
+          "inicio": 128.64,
+          "fim": 128.86,
+          "texto": "ambiente,"
+        }
+      ]
+    },
+    {
+      "inicio": 129.3,
+      "fim": 131.21,
+      "texto": "37 milhões, agricultura,",
+      "palavras": [
+        {
+          "inicio": 129.3,
+          "fim": 129.68,
+          "texto": "37"
+        },
+        {
+          "inicio": 129.68,
+          "fim": 130.12,
+          "texto": "milhões,"
+        },
+        {
+          "inicio": 130.58,
+          "fim": 131.06,
+          "texto": "agricultura,"
+        }
+      ]
+    },
+    {
+      "inicio": 131.36,
+      "fim": 132.48,
+      "texto": "nada, a ação de hortas",
+      "palavras": [
+        {
+          "inicio": 131.36,
+          "fim": 131.56,
+          "texto": "nada,"
+        },
+        {
+          "inicio": 131.9,
+          "fim": 131.94,
+          "texto": "a"
+        },
+        {
+          "inicio": 131.94,
+          "fim": 132.14,
+          "texto": "ação"
+        },
+        {
+          "inicio": 132.14,
+          "fim": 132.28,
+          "texto": "de"
+        },
+        {
+          "inicio": 132.28,
+          "fim": 132.48,
+          "texto": "hortas"
+        }
+      ]
+    },
+    {
+      "inicio": 132.48,
+      "fim": 134.63,
+      "texto": "urbanas, previa 360 mil,",
+      "palavras": [
+        {
+          "inicio": 132.48,
+          "fim": 132.92,
+          "texto": "urbanas,"
+        },
+        {
+          "inicio": 133.2,
+          "fim": 133.42,
+          "texto": "previa"
+        },
+        {
+          "inicio": 133.42,
+          "fim": 133.88,
+          "texto": "360"
+        },
+        {
+          "inicio": 133.88,
+          "fim": 134.48,
+          "texto": "mil,"
+        }
+      ]
+    },
+    {
+      "inicio": 134.92,
+      "fim": 136.57,
+      "texto": "esporte, 129 milhões,",
+      "palavras": [
+        {
+          "inicio": 134.92,
+          "fim": 135.24,
+          "texto": "esporte,"
+        },
+        {
+          "inicio": 135.58,
+          "fim": 136.1,
+          "texto": "129"
+        },
+        {
+          "inicio": 136.1,
+          "fim": 136.42,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 137.04,
+      "fim": 138.0,
+      "texto": "a ação de eventos e",
+      "palavras": [
+        {
+          "inicio": 137.04,
+          "fim": 137.18,
+          "texto": "a"
+        },
+        {
+          "inicio": 137.18,
+          "fim": 137.42,
+          "texto": "ação"
+        },
+        {
+          "inicio": 137.42,
+          "fim": 137.56,
+          "texto": "de"
+        },
+        {
+          "inicio": 137.56,
+          "fim": 137.88,
+          "texto": "eventos"
+        },
+        {
+          "inicio": 137.88,
+          "fim": 138.0,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 138.0,
+      "fim": 138.89,
+      "texto": "festas dessa altura,",
+      "palavras": [
+        {
+          "inicio": 138.0,
+          "fim": 138.3,
+          "texto": "festas"
+        },
+        {
+          "inicio": 138.3,
+          "fim": 138.44,
+          "texto": "dessa"
+        },
+        {
+          "inicio": 138.44,
+          "fim": 138.74,
+          "texto": "altura,"
+        }
+      ]
+    },
+    {
+      "inicio": 138.94,
+      "fim": 140.54,
+      "texto": "previa 80 milhões em 2024",
+      "palavras": [
+        {
+          "inicio": 138.94,
+          "fim": 139.16,
+          "texto": "previa"
+        },
+        {
+          "inicio": 139.16,
+          "fim": 139.54,
+          "texto": "80"
+        },
+        {
+          "inicio": 139.54,
+          "fim": 139.86,
+          "texto": "milhões"
+        },
+        {
+          "inicio": 139.86,
+          "fim": 140.06,
+          "texto": "em"
+        },
+        {
+          "inicio": 140.06,
+          "fim": 140.54,
+          "texto": "2024"
+        }
+      ]
+    },
+    {
+      "inicio": 140.54,
+      "fim": 142.25,
+      "texto": "e gastou 219.",
+      "palavras": [
+        {
+          "inicio": 140.54,
+          "fim": 141.04,
+          "texto": "e"
+        },
+        {
+          "inicio": 141.04,
+          "fim": 141.34,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 141.34,
+          "fim": 142.1,
+          "texto": "219."
+        }
+      ]
+    },
+    {
+      "inicio": 142.86,
+      "fim": 145.42,
+      "texto": "Em 2025, previa 138 e",
+      "palavras": [
+        {
+          "inicio": 142.86,
+          "fim": 143.06,
+          "texto": "Em"
+        },
+        {
+          "inicio": 143.06,
+          "fim": 143.54,
+          "texto": "2025,"
+        },
+        {
+          "inicio": 144.16,
+          "fim": 144.42,
+          "texto": "previa"
+        },
+        {
+          "inicio": 144.42,
+          "fim": 145.24,
+          "texto": "138"
+        },
+        {
+          "inicio": 145.24,
+          "fim": 145.42,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 145.42,
+      "fim": 147.76,
+      "texto": "gastou 158, em 2026,",
+      "palavras": [
+        {
+          "inicio": 145.42,
+          "fim": 145.68,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 145.68,
+          "fim": 146.54,
+          "texto": "158,"
+        },
+        {
+          "inicio": 146.92,
+          "fim": 147.06,
+          "texto": "em"
+        },
+        {
+          "inicio": 147.06,
+          "fim": 147.76,
+          "texto": "2026,"
+        }
+      ]
+    },
+    {
+      "inicio": 147.76,
+      "fim": 149.31,
+      "texto": "previa 143.",
+      "palavras": [
+        {
+          "inicio": 147.76,
+          "fim": 148.28,
+          "texto": "previa"
+        },
+        {
+          "inicio": 148.28,
+          "fim": 149.16,
+          "texto": "143."
+        }
+      ]
+    },
+    {
+      "inicio": 149.54,
+      "fim": 152.13,
+      "texto": "Até setembro, já foram 233.",
+      "palavras": [
+        {
+          "inicio": 149.54,
+          "fim": 149.84,
+          "texto": "Até"
+        },
+        {
+          "inicio": 149.84,
+          "fim": 150.4,
+          "texto": "setembro,"
+        },
+        {
+          "inicio": 150.52,
+          "fim": 150.68,
+          "texto": "já"
+        },
+        {
+          "inicio": 150.68,
+          "fim": 150.92,
+          "texto": "foram"
+        },
+        {
+          "inicio": 150.92,
+          "fim": 151.98,
+          "texto": "233."
+        }
+      ]
+    },
+    {
+      "inicio": 152.44,
+      "fim": 154.06,
+      "texto": "A publicidade da prefeitura previa",
+      "palavras": [
+        {
+          "inicio": 152.44,
+          "fim": 152.54,
+          "texto": "A"
+        },
+        {
+          "inicio": 152.54,
+          "fim": 153.02,
+          "texto": "publicidade"
+        },
+        {
+          "inicio": 153.02,
+          "fim": 153.18,
+          "texto": "da"
+        },
+        {
+          "inicio": 153.18,
+          "fim": 153.7,
+          "texto": "prefeitura"
+        },
+        {
+          "inicio": 153.7,
+          "fim": 154.06,
+          "texto": "previa"
+        }
+      ]
+    },
+    {
+      "inicio": 154.06,
+      "fim": 156.1,
+      "texto": "52 milhões para 2026 e",
+      "palavras": [
+        {
+          "inicio": 154.06,
+          "fim": 154.5,
+          "texto": "52"
+        },
+        {
+          "inicio": 154.5,
+          "fim": 154.88,
+          "texto": "milhões"
+        },
+        {
+          "inicio": 154.88,
+          "fim": 155.14,
+          "texto": "para"
+        },
+        {
+          "inicio": 155.14,
+          "fim": 155.9,
+          "texto": "2026"
+        },
+        {
+          "inicio": 155.9,
+          "fim": 156.1,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 156.1,
+      "fim": 157.19,
+      "texto": "já gastou 94.",
+      "palavras": [
+        {
+          "inicio": 156.1,
+          "fim": 156.2,
+          "texto": "já"
+        },
+        {
+          "inicio": 156.2,
+          "fim": 156.5,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 156.5,
+          "fim": 157.04,
+          "texto": "94."
+        }
+      ]
+    },
+    {
+      "inicio": 157.56,
+      "fim": 158.57,
+      "texto": "Gastar não é crime.",
+      "palavras": [
+        {
+          "inicio": 157.56,
+          "fim": 157.94,
+          "texto": "Gastar"
+        },
+        {
+          "inicio": 157.94,
+          "fim": 158.08,
+          "texto": "não"
+        },
+        {
+          "inicio": 158.08,
+          "fim": 158.18,
+          "texto": "é"
+        },
+        {
+          "inicio": 158.18,
+          "fim": 158.42,
+          "texto": "crime."
+        }
+      ]
+    },
+    {
+      "inicio": 158.74,
+      "fim": 159.84,
+      "texto": "Mas se a alimentação escolar",
+      "palavras": [
+        {
+          "inicio": 158.74,
+          "fim": 158.88,
+          "texto": "Mas"
+        },
+        {
+          "inicio": 158.88,
+          "fim": 159.04,
+          "texto": "se"
+        },
+        {
+          "inicio": 159.04,
+          "fim": 159.1,
+          "texto": "a"
+        },
+        {
+          "inicio": 159.1,
+          "fim": 159.5,
+          "texto": "alimentação"
+        },
+        {
+          "inicio": 159.5,
+          "fim": 159.84,
+          "texto": "escolar"
+        }
+      ]
+    },
+    {
+      "inicio": 159.84,
+      "fim": 161.08,
+      "texto": "ficou em 97 milhões até",
+      "palavras": [
+        {
+          "inicio": 159.84,
+          "fim": 160.04,
+          "texto": "ficou"
+        },
+        {
+          "inicio": 160.04,
+          "fim": 160.16,
+          "texto": "em"
+        },
+        {
+          "inicio": 160.16,
+          "fim": 160.6,
+          "texto": "97"
+        },
+        {
+          "inicio": 160.6,
+          "fim": 160.86,
+          "texto": "milhões"
+        },
+        {
+          "inicio": 160.86,
+          "fim": 161.08,
+          "texto": "até"
+        }
+      ]
+    },
+    {
+      "inicio": 161.08,
+      "fim": 162.5,
+      "texto": "setembro, por que os eventos",
+      "palavras": [
+        {
+          "inicio": 161.08,
+          "fim": 161.58,
+          "texto": "setembro,"
+        },
+        {
+          "inicio": 161.76,
+          "fim": 161.96,
+          "texto": "por"
+        },
+        {
+          "inicio": 161.96,
+          "fim": 162.04,
+          "texto": "que"
+        },
+        {
+          "inicio": 162.04,
+          "fim": 162.14,
+          "texto": "os"
+        },
+        {
+          "inicio": 162.14,
+          "fim": 162.5,
+          "texto": "eventos"
+        }
+      ]
+    },
+    {
+      "inicio": 162.5,
+      "fim": 163.97,
+      "texto": "já levaram 233?",
+      "palavras": [
+        {
+          "inicio": 162.5,
+          "fim": 162.58,
+          "texto": "já"
+        },
+        {
+          "inicio": 162.58,
+          "fim": 162.92,
+          "texto": "levaram"
+        },
+        {
+          "inicio": 162.92,
+          "fim": 163.82,
+          "texto": "233?"
+        }
+      ]
+    },
+    {
+      "inicio": 164.22,
+      "fim": 165.06,
+      "texto": "Segue o Arroba e o",
+      "palavras": [
+        {
+          "inicio": 164.22,
+          "fim": 164.52,
+          "texto": "Segue"
+        },
+        {
+          "inicio": 164.52,
+          "fim": 164.62,
+          "texto": "o"
+        },
+        {
+          "inicio": 164.62,
+          "fim": 164.92,
+          "texto": "Arroba"
+        },
+        {
+          "inicio": 164.92,
+          "fim": 165.02,
+          "texto": "e"
+        },
+        {
+          "inicio": 165.02,
+          "fim": 165.06,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 165.06,
+      "fim": 166.49,
+      "texto": "Magno Leite para mais informações.",
+      "palavras": [
+        {
+          "inicio": 165.06,
+          "fim": 165.36,
+          "texto": "Magno"
+        },
+        {
+          "inicio": 165.36,
+          "fim": 165.6,
+          "texto": "Leite"
+        },
+        {
+          "inicio": 165.6,
+          "fim": 165.78,
+          "texto": "para"
+        },
+        {
+          "inicio": 165.78,
+          "fim": 165.98,
+          "texto": "mais"
+        },
+        {
+          "inicio": 165.98,
+          "fim": 166.34,
+          "texto": "informações."
+        }
+      ]
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "",
+      "peca": "mapa",
+      "dados": {
+        "uf": "BA",
+        "municipio": "Salvador"
+      },
+      "inicio": 0.0,
+      "fim": 15.12
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Educação",
+            "rotulo": "R$ 2,69 BI",
+            "valor": 2691768316.85,
+            "tipo": "escola",
+            "t": 23.08
+          },
+          {
+            "nome": "Saúde",
+            "rotulo": "R$ 3,00 BI",
+            "valor": 3001710668.07,
+            "tipo": "hospital",
+            "t": 25.98
+          },
+          {
+            "nome": "Administração e previdência",
+            "rotulo": "R$ 1,84 BI",
+            "valor": 1836049107.99,
+            "tipo": "predio",
+            "t": 27.4
+          }
+        ],
+        "ano": "2024",
+        "cor": "dourado",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2024: R$ 12,20 BI"
+      },
+      "inicio": 15.12,
+      "fim": 30.61
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Obras e serviços urbanos",
+            "rotulo": "R$ 2,81 BI",
+            "valor": 2813268903.19,
+            "tipo": "rua",
+            "t": 30.71
+          },
+          {
+            "nome": "Câmara de Vereadores",
+            "rotulo": "R$ 270 MI",
+            "valor": 270068462.35,
+            "tipo": "predio",
+            "t": 33.82
+          },
+          {
+            "nome": "Dívidas e encargos",
+            "rotulo": "R$ 660 MI",
+            "valor": 659532940.1,
+            "tipo": "predio",
+            "t": 36.12
+          }
+        ],
+        "ano": "2024",
+        "cor": "dourado",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2024: R$ 12,20 BI"
+      },
+      "inicio": 30.61,
+      "fim": 38.24
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Transporte e mobilidade",
+            "rotulo": "R$ 309 MI",
+            "valor": 308600890.08,
+            "tipo": "rua",
+            "t": 38.34
+          },
+          {
+            "nome": "Festas e eventos",
+            "rotulo": "R$ 220 MI",
+            "valor": 219867311.19,
+            "tipo": "casa",
+            "t": 40.6
+          },
+          {
+            "nome": "Cultura e turismo",
+            "rotulo": "R$ 139 MI",
+            "valor": 138798869.34,
+            "tipo": "predio",
+            "t": 43.46
+          },
+          {
+            "nome": "Assistência social",
+            "rotulo": "R$ 307 MI",
+            "valor": 306997042.66,
+            "tipo": "casa",
+            "t": 46.22
+          }
+        ],
+        "ano": "2024",
+        "cor": "dourado",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2024: R$ 12,20 BI"
+      },
+      "inicio": 38.24,
+      "fim": 48.58
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Meio ambiente",
+            "rotulo": "R$ 50 MI",
+            "valor": 49972792.27,
+            "tipo": "campo",
+            "t": 48.68
+          },
+          {
+            "nome": "Agricultura",
+            "rotulo": "R$ 457 MIL",
+            "valor": 457110.0,
+            "tipo": "campo",
+            "t": 50.84
+          },
+          {
+            "nome": "Esporte e lazer",
+            "rotulo": "R$ 91,2 MI",
+            "valor": 91183546.47,
+            "tipo": "campo",
+            "t": 53.62
+          }
+        ],
+        "ano": "2024",
+        "cor": "dourado",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2024: R$ 12,20 BI"
+      },
+      "inicio": 48.58,
+      "fim": 55.56
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Educação",
+            "rotulo": "R$ 2,64 BI",
+            "valor": 2642934577.05,
+            "tipo": "escola",
+            "t": 64.12,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 2,69 BI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Saúde",
+            "rotulo": "R$ 3,03 BI",
+            "valor": 3031009263.21,
+            "tipo": "hospital",
+            "t": 66.78,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 3,00 BI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Administração e previdência",
+            "rotulo": "R$ 2,06 BI",
+            "valor": 2058221491.63,
+            "tipo": "predio",
+            "t": 68.76,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 1,84 BI",
+                "cor": "dourado"
+              }
+            ]
+          }
+        ],
+        "ano": "2025",
+        "cor": "verde",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2025: R$ 12,39 BI"
+      },
+      "inicio": 55.56,
+      "fim": 71.12
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Obras e serviços urbanos",
+            "rotulo": "R$ 2,11 BI",
+            "valor": 2106445116.37,
+            "tipo": "rua",
+            "t": 71.22,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 2,81 BI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Câmara de Vereadores",
+            "rotulo": "R$ 293 MI",
+            "valor": 292704874.22,
+            "tipo": "predio",
+            "t": 74.78,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 270 MI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Dívidas e encargos",
+            "rotulo": "R$ 839 MI",
+            "valor": 839113896.65,
+            "tipo": "predio",
+            "t": 77.02,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 660 MI",
+                "cor": "dourado"
+              }
+            ]
+          }
+        ],
+        "ano": "2025",
+        "cor": "verde",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2025: R$ 12,39 BI"
+      },
+      "inicio": 71.12,
+      "fim": 79.48
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Transporte e mobilidade",
+            "rotulo": "R$ 204 MI",
+            "valor": 203534196.04,
+            "tipo": "rua",
+            "t": 79.58,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 309 MI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Festas e eventos",
+            "rotulo": "R$ 159 MI",
+            "valor": 158544959.36,
+            "tipo": "casa",
+            "t": 81.84,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 220 MI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Cultura e turismo",
+            "rotulo": "R$ 127 MI",
+            "valor": 127170067.01,
+            "tipo": "predio",
+            "t": 84.42,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 139 MI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Assistência social",
+            "rotulo": "R$ 309 MI",
+            "valor": 308959903.36,
+            "tipo": "casa",
+            "t": 87.26,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 307 MI",
+                "cor": "dourado"
+              }
+            ]
+          }
+        ],
+        "ano": "2025",
+        "cor": "verde",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2025: R$ 12,39 BI"
+      },
+      "inicio": 79.48,
+      "fim": 89.58
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Meio ambiente",
+            "rotulo": "R$ 38,8 MI",
+            "valor": 38815827.55,
+            "tipo": "campo",
+            "t": 89.68,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 50 MI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Agricultura",
+            "rotulo": "R$ 86 MIL",
+            "valor": 85760.0,
+            "tipo": "campo",
+            "t": 91.8,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 457 MIL",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Esporte e lazer",
+            "rotulo": "R$ 91,5 MI",
+            "valor": 91497566.3,
+            "tipo": "campo",
+            "t": 93.68,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 91,2 MI",
+                "cor": "dourado"
+              }
+            ]
+          }
+        ],
+        "ano": "2025",
+        "cor": "verde",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2025: R$ 12,39 BI"
+      },
+      "inicio": 89.58,
+      "fim": 96.22
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Educação",
+            "rotulo": "R$ 2,16 BI",
+            "valor": 2163025633.39,
+            "tipo": "escola",
+            "t": 102.2,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 2,69 BI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 2,64 BI",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Saúde",
+            "rotulo": "R$ 2,44 BI",
+            "valor": 2436698686.31,
+            "tipo": "hospital",
+            "t": 105.22,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 3,00 BI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 3,03 BI",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Administração e previdência",
+            "rotulo": "R$ 1,72 BI",
+            "valor": 1719453937.01,
+            "tipo": "predio",
+            "t": 107.8,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 1,84 BI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 2,06 BI",
+                "cor": "verde"
+              }
+            ]
+          }
+        ],
+        "ano": "2026 · A",
+        "cor": "rosa",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2026 ATÉ SETEMBRO: R$ 10,89 BI"
+      },
+      "inicio": 96.22,
+      "fim": 111.14
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Obras e serviços urbanos",
+            "rotulo": "R$ 1,70 BI",
+            "valor": 1701601674.48,
+            "tipo": "rua",
+            "t": 111.24,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 2,81 BI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 2,11 BI",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Câmara de Vereadores",
+            "rotulo": "R$ 227 MI",
+            "valor": 226532039.91,
+            "tipo": "predio",
+            "t": 113.98,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 270 MI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 293 MI",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Dívidas e encargos",
+            "rotulo": "R$ 538 MI",
+            "valor": 538004930.7,
+            "tipo": "predio",
+            "t": 115.96,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 660 MI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 839 MI",
+                "cor": "verde"
+              }
+            ]
+          }
+        ],
+        "ano": "2026 · A",
+        "cor": "rosa",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2026 ATÉ SETEMBRO: R$ 10,89 BI"
+      },
+      "inicio": 111.14,
+      "fim": 117.96
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Transporte e mobilidade",
+            "rotulo": "R$ 336 MI",
+            "valor": 336390071.56,
+            "tipo": "rua",
+            "t": 118.06,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 309 MI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 204 MI",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Festas e eventos",
+            "rotulo": "R$ 237 MI",
+            "valor": 237347758.12,
+            "tipo": "casa",
+            "t": 120.64,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 220 MI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 159 MI",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Cultura e turismo",
+            "rotulo": "R$ 93,6 MI",
+            "valor": 93629180.49,
+            "tipo": "predio",
+            "t": 123.34,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 139 MI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 127 MI",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Assistência social",
+            "rotulo": "R$ 262 MI",
+            "valor": 261907876.87,
+            "tipo": "casa",
+            "t": 125.78,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 307 MI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 309 MI",
+                "cor": "verde"
+              }
+            ]
+          }
+        ],
+        "ano": "2026 · A",
+        "cor": "rosa",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2026 ATÉ SETEMBRO: R$ 10,89 BI"
+      },
+      "inicio": 117.96,
+      "fim": 128.4
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Meio ambiente",
+            "rotulo": "R$ 37,3 MI",
+            "valor": 37324980.83,
+            "tipo": "campo",
+            "t": 128.5,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 50 MI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 38,8 MI",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Agricultura",
+            "rotulo": "R$ 0",
+            "valor": 0.0,
+            "tipo": "campo",
+            "zerado": true,
+            "t": 130.58,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 457 MIL",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 86 MIL",
+                "cor": "verde"
+              }
+            ]
+          },
+          {
+            "nome": "Esporte e lazer",
+            "rotulo": "R$ 129 MI",
+            "valor": 128538644.62,
+            "tipo": "campo",
+            "t": 134.84,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 91,2 MI",
+                "cor": "dourado"
+              },
+              {
+                "ano": "2025",
+                "rotulo": "R$ 91,5 MI",
+                "cor": "verde"
+              }
+            ]
+          }
+        ],
+        "ano": "2026 · A",
+        "cor": "rosa",
+        "pilha_mi": 200.0,
+        "titulo": "ARRECADOU EM 2026 ATÉ SETEMBRO: R$ 10,89 BI"
+      },
+      "inicio": 128.4,
+      "fim": 136.96
+    },
+    {
+      "titulo": "EVENTOS DA SALTUR: PREVIA x GASTOU",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          79.99,
+          219.17,
+          138.05,
+          158.24,
+          143.44,
+          233.17
+        ]
+      },
+      "inicio": 136.96,
+      "fim": 152.4
+    },
+    {
+      "titulo": "PUBLICIDADE: PREVIA x GASTOU (2026)",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          52.1,
+          93.81
+        ]
+      },
+      "inicio": 152.4,
+      "fim": 157.58
+    },
+    {
+      "titulo": "ALIMENTAÇÃO ESCOLAR x EVENTOS (2026)",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          97.28,
+          233.17
+        ]
+      },
+      "inicio": 157.58,
+      "fim": 164.22
+    },
+    {
+      "titulo": "",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "inicio": 164.22,
+      "fim": 167.79
+    }
+  ],
+  "audio": "audio/1000-150-salvador-2o-render.wav"
+}

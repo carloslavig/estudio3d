@@ -1,0 +1,103 @@
+{
+  "titulo": "Teste Xandão: Santa Cruz Cabrália",
+  "estilo": "padrao",
+  "legenda": [
+    {
+      "inicio": 0.0,
+      "fim": 2.62,
+      "texto": "Santa Cruz Cabralha gastou 211"
+    },
+    {
+      "inicio": 2.62,
+      "fim": 4.31,
+      "texto": "milhões em 2025."
+    },
+    {
+      "inicio": 5.04,
+      "fim": 6.14,
+      "texto": "Eu abri as contas que"
+    },
+    {
+      "inicio": 6.14,
+      "fim": 7.52,
+      "texto": "a Prefeitura mandou ao Tribunal"
+    },
+    {
+      "inicio": 7.52,
+      "fim": 8.31,
+      "texto": "de Contas."
+    },
+    {
+      "inicio": 8.82,
+      "fim": 9.69,
+      "texto": "2024."
+    },
+    {
+      "inicio": 10.6,
+      "fim": 13.54,
+      "texto": "A Prefeitura arrecadou 189 milhões"
+    },
+    {
+      "inicio": 13.54,
+      "fim": 14.15,
+      "texto": "e 500."
+    },
+    {
+      "inicio": 14.68,
+      "fim": 16.85,
+      "texto": "Gastou 190 e 300."
+    },
+    {
+      "inicio": 17.42,
+      "fim": 19.51,
+      "texto": "Quase 800 mil a mais."
+    },
+    {
+      "inicio": 20.14,
+      "fim": 23.07,
+      "texto": "Educação, 95 milhões e 600."
+    },
+    {
+      "inicio": 23.68,
+      "fim": 25.41,
+      "texto": "Saúde, 30 e 800."
+    },
+    {
+      "inicio": 26.16,
+      "fim": 28.61,
+      "texto": "Administração, 23 e 700."
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "Teste de render",
+      "peca": "globo",
+      "dados": {},
+      "inicio": 0.0,
+      "fim": 8.82
+    },
+    {
+      "titulo": "Barras de teste",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          3.0,
+          5.0,
+          4.0
+        ]
+      },
+      "inicio": 8.82,
+      "fim": 20.14
+    },
+    {
+      "titulo": "Pilha de teste",
+      "peca": "pilha",
+      "dados": {
+        "itens": 3
+      },
+      "inicio": 20.14,
+      "fim": 29.11
+    }
+  ],
+  "audio": "audio/005-teste-xandao-santa-cruz-cabralia.wav"
+}

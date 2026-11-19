@@ -22,7 +22,8 @@ mkdirSync(saida, { recursive: true });
 const quadro = args.includes("--quadro");
 const seg = Number((args.find((a) => a.startsWith("--segundo=")) ?? "--segundo=2").split("=")[1]);
 const npx = process.platform === "win32" ? "npx.cmd" : "npx";
-const comum = ["--props=" + roteiro];
+// angle = WebGL pela placa de video: ~30% mais rapido que o padrao (medido 13/11: 139 s -> 95 s num video de 38 s). ESTUDIO_GL=swangle volta ao software.
+const comum = ["--props=" + roteiro, "--gl=" + (process.env.ESTUDIO_GL || "angle")];
 const cmd = quadro
   ? ["remotion", "still", "src/index.ts", "Estudio", resolve(saida, `quadro-${seg}.png`), `--frame=${Math.round(seg * 30)}`, ...comum]
   : ["remotion", "render", "src/index.ts", "Estudio", resolve(saida, "video.mp4"), "--codec=h264", "--crf=18", ...comum];

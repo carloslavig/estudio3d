@@ -1,0 +1,683 @@
+{
+  "titulo": "Orion, o Caçador do Céu",
+  "estilo": "padrao",
+  "legenda": [
+    {
+      "inicio": 0.16,
+      "fim": 1.84,
+      "texto": "Você já se perguntou por",
+      "palavras": [
+        {
+          "inicio": 0.16,
+          "fim": 0.4,
+          "texto": "Você"
+        },
+        {
+          "inicio": 0.4,
+          "fim": 0.6,
+          "texto": "já"
+        },
+        {
+          "inicio": 0.6,
+          "fim": 0.82,
+          "texto": "se"
+        },
+        {
+          "inicio": 0.82,
+          "fim": 1.44,
+          "texto": "perguntou"
+        },
+        {
+          "inicio": 1.44,
+          "fim": 1.84,
+          "texto": "por"
+        }
+      ]
+    },
+    {
+      "inicio": 1.84,
+      "fim": 3.26,
+      "texto": "que Órion é uma das",
+      "palavras": [
+        {
+          "inicio": 1.84,
+          "fim": 2,
+          "texto": "que"
+        },
+        {
+          "inicio": 2,
+          "fim": 2.56,
+          "texto": "Órion"
+        },
+        {
+          "inicio": 2.56,
+          "fim": 2.88,
+          "texto": "é"
+        },
+        {
+          "inicio": 2.88,
+          "fim": 3.1,
+          "texto": "uma"
+        },
+        {
+          "inicio": 3.1,
+          "fim": 3.26,
+          "texto": "das"
+        }
+      ]
+    },
+    {
+      "inicio": 3.26,
+      "fim": 5.57,
+      "texto": "constelações mais icônicas?",
+      "palavras": [
+        {
+          "inicio": 3.26,
+          "fim": 4.08,
+          "texto": "constelações"
+        },
+        {
+          "inicio": 4.08,
+          "fim": 4.42,
+          "texto": "mais"
+        },
+        {
+          "inicio": 4.42,
+          "fim": 5.42,
+          "texto": "icônicas?"
+        }
+      ]
+    },
+    {
+      "inicio": 6.18,
+      "fim": 8.78,
+      "texto": "Ele brilha com estrelas marcantes,",
+      "palavras": [
+        {
+          "inicio": 6.18,
+          "fim": 6.36,
+          "texto": "Ele"
+        },
+        {
+          "inicio": 6.36,
+          "fim": 6.82,
+          "texto": "brilha"
+        },
+        {
+          "inicio": 6.82,
+          "fim": 7.04,
+          "texto": "com"
+        },
+        {
+          "inicio": 7.04,
+          "fim": 7.58,
+          "texto": "estrelas"
+        },
+        {
+          "inicio": 7.58,
+          "fim": 8.78,
+          "texto": "marcantes,"
+        }
+      ]
+    },
+    {
+      "inicio": 8.78,
+      "fim": 12.34,
+      "texto": "Betelgeuse, uma supergigante vermelha,",
+      "palavras": [
+        {
+          "inicio": 8.78,
+          "fim": 9.92,
+          "texto": "Betelgeuse,"
+        },
+        {
+          "inicio": 9.92,
+          "fim": 10.12,
+          "texto": "uma"
+        },
+        {
+          "inicio": 10.12,
+          "fim": 11.04,
+          "texto": "supergigante"
+        },
+        {
+          "inicio": 11.04,
+          "fim": 12.2,
+          "texto": "vermelha,"
+        }
+      ]
+    },
+    {
+      "inicio": 12.34,
+      "fim": 15.72,
+      "texto": "Rígel, uma supergigante azul-branca e",
+      "palavras": [
+        {
+          "inicio": 12.34,
+          "fim": 13.06,
+          "texto": "Rígel,"
+        },
+        {
+          "inicio": 13.06,
+          "fim": 13.28,
+          "texto": "uma"
+        },
+        {
+          "inicio": 13.28,
+          "fim": 14.22,
+          "texto": "supergigante"
+        },
+        {
+          "inicio": 14.22,
+          "fim": 14.98,
+          "texto": "azul-branca"
+        },
+        {
+          "inicio": 14.98,
+          "fim": 15.72,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 15.72,
+      "fim": 17.64,
+      "texto": "o cinturão de três estrelas",
+      "palavras": [
+        {
+          "inicio": 15.72,
+          "fim": 15.9,
+          "texto": "o"
+        },
+        {
+          "inicio": 15.9,
+          "fim": 16.4,
+          "texto": "cinturão"
+        },
+        {
+          "inicio": 16.4,
+          "fim": 16.62,
+          "texto": "de"
+        },
+        {
+          "inicio": 16.62,
+          "fim": 16.96,
+          "texto": "três"
+        },
+        {
+          "inicio": 16.96,
+          "fim": 17.64,
+          "texto": "estrelas"
+        }
+      ]
+    },
+    {
+      "inicio": 17.64,
+      "fim": 18.45,
+      "texto": "luminosas.",
+      "palavras": [
+        {
+          "inicio": 17.64,
+          "fim": 18.3,
+          "texto": "luminosas."
+        }
+      ]
+    },
+    {
+      "inicio": 19.36,
+      "fim": 21.28,
+      "texto": "Na prática, Órion está a",
+      "palavras": [
+        {
+          "inicio": 19.36,
+          "fim": 19.52,
+          "texto": "Na"
+        },
+        {
+          "inicio": 19.52,
+          "fim": 20.44,
+          "texto": "prática,"
+        },
+        {
+          "inicio": 20.44,
+          "fim": 20.78,
+          "texto": "Órion"
+        },
+        {
+          "inicio": 20.78,
+          "fim": 21.14,
+          "texto": "está"
+        },
+        {
+          "inicio": 21.14,
+          "fim": 21.28,
+          "texto": "a"
+        }
+      ]
+    },
+    {
+      "inicio": 21.28,
+      "fim": 23.34,
+      "texto": "cerca de 500 anos-luz da",
+      "palavras": [
+        {
+          "inicio": 21.28,
+          "fim": 21.58,
+          "texto": "cerca"
+        },
+        {
+          "inicio": 21.58,
+          "fim": 21.86,
+          "texto": "de"
+        },
+        {
+          "inicio": 21.86,
+          "fim": 22.28,
+          "texto": "500"
+        },
+        {
+          "inicio": 22.28,
+          "fim": 23.16,
+          "texto": "anos-luz"
+        },
+        {
+          "inicio": 23.16,
+          "fim": 23.34,
+          "texto": "da"
+        }
+      ]
+    },
+    {
+      "inicio": 23.34,
+      "fim": 25.46,
+      "texto": "Terra, tornando-se um marco de",
+      "palavras": [
+        {
+          "inicio": 23.34,
+          "fim": 24.14,
+          "texto": "Terra,"
+        },
+        {
+          "inicio": 24.12,
+          "fim": 24.76,
+          "texto": "tornando-se"
+        },
+        {
+          "inicio": 24.76,
+          "fim": 24.92,
+          "texto": "um"
+        },
+        {
+          "inicio": 24.92,
+          "fim": 25.28,
+          "texto": "marco"
+        },
+        {
+          "inicio": 25.28,
+          "fim": 25.46,
+          "texto": "de"
+        }
+      ]
+    },
+    {
+      "inicio": 25.46,
+      "fim": 27.63,
+      "texto": "referência para astrônomos.",
+      "palavras": [
+        {
+          "inicio": 25.46,
+          "fim": 26.06,
+          "texto": "referência"
+        },
+        {
+          "inicio": 26.06,
+          "fim": 26.32,
+          "texto": "para"
+        },
+        {
+          "inicio": 26.32,
+          "fim": 27.48,
+          "texto": "astrônomos."
+        }
+      ]
+    },
+    {
+      "inicio": 27.92,
+      "fim": 30.1,
+      "texto": "Suas estrelas são visíveis principalmente",
+      "palavras": [
+        {
+          "inicio": 27.92,
+          "fim": 28.24,
+          "texto": "Suas"
+        },
+        {
+          "inicio": 28.24,
+          "fim": 28.72,
+          "texto": "estrelas"
+        },
+        {
+          "inicio": 28.72,
+          "fim": 28.9,
+          "texto": "são"
+        },
+        {
+          "inicio": 28.9,
+          "fim": 29.44,
+          "texto": "visíveis"
+        },
+        {
+          "inicio": 29.44,
+          "fim": 30.1,
+          "texto": "principalmente"
+        }
+      ]
+    },
+    {
+      "inicio": 30.1,
+      "fim": 32.32,
+      "texto": "durante o inverno no hemisfério",
+      "palavras": [
+        {
+          "inicio": 30.1,
+          "fim": 30.8,
+          "texto": "durante"
+        },
+        {
+          "inicio": 30.8,
+          "fim": 31.08,
+          "texto": "o"
+        },
+        {
+          "inicio": 31.08,
+          "fim": 31.68,
+          "texto": "inverno"
+        },
+        {
+          "inicio": 31.68,
+          "fim": 31.84,
+          "texto": "no"
+        },
+        {
+          "inicio": 31.84,
+          "fim": 32.32,
+          "texto": "hemisfério"
+        }
+      ]
+    },
+    {
+      "inicio": 32.32,
+      "fim": 33.01,
+      "texto": "norte.",
+      "palavras": [
+        {
+          "inicio": 32.32,
+          "fim": 32.86,
+          "texto": "norte."
+        }
+      ]
+    },
+    {
+      "inicio": 33.76,
+      "fim": 35.58,
+      "texto": "Bellatrix, que marca o ombro",
+      "palavras": [
+        {
+          "inicio": 33.76,
+          "fim": 34.58,
+          "texto": "Bellatrix,"
+        },
+        {
+          "inicio": 34.58,
+          "fim": 34.8,
+          "texto": "que"
+        },
+        {
+          "inicio": 34.8,
+          "fim": 35.1,
+          "texto": "marca"
+        },
+        {
+          "inicio": 35.1,
+          "fim": 35.3,
+          "texto": "o"
+        },
+        {
+          "inicio": 35.3,
+          "fim": 35.58,
+          "texto": "ombro"
+        }
+      ]
+    },
+    {
+      "inicio": 35.58,
+      "fim": 37.46,
+      "texto": "direito da constelação,",
+      "palavras": [
+        {
+          "inicio": 35.58,
+          "fim": 36.04,
+          "texto": "direito"
+        },
+        {
+          "inicio": 36.04,
+          "fim": 36.28,
+          "texto": "da"
+        },
+        {
+          "inicio": 36.28,
+          "fim": 37.46,
+          "texto": "constelação,"
+        }
+      ]
+    },
+    {
+      "inicio": 37.46,
+      "fim": 39.13,
+      "texto": "destaca-se no seu conjunto.",
+      "palavras": [
+        {
+          "inicio": 37.46,
+          "fim": 38.12,
+          "texto": "destaca-se"
+        },
+        {
+          "inicio": 38.12,
+          "fim": 38.28,
+          "texto": "no"
+        },
+        {
+          "inicio": 38.28,
+          "fim": 38.4,
+          "texto": "seu"
+        },
+        {
+          "inicio": 38.4,
+          "fim": 38.98,
+          "texto": "conjunto."
+        }
+      ]
+    },
+    {
+      "inicio": 39.98,
+      "fim": 41.48,
+      "texto": "Na nebulosa de Órion,",
+      "palavras": [
+        {
+          "inicio": 39.98,
+          "fim": 40.12,
+          "texto": "Na"
+        },
+        {
+          "inicio": 40.12,
+          "fim": 40.74,
+          "texto": "nebulosa"
+        },
+        {
+          "inicio": 40.74,
+          "fim": 40.94,
+          "texto": "de"
+        },
+        {
+          "inicio": 40.94,
+          "fim": 41.48,
+          "texto": "Órion,"
+        }
+      ]
+    },
+    {
+      "inicio": 41.48,
+      "fim": 45,
+      "texto": "M42, a matéria interestelar emite",
+      "palavras": [
+        {
+          "inicio": 41.48,
+          "fim": 42.9,
+          "texto": "M42,"
+        },
+        {
+          "inicio": 42.9,
+          "fim": 43.28,
+          "texto": "a"
+        },
+        {
+          "inicio": 43.28,
+          "fim": 43.76,
+          "texto": "matéria"
+        },
+        {
+          "inicio": 43.76,
+          "fim": 44.66,
+          "texto": "interestelar"
+        },
+        {
+          "inicio": 44.66,
+          "fim": 45,
+          "texto": "emite"
+        }
+      ]
+    },
+    {
+      "inicio": 45,
+      "fim": 47.04,
+      "texto": "luz em tons vibrantes,",
+      "palavras": [
+        {
+          "inicio": 45,
+          "fim": 45.34,
+          "texto": "luz"
+        },
+        {
+          "inicio": 45.34,
+          "fim": 45.64,
+          "texto": "em"
+        },
+        {
+          "inicio": 45.64,
+          "fim": 45.82,
+          "texto": "tons"
+        },
+        {
+          "inicio": 45.82,
+          "fim": 47.04,
+          "texto": "vibrantes,"
+        }
+      ]
+    },
+    {
+      "inicio": 47.04,
+      "fim": 49.89,
+      "texto": "revelando processos de formação estelar.",
+      "palavras": [
+        {
+          "inicio": 47.04,
+          "fim": 47.52,
+          "texto": "revelando"
+        },
+        {
+          "inicio": 47.52,
+          "fim": 48.28,
+          "texto": "processos"
+        },
+        {
+          "inicio": 48.28,
+          "fim": 48.42,
+          "texto": "de"
+        },
+        {
+          "inicio": 48.42,
+          "fim": 49,
+          "texto": "formação"
+        },
+        {
+          "inicio": 49,
+          "fim": 49.74,
+          "texto": "estelar."
+        }
+      ]
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "Constelação",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-orion-o-cacador-do-ceu/1.jpg",
+        "credito": "Rogelio Bernal Andreo · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "inicio": 0.0,
+      "fim": 8.78
+    },
+    {
+      "titulo": "Betelgeuse",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-orion-o-cacador-do-ceu/2.jpg",
+        "credito": "ESA/Herschel/PACS/L. Decin et al."
+      },
+      "inicio": 8.78,
+      "fim": 15.72
+    },
+    {
+      "titulo": "Rigel",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-orion-o-cacador-do-ceu/3.png",
+        "credito": "CWitte · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "inicio": 15.72,
+      "fim": 25.46
+    },
+    {
+      "titulo": "Cinturão",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-orion-o-cacador-do-ceu/4.jpg",
+        "credito": "NASA/ESA/JPL-Caltech/IRAM"
+      },
+      "inicio": 25.46,
+      "fim": 33.76
+    },
+    {
+      "titulo": "Nebulosa",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-orion-o-cacador-do-ceu/5.jpg",
+        "credito": "NASA and the Hubble Heritage Team STScI/AURA"
+      },
+      "inicio": 33.76,
+      "fim": 41.48
+    },
+    {
+      "titulo": "Futuro",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-orion-o-cacador-do-ceu/6.jpg",
+        "credito": "ESA/NASA/JPL-Caltech"
+      },
+      "inicio": 41.48,
+      "fim": 50.39
+    }
+  ],
+  "audio": "audio/1000-orion-o-cacador-do-ceu.wav"
+}

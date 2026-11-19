@@ -1,0 +1,58 @@
+{
+  "titulo": "Teste do LINK",
+  "estilo": "padrao",
+  "legenda": [
+    {
+      "inicio": 0.0,
+      "fim": 2.21,
+      "texto": "Teste do Render pelo Brainiac."
+    },
+    {
+      "inicio": 2.56,
+      "fim": 5.31,
+      "texto": "Primeiro, comparamos três valores."
+    },
+    {
+      "inicio": 6.06,
+      "fim": 9.13,
+      "texto": "Depois, mostramos o mundo conectado."
+    },
+    {
+      "inicio": 9.72,
+      "fim": 12.23,
+      "texto": "No fim, empilhamos os resultados."
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "Tres valores",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          10.0,
+          25.0,
+          40.0
+        ]
+      },
+      "inicio": 0.0,
+      "fim": 2.56
+    },
+    {
+      "titulo": "Mundo conectado",
+      "peca": "globo",
+      "dados": {},
+      "inicio": 2.56,
+      "fim": 9.72
+    },
+    {
+      "titulo": "Resultados",
+      "peca": "pilha",
+      "dados": {
+        "itens": 5
+      },
+      "inicio": 9.72,
+      "fim": 12.73
+    }
+  ],
+  "audio": "audio/004-teste-do-link.wav"
+}

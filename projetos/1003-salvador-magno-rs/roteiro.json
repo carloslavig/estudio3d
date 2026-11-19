@@ -1,0 +1,8055 @@
+{
+ "titulo": "150 Salvador final",
+ "estilo": "mesa",
+ "cabecalho": {
+  "titulo": "SALVADOR",
+  "arroba": "@eumagnoleite",
+  "fonte": "FONTE: BALANÇO 2024 E 2025 · DESPESA CONSOLIDADA 09/2026 (PCMGE065) · TCM-BA",
+  "escala": "1 PILHA = R$ 200 MI · DOURADO 2024 · VERDE 2025 · ROSA 2026"
+ },
+ "legenda": [
+  {
+   "inicio": 0.0,
+   "fim": 2.44,
+   "texto": "Salvador arrecadou 12 bilhões e 200 milhões",
+   "palavras": [
+    {
+     "inicio": 0.0,
+     "fim": 0.36,
+     "texto": "Salvador"
+    },
+    {
+     "inicio": 0.74,
+     "fim": 1.14,
+     "texto": "arrecadou"
+    },
+    {
+     "inicio": 1.14,
+     "fim": 1.38,
+     "texto": "12"
+    },
+    {
+     "inicio": 1.38,
+     "fim": 1.74,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 1.74,
+     "fim": 1.84,
+     "texto": "e"
+    },
+    {
+     "inicio": 1.84,
+     "fim": 1.98,
+     "texto": "200"
+    },
+    {
+     "inicio": 1.98,
+     "fim": 2.44,
+     "texto": "milhões"
+    }
+   ]
+  },
+  {
+   "inicio": 2.44,
+   "fim": 5.52,
+   "texto": "em 2024, 12 bilhões e 390 milhões",
+   "palavras": [
+    {
+     "inicio": 2.44,
+     "fim": 2.66,
+     "texto": "em"
+    },
+    {
+     "inicio": 2.66,
+     "fim": 3.28,
+     "texto": "2024,"
+    },
+    {
+     "inicio": 3.7,
+     "fim": 3.94,
+     "texto": "12"
+    },
+    {
+     "inicio": 3.94,
+     "fim": 4.36,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 4.36,
+     "fim": 4.48,
+     "texto": "e"
+    },
+    {
+     "inicio": 4.48,
+     "fim": 4.84,
+     "texto": "390"
+    },
+    {
+     "inicio": 4.84,
+     "fim": 5.52,
+     "texto": "milhões"
+    }
+   ]
+  },
+  {
+   "inicio": 5.52,
+   "fim": 8.54,
+   "texto": "em 2025 e 10 bilhões e 890 milhões",
+   "palavras": [
+    {
+     "inicio": 5.52,
+     "fim": 5.7,
+     "texto": "em"
+    },
+    {
+     "inicio": 5.7,
+     "fim": 6.16,
+     "texto": "2025"
+    },
+    {
+     "inicio": 6.16,
+     "fim": 6.52,
+     "texto": "e"
+    },
+    {
+     "inicio": 6.52,
+     "fim": 6.66,
+     "texto": "10"
+    },
+    {
+     "inicio": 7.0,
+     "fim": 7.32,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 7.32,
+     "fim": 7.46,
+     "texto": "e"
+    },
+    {
+     "inicio": 7.46,
+     "fim": 7.84,
+     "texto": "890"
+    },
+    {
+     "inicio": 7.84,
+     "fim": 8.54,
+     "texto": "milhões"
+    }
+   ]
+  },
+  {
+   "inicio": 8.54,
+   "fim": 10.49,
+   "texto": "até setembro de 2026.",
+   "palavras": [
+    {
+     "inicio": 8.54,
+     "fim": 9.02,
+     "texto": "até"
+    },
+    {
+     "inicio": 9.02,
+     "fim": 9.46,
+     "texto": "setembro"
+    },
+    {
+     "inicio": 9.46,
+     "fim": 9.58,
+     "texto": "de"
+    },
+    {
+     "inicio": 9.58,
+     "fim": 10.34,
+     "texto": "2026."
+    }
+   ]
+  },
+  {
+   "inicio": 10.84,
+   "fim": 11.92,
+   "texto": "Eu abri as contas que a",
+   "palavras": [
+    {
+     "inicio": 10.84,
+     "fim": 11.0,
+     "texto": "Eu"
+    },
+    {
+     "inicio": 11.0,
+     "fim": 11.24,
+     "texto": "abri"
+    },
+    {
+     "inicio": 11.24,
+     "fim": 11.42,
+     "texto": "as"
+    },
+    {
+     "inicio": 11.42,
+     "fim": 11.74,
+     "texto": "contas"
+    },
+    {
+     "inicio": 11.74,
+     "fim": 11.86,
+     "texto": "que"
+    },
+    {
+     "inicio": 11.86,
+     "fim": 11.92,
+     "texto": "a"
+    }
+   ]
+  },
+  {
+   "inicio": 11.92,
+   "fim": 13.32,
+   "texto": "prefeitura e a Câmara mandaram ao",
+   "palavras": [
+    {
+     "inicio": 11.92,
+     "fim": 12.34,
+     "texto": "prefeitura"
+    },
+    {
+     "inicio": 12.34,
+     "fim": 12.44,
+     "texto": "e"
+    },
+    {
+     "inicio": 12.44,
+     "fim": 12.54,
+     "texto": "a"
+    },
+    {
+     "inicio": 12.54,
+     "fim": 12.78,
+     "texto": "Câmara"
+    },
+    {
+     "inicio": 12.78,
+     "fim": 13.18,
+     "texto": "mandaram"
+    },
+    {
+     "inicio": 13.18,
+     "fim": 13.32,
+     "texto": "ao"
+    }
+   ]
+  },
+  {
+   "inicio": 13.32,
+   "fim": 14.83,
+   "texto": "Tribunal de Contas dos Municípios.",
+   "palavras": [
+    {
+     "inicio": 13.32,
+     "fim": 13.56,
+     "texto": "Tribunal"
+    },
+    {
+     "inicio": 13.56,
+     "fim": 13.74,
+     "texto": "de"
+    },
+    {
+     "inicio": 13.74,
+     "fim": 14.02,
+     "texto": "Contas"
+    },
+    {
+     "inicio": 14.02,
+     "fim": 14.16,
+     "texto": "dos"
+    },
+    {
+     "inicio": 14.16,
+     "fim": 14.68,
+     "texto": "Municípios."
+    }
+   ]
+  },
+  {
+   "inicio": 15.08,
+   "fim": 15.83,
+   "texto": "2024.",
+   "palavras": [
+    {
+     "inicio": 15.08,
+     "fim": 15.68,
+     "texto": "2024."
+    }
+   ]
+  },
+  {
+   "inicio": 16.3,
+   "fim": 17.91,
+   "texto": "Arrecadou 12 bilhões e 200.",
+   "palavras": [
+    {
+     "inicio": 16.3,
+     "fim": 16.74,
+     "texto": "Arrecadou"
+    },
+    {
+     "inicio": 16.74,
+     "fim": 17.02,
+     "texto": "12"
+    },
+    {
+     "inicio": 17.02,
+     "fim": 17.46,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 17.46,
+     "fim": 17.6,
+     "texto": "e"
+    },
+    {
+     "inicio": 17.6,
+     "fim": 17.76,
+     "texto": "200."
+    }
+   ]
+  },
+  {
+   "inicio": 18.36,
+   "fim": 20.27,
+   "texto": "Gastou 12 bilhões e 390.",
+   "palavras": [
+    {
+     "inicio": 18.36,
+     "fim": 18.7,
+     "texto": "Gastou"
+    },
+    {
+     "inicio": 18.7,
+     "fim": 18.96,
+     "texto": "12"
+    },
+    {
+     "inicio": 18.96,
+     "fim": 19.34,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 19.34,
+     "fim": 19.54,
+     "texto": "e"
+    },
+    {
+     "inicio": 19.54,
+     "fim": 20.12,
+     "texto": "390."
+    }
+   ]
+  },
+  {
+   "inicio": 20.74,
+   "fim": 22.6,
+   "texto": "Gastou 190 milhões a mais do",
+   "palavras": [
+    {
+     "inicio": 20.74,
+     "fim": 21.08,
+     "texto": "Gastou"
+    },
+    {
+     "inicio": 21.08,
+     "fim": 21.4,
+     "texto": "190"
+    },
+    {
+     "inicio": 21.4,
+     "fim": 22.14,
+     "texto": "milhões"
+    },
+    {
+     "inicio": 22.14,
+     "fim": 22.28,
+     "texto": "a"
+    },
+    {
+     "inicio": 22.28,
+     "fim": 22.48,
+     "texto": "mais"
+    },
+    {
+     "inicio": 22.48,
+     "fim": 22.6,
+     "texto": "do"
+    }
+   ]
+  },
+  {
+   "inicio": 22.6,
+   "fim": 23.08,
+   "texto": "que arrecadou.",
+   "palavras": [
+    {
+     "inicio": 22.6,
+     "fim": 22.68,
+     "texto": "que"
+    },
+    {
+     "inicio": 22.68,
+     "fim": 23.08,
+     "texto": "arrecadou."
+    }
+   ]
+  },
+  {
+   "inicio": 23.08,
+   "fim": 25.73,
+   "texto": "Educação, 2 bilhões e 690.",
+   "palavras": [
+    {
+     "inicio": 23.08,
+     "fim": 24.12,
+     "texto": "Educação,"
+    },
+    {
+     "inicio": 24.32,
+     "fim": 24.48,
+     "texto": "2"
+    },
+    {
+     "inicio": 24.48,
+     "fim": 24.84,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 24.84,
+     "fim": 24.98,
+     "texto": "e"
+    },
+    {
+     "inicio": 24.98,
+     "fim": 25.58,
+     "texto": "690."
+    }
+   ]
+  },
+  {
+   "inicio": 26.06,
+   "fim": 27.31,
+   "texto": "Saúde, 3 bilhões.",
+   "palavras": [
+    {
+     "inicio": 26.06,
+     "fim": 26.4,
+     "texto": "Saúde,"
+    },
+    {
+     "inicio": 26.68,
+     "fim": 26.78,
+     "texto": "3"
+    },
+    {
+     "inicio": 26.78,
+     "fim": 27.16,
+     "texto": "bilhões."
+    }
+   ]
+  },
+  {
+   "inicio": 27.44,
+   "fim": 28.83,
+   "texto": "Administração e previdência,",
+   "palavras": [
+    {
+     "inicio": 27.44,
+     "fim": 28.06,
+     "texto": "Administração"
+    },
+    {
+     "inicio": 28.06,
+     "fim": 28.2,
+     "texto": "e"
+    },
+    {
+     "inicio": 28.2,
+     "fim": 28.68,
+     "texto": "previdência,"
+    }
+   ]
+  },
+  {
+   "inicio": 28.96,
+   "fim": 30.21,
+   "texto": "1 bilhão e 840.",
+   "palavras": [
+    {
+     "inicio": 28.96,
+     "fim": 29.02,
+     "texto": "1"
+    },
+    {
+     "inicio": 29.02,
+     "fim": 29.28,
+     "texto": "bilhão"
+    },
+    {
+     "inicio": 29.28,
+     "fim": 29.38,
+     "texto": "e"
+    },
+    {
+     "inicio": 29.38,
+     "fim": 30.06,
+     "texto": "840."
+    }
+   ]
+  },
+  {
+   "inicio": 30.56,
+   "fim": 31.99,
+   "texto": "Obras e serviços urbanos,",
+   "palavras": [
+    {
+     "inicio": 30.56,
+     "fim": 30.86,
+     "texto": "Obras"
+    },
+    {
+     "inicio": 30.86,
+     "fim": 31.06,
+     "texto": "e"
+    },
+    {
+     "inicio": 31.06,
+     "fim": 31.38,
+     "texto": "serviços"
+    },
+    {
+     "inicio": 31.38,
+     "fim": 31.84,
+     "texto": "urbanos,"
+    }
+   ]
+  },
+  {
+   "inicio": 32.14,
+   "fim": 33.47,
+   "texto": "2 bilhões e 810.",
+   "palavras": [
+    {
+     "inicio": 32.14,
+     "fim": 32.32,
+     "texto": "2"
+    },
+    {
+     "inicio": 32.32,
+     "fim": 32.7,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 32.7,
+     "fim": 32.82,
+     "texto": "e"
+    },
+    {
+     "inicio": 32.82,
+     "fim": 33.32,
+     "texto": "810."
+    }
+   ]
+  },
+  {
+   "inicio": 33.9,
+   "fim": 35.67,
+   "texto": "Câmara, 270 milhões.",
+   "palavras": [
+    {
+     "inicio": 33.9,
+     "fim": 34.22,
+     "texto": "Câmara,"
+    },
+    {
+     "inicio": 34.5,
+     "fim": 34.98,
+     "texto": "270"
+    },
+    {
+     "inicio": 34.98,
+     "fim": 35.52,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 36.1,
+   "fim": 37.99,
+   "texto": "Dívidas, 660 milhões.",
+   "palavras": [
+    {
+     "inicio": 36.1,
+     "fim": 36.46,
+     "texto": "Dívidas,"
+    },
+    {
+     "inicio": 36.76,
+     "fim": 37.36,
+     "texto": "660"
+    },
+    {
+     "inicio": 37.36,
+     "fim": 37.84,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 38.3,
+   "fim": 40.19,
+   "texto": "Transporte, 309 milhões.",
+   "palavras": [
+    {
+     "inicio": 38.3,
+     "fim": 38.82,
+     "texto": "Transporte,"
+    },
+    {
+     "inicio": 39.02,
+     "fim": 39.64,
+     "texto": "309"
+    },
+    {
+     "inicio": 39.64,
+     "fim": 40.04,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 40.7,
+   "fim": 41.87,
+   "texto": "Festas e eventos,",
+   "palavras": [
+    {
+     "inicio": 40.7,
+     "fim": 41.22,
+     "texto": "Festas"
+    },
+    {
+     "inicio": 41.22,
+     "fim": 41.34,
+     "texto": "e"
+    },
+    {
+     "inicio": 41.34,
+     "fim": 41.72,
+     "texto": "eventos,"
+    }
+   ]
+  },
+  {
+   "inicio": 42.08,
+   "fim": 43.21,
+   "texto": "220 milhões.",
+   "palavras": [
+    {
+     "inicio": 42.08,
+     "fim": 42.4,
+     "texto": "220"
+    },
+    {
+     "inicio": 42.4,
+     "fim": 43.06,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 43.44,
+   "fim": 44.49,
+   "texto": "Cultura e turismo,",
+   "palavras": [
+    {
+     "inicio": 43.44,
+     "fim": 43.78,
+     "texto": "Cultura"
+    },
+    {
+     "inicio": 43.78,
+     "fim": 43.96,
+     "texto": "e"
+    },
+    {
+     "inicio": 43.96,
+     "fim": 44.34,
+     "texto": "turismo,"
+    }
+   ]
+  },
+  {
+   "inicio": 44.66,
+   "fim": 45.7,
+   "texto": "139 milhões.",
+   "palavras": [
+    {
+     "inicio": 44.66,
+     "fim": 45.3,
+     "texto": "139"
+    },
+    {
+     "inicio": 45.3,
+     "fim": 45.7,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 45.7,
+   "fim": 48.49,
+   "texto": "Assistência social, 307 milhões.",
+   "palavras": [
+    {
+     "inicio": 45.7,
+     "fim": 46.58,
+     "texto": "Assistência"
+    },
+    {
+     "inicio": 46.58,
+     "fim": 47.02,
+     "texto": "social,"
+    },
+    {
+     "inicio": 47.28,
+     "fim": 48.06,
+     "texto": "307"
+    },
+    {
+     "inicio": 48.06,
+     "fim": 48.34,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 48.74,
+   "fim": 50.59,
+   "texto": "Meio ambiente, 50 milhões.",
+   "palavras": [
+    {
+     "inicio": 48.74,
+     "fim": 49.02,
+     "texto": "Meio"
+    },
+    {
+     "inicio": 49.02,
+     "fim": 49.34,
+     "texto": "ambiente,"
+    },
+    {
+     "inicio": 49.72,
+     "fim": 49.96,
+     "texto": "50"
+    },
+    {
+     "inicio": 49.96,
+     "fim": 50.44,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 50.84,
+   "fim": 53.41,
+   "texto": "Agricultura, 457 mil.",
+   "palavras": [
+    {
+     "inicio": 50.84,
+     "fim": 51.46,
+     "texto": "Agricultura,"
+    },
+    {
+     "inicio": 51.86,
+     "fim": 53.02,
+     "texto": "457"
+    },
+    {
+     "inicio": 53.02,
+     "fim": 53.26,
+     "texto": "mil."
+    }
+   ]
+  },
+  {
+   "inicio": 53.62,
+   "fim": 55.29,
+   "texto": "Esporte, 91 milhões.",
+   "palavras": [
+    {
+     "inicio": 53.62,
+     "fim": 53.94,
+     "texto": "Esporte,"
+    },
+    {
+     "inicio": 54.32,
+     "fim": 54.76,
+     "texto": "91"
+    },
+    {
+     "inicio": 54.76,
+     "fim": 55.14,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 55.78,
+   "fim": 56.47,
+   "texto": "2025.",
+   "palavras": [
+    {
+     "inicio": 55.78,
+     "fim": 56.32,
+     "texto": "2025."
+    }
+   ]
+  },
+  {
+   "inicio": 57.0,
+   "fim": 58.91,
+   "texto": "Arrecadou 12 bilhões e 390.",
+   "palavras": [
+    {
+     "inicio": 57.0,
+     "fim": 57.48,
+     "texto": "Arrecadou"
+    },
+    {
+     "inicio": 57.48,
+     "fim": 57.8,
+     "texto": "12"
+    },
+    {
+     "inicio": 57.8,
+     "fim": 58.24,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 58.24,
+     "fim": 58.38,
+     "texto": "e"
+    },
+    {
+     "inicio": 58.38,
+     "fim": 58.76,
+     "texto": "390."
+    }
+   ]
+  },
+  {
+   "inicio": 59.54,
+   "fim": 61.05,
+   "texto": "Gastou 11 bilhões e 900.",
+   "palavras": [
+    {
+     "inicio": 59.54,
+     "fim": 59.88,
+     "texto": "Gastou"
+    },
+    {
+     "inicio": 59.88,
+     "fim": 60.24,
+     "texto": "11"
+    },
+    {
+     "inicio": 60.24,
+     "fim": 60.64,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 60.64,
+     "fim": 60.74,
+     "texto": "e"
+    },
+    {
+     "inicio": 60.74,
+     "fim": 60.9,
+     "texto": "900."
+    }
+   ]
+  },
+  {
+   "inicio": 61.62,
+   "fim": 63.73,
+   "texto": "Sobraram 486 milhões.",
+   "palavras": [
+    {
+     "inicio": 61.62,
+     "fim": 62.06,
+     "texto": "Sobraram"
+    },
+    {
+     "inicio": 62.06,
+     "fim": 63.34,
+     "texto": "486"
+    },
+    {
+     "inicio": 63.34,
+     "fim": 63.58,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 64.16,
+   "fim": 66.33,
+   "texto": "Educação, 2 bilhões e 640.",
+   "palavras": [
+    {
+     "inicio": 64.16,
+     "fim": 64.58,
+     "texto": "Educação,"
+    },
+    {
+     "inicio": 64.94,
+     "fim": 65.06,
+     "texto": "2"
+    },
+    {
+     "inicio": 65.06,
+     "fim": 65.42,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 65.42,
+     "fim": 65.56,
+     "texto": "e"
+    },
+    {
+     "inicio": 65.56,
+     "fim": 66.18,
+     "texto": "640."
+    }
+   ]
+  },
+  {
+   "inicio": 66.66,
+   "fim": 68.41,
+   "texto": "Saúde, 3 bilhões e 30.",
+   "palavras": [
+    {
+     "inicio": 66.66,
+     "fim": 67.0,
+     "texto": "Saúde,"
+    },
+    {
+     "inicio": 67.44,
+     "fim": 67.56,
+     "texto": "3"
+    },
+    {
+     "inicio": 67.56,
+     "fim": 67.92,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 67.92,
+     "fim": 68.06,
+     "texto": "e"
+    },
+    {
+     "inicio": 68.06,
+     "fim": 68.26,
+     "texto": "30."
+    }
+   ]
+  },
+  {
+   "inicio": 68.76,
+   "fim": 70.15,
+   "texto": "Administração e previdência,",
+   "palavras": [
+    {
+     "inicio": 68.76,
+     "fim": 69.36,
+     "texto": "Administração"
+    },
+    {
+     "inicio": 69.36,
+     "fim": 69.48,
+     "texto": "e"
+    },
+    {
+     "inicio": 69.48,
+     "fim": 70.0,
+     "texto": "previdência,"
+    }
+   ]
+  },
+  {
+   "inicio": 70.32,
+   "fim": 71.18,
+   "texto": "2 bilhões e 60.",
+   "palavras": [
+    {
+     "inicio": 70.32,
+     "fim": 70.46,
+     "texto": "2"
+    },
+    {
+     "inicio": 70.46,
+     "fim": 70.8,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 70.8,
+     "fim": 70.94,
+     "texto": "e"
+    },
+    {
+     "inicio": 70.94,
+     "fim": 71.18,
+     "texto": "60."
+    }
+   ]
+  },
+  {
+   "inicio": 71.18,
+   "fim": 73.13,
+   "texto": "Obras e serviços urbanos,",
+   "palavras": [
+    {
+     "inicio": 71.18,
+     "fim": 71.94,
+     "texto": "Obras"
+    },
+    {
+     "inicio": 71.94,
+     "fim": 72.14,
+     "texto": "e"
+    },
+    {
+     "inicio": 72.14,
+     "fim": 72.48,
+     "texto": "serviços"
+    },
+    {
+     "inicio": 72.48,
+     "fim": 72.98,
+     "texto": "urbanos,"
+    }
+   ]
+  },
+  {
+   "inicio": 73.26,
+   "fim": 74.49,
+   "texto": "2 bilhões e 110.",
+   "palavras": [
+    {
+     "inicio": 73.26,
+     "fim": 73.46,
+     "texto": "2"
+    },
+    {
+     "inicio": 73.46,
+     "fim": 73.84,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 73.84,
+     "fim": 73.98,
+     "texto": "e"
+    },
+    {
+     "inicio": 73.98,
+     "fim": 74.34,
+     "texto": "110."
+    }
+   ]
+  },
+  {
+   "inicio": 74.78,
+   "fim": 76.73,
+   "texto": "Câmara, 293 milhões.",
+   "palavras": [
+    {
+     "inicio": 74.78,
+     "fim": 75.14,
+     "texto": "Câmara,"
+    },
+    {
+     "inicio": 75.44,
+     "fim": 76.32,
+     "texto": "293"
+    },
+    {
+     "inicio": 76.32,
+     "fim": 76.58,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 77.02,
+   "fim": 79.29,
+   "texto": "Dívidas, 839 milhões.",
+   "palavras": [
+    {
+     "inicio": 77.02,
+     "fim": 77.5,
+     "texto": "Dívidas,"
+    },
+    {
+     "inicio": 77.78,
+     "fim": 78.6,
+     "texto": "839"
+    },
+    {
+     "inicio": 78.6,
+     "fim": 79.14,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 79.6,
+   "fim": 81.49,
+   "texto": "Transporte, 204 milhões.",
+   "palavras": [
+    {
+     "inicio": 79.6,
+     "fim": 80.2,
+     "texto": "Transporte,"
+    },
+    {
+     "inicio": 80.44,
+     "fim": 80.98,
+     "texto": "204"
+    },
+    {
+     "inicio": 80.98,
+     "fim": 81.34,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 81.84,
+   "fim": 82.81,
+   "texto": "Festas e eventos,",
+   "palavras": [
+    {
+     "inicio": 81.84,
+     "fim": 82.16,
+     "texto": "Festas"
+    },
+    {
+     "inicio": 82.16,
+     "fim": 82.26,
+     "texto": "e"
+    },
+    {
+     "inicio": 82.26,
+     "fim": 82.66,
+     "texto": "eventos,"
+    }
+   ]
+  },
+  {
+   "inicio": 82.98,
+   "fim": 84.19,
+   "texto": "159 milhões.",
+   "palavras": [
+    {
+     "inicio": 82.98,
+     "fim": 83.64,
+     "texto": "159"
+    },
+    {
+     "inicio": 83.64,
+     "fim": 84.04,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 84.4,
+   "fim": 85.31,
+   "texto": "Cultura e turismo,",
+   "palavras": [
+    {
+     "inicio": 84.4,
+     "fim": 84.7,
+     "texto": "Cultura"
+    },
+    {
+     "inicio": 84.7,
+     "fim": 84.84,
+     "texto": "e"
+    },
+    {
+     "inicio": 84.84,
+     "fim": 85.16,
+     "texto": "turismo,"
+    }
+   ]
+  },
+  {
+   "inicio": 85.48,
+   "fim": 86.59,
+   "texto": "127 milhões.",
+   "palavras": [
+    {
+     "inicio": 85.48,
+     "fim": 85.84,
+     "texto": "127"
+    },
+    {
+     "inicio": 85.84,
+     "fim": 86.44,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 87.24,
+   "fim": 89.49,
+   "texto": "Assistência social, 309 milhões.",
+   "palavras": [
+    {
+     "inicio": 87.24,
+     "fim": 87.62,
+     "texto": "Assistência"
+    },
+    {
+     "inicio": 87.62,
+     "fim": 87.94,
+     "texto": "social,"
+    },
+    {
+     "inicio": 88.36,
+     "fim": 88.92,
+     "texto": "309"
+    },
+    {
+     "inicio": 88.92,
+     "fim": 89.34,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 89.7,
+   "fim": 91.63,
+   "texto": "Meio ambiente, 39 milhões.",
+   "palavras": [
+    {
+     "inicio": 89.7,
+     "fim": 89.92,
+     "texto": "Meio"
+    },
+    {
+     "inicio": 89.92,
+     "fim": 90.24,
+     "texto": "ambiente,"
+    },
+    {
+     "inicio": 90.64,
+     "fim": 90.96,
+     "texto": "39"
+    },
+    {
+     "inicio": 90.96,
+     "fim": 91.48,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 91.84,
+   "fim": 93.41,
+   "texto": "Agricultura, 86 mil.",
+   "palavras": [
+    {
+     "inicio": 91.84,
+     "fim": 92.3,
+     "texto": "Agricultura,"
+    },
+    {
+     "inicio": 92.56,
+     "fim": 92.96,
+     "texto": "86"
+    },
+    {
+     "inicio": 92.96,
+     "fim": 93.26,
+     "texto": "mil."
+    }
+   ]
+  },
+  {
+   "inicio": 93.7,
+   "fim": 95.75,
+   "texto": "Esporte, 91 milhões e 500.",
+   "palavras": [
+    {
+     "inicio": 93.7,
+     "fim": 94.02,
+     "texto": "Esporte,"
+    },
+    {
+     "inicio": 94.42,
+     "fim": 94.84,
+     "texto": "91"
+    },
+    {
+     "inicio": 94.84,
+     "fim": 95.1,
+     "texto": "milhões"
+    },
+    {
+     "inicio": 95.1,
+     "fim": 95.32,
+     "texto": "e"
+    },
+    {
+     "inicio": 95.32,
+     "fim": 95.6,
+     "texto": "500."
+    }
+   ]
+  },
+  {
+   "inicio": 96.3,
+   "fim": 98.01,
+   "texto": "2026, até setembro.",
+   "palavras": [
+    {
+     "inicio": 96.3,
+     "fim": 97.0,
+     "texto": "2026,"
+    },
+    {
+     "inicio": 97.0,
+     "fim": 97.34,
+     "texto": "até"
+    },
+    {
+     "inicio": 97.34,
+     "fim": 97.86,
+     "texto": "setembro."
+    }
+   ]
+  },
+  {
+   "inicio": 98.12,
+   "fim": 100.17,
+   "texto": "Arrecadou 10 bilhões e 890.",
+   "palavras": [
+    {
+     "inicio": 98.12,
+     "fim": 98.58,
+     "texto": "Arrecadou"
+    },
+    {
+     "inicio": 98.58,
+     "fim": 98.9,
+     "texto": "10"
+    },
+    {
+     "inicio": 98.9,
+     "fim": 99.28,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 99.28,
+     "fim": 99.38,
+     "texto": "e"
+    },
+    {
+     "inicio": 99.38,
+     "fim": 100.02,
+     "texto": "890."
+    }
+   ]
+  },
+  {
+   "inicio": 100.6,
+   "fim": 102.71,
+   "texto": "Gastou 9 bilhões e 880.",
+   "palavras": [
+    {
+     "inicio": 100.6,
+     "fim": 100.9,
+     "texto": "Gastou"
+    },
+    {
+     "inicio": 100.9,
+     "fim": 101.18,
+     "texto": "9"
+    },
+    {
+     "inicio": 101.18,
+     "fim": 101.6,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 101.6,
+     "fim": 101.74,
+     "texto": "e"
+    },
+    {
+     "inicio": 101.74,
+     "fim": 102.56,
+     "texto": "880."
+    }
+   ]
+  },
+  {
+   "inicio": 103.04,
+   "fim": 104.89,
+   "texto": "Educação, 2 bilhões e 160.",
+   "palavras": [
+    {
+     "inicio": 103.04,
+     "fim": 103.5,
+     "texto": "Educação,"
+    },
+    {
+     "inicio": 103.8,
+     "fim": 103.9,
+     "texto": "2"
+    },
+    {
+     "inicio": 103.9,
+     "fim": 104.26,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 104.26,
+     "fim": 104.42,
+     "texto": "e"
+    },
+    {
+     "inicio": 104.42,
+     "fim": 104.74,
+     "texto": "160."
+    }
+   ]
+  },
+  {
+   "inicio": 105.26,
+   "fim": 107.51,
+   "texto": "Saúde, 2 bilhões e 440.",
+   "palavras": [
+    {
+     "inicio": 105.26,
+     "fim": 105.6,
+     "texto": "Saúde,"
+    },
+    {
+     "inicio": 106.0,
+     "fim": 106.1,
+     "texto": "2"
+    },
+    {
+     "inicio": 106.1,
+     "fim": 106.52,
+     "texto": "bilhões"
+    },
+    {
+     "inicio": 106.52,
+     "fim": 106.64,
+     "texto": "e"
+    },
+    {
+     "inicio": 106.64,
+     "fim": 107.36,
+     "texto": "440."
+    }
+   ]
+  },
+  {
+   "inicio": 107.92,
+   "fim": 109.37,
+   "texto": "Administração e previdência,",
+   "palavras": [
+    {
+     "inicio": 107.92,
+     "fim": 108.5,
+     "texto": "Administração"
+    },
+    {
+     "inicio": 108.5,
+     "fim": 108.66,
+     "texto": "e"
+    },
+    {
+     "inicio": 108.66,
+     "fim": 109.22,
+     "texto": "previdência,"
+    }
+   ]
+  },
+  {
+   "inicio": 109.52,
+   "fim": 110.61,
+   "texto": "1 bilhão e 720.",
+   "palavras": [
+    {
+     "inicio": 109.52,
+     "fim": 109.62,
+     "texto": "1"
+    },
+    {
+     "inicio": 109.62,
+     "fim": 109.9,
+     "texto": "bilhão"
+    },
+    {
+     "inicio": 109.9,
+     "fim": 110.04,
+     "texto": "e"
+    },
+    {
+     "inicio": 110.04,
+     "fim": 110.46,
+     "texto": "720."
+    }
+   ]
+  },
+  {
+   "inicio": 111.26,
+   "fim": 112.59,
+   "texto": "Obras e serviços urbanos,",
+   "palavras": [
+    {
+     "inicio": 111.26,
+     "fim": 111.42,
+     "texto": "Obras"
+    },
+    {
+     "inicio": 111.42,
+     "fim": 111.6,
+     "texto": "e"
+    },
+    {
+     "inicio": 111.6,
+     "fim": 111.96,
+     "texto": "serviços"
+    },
+    {
+     "inicio": 111.96,
+     "fim": 112.44,
+     "texto": "urbanos,"
+    }
+   ]
+  },
+  {
+   "inicio": 112.7,
+   "fim": 113.59,
+   "texto": "1 bilhão e 700.",
+   "palavras": [
+    {
+     "inicio": 112.7,
+     "fim": 112.82,
+     "texto": "1"
+    },
+    {
+     "inicio": 112.82,
+     "fim": 113.04,
+     "texto": "bilhão"
+    },
+    {
+     "inicio": 113.04,
+     "fim": 113.14,
+     "texto": "e"
+    },
+    {
+     "inicio": 113.14,
+     "fim": 113.44,
+     "texto": "700."
+    }
+   ]
+  },
+  {
+   "inicio": 114.02,
+   "fim": 115.65,
+   "texto": "Câmara, 227 milhões.",
+   "palavras": [
+    {
+     "inicio": 114.02,
+     "fim": 114.28,
+     "texto": "Câmara,"
+    },
+    {
+     "inicio": 114.52,
+     "fim": 115.3,
+     "texto": "227"
+    },
+    {
+     "inicio": 115.3,
+     "fim": 115.5,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 115.96,
+   "fim": 117.81,
+   "texto": "Dívidas, 538 milhões.",
+   "palavras": [
+    {
+     "inicio": 115.96,
+     "fim": 116.34,
+     "texto": "Dívidas,"
+    },
+    {
+     "inicio": 116.58,
+     "fim": 117.24,
+     "texto": "538"
+    },
+    {
+     "inicio": 117.24,
+     "fim": 117.66,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 118.18,
+   "fim": 120.04,
+   "texto": "Transporte, 336 milhões.",
+   "palavras": [
+    {
+     "inicio": 118.18,
+     "fim": 118.74,
+     "texto": "Transporte,"
+    },
+    {
+     "inicio": 118.96,
+     "fim": 119.6,
+     "texto": "336"
+    },
+    {
+     "inicio": 119.6,
+     "fim": 120.04,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 120.04,
+   "fim": 121.61,
+   "texto": "Festas e eventos,",
+   "palavras": [
+    {
+     "inicio": 120.04,
+     "fim": 120.94,
+     "texto": "Festas"
+    },
+    {
+     "inicio": 120.94,
+     "fim": 121.04,
+     "texto": "e"
+    },
+    {
+     "inicio": 121.04,
+     "fim": 121.46,
+     "texto": "eventos,"
+    }
+   ]
+  },
+  {
+   "inicio": 121.68,
+   "fim": 122.97,
+   "texto": "237 milhões.",
+   "palavras": [
+    {
+     "inicio": 121.68,
+     "fim": 122.64,
+     "texto": "237"
+    },
+    {
+     "inicio": 122.64,
+     "fim": 122.82,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 123.3,
+   "fim": 124.25,
+   "texto": "Cultura e turismo,",
+   "palavras": [
+    {
+     "inicio": 123.3,
+     "fim": 123.64,
+     "texto": "Cultura"
+    },
+    {
+     "inicio": 123.64,
+     "fim": 123.78,
+     "texto": "e"
+    },
+    {
+     "inicio": 123.78,
+     "fim": 124.1,
+     "texto": "turismo,"
+    }
+   ]
+  },
+  {
+   "inicio": 124.38,
+   "fim": 125.41,
+   "texto": "94 milhões.",
+   "palavras": [
+    {
+     "inicio": 124.38,
+     "fim": 124.84,
+     "texto": "94"
+    },
+    {
+     "inicio": 124.84,
+     "fim": 125.26,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 125.86,
+   "fim": 128.25,
+   "texto": "Assistência social, 262 milhões.",
+   "palavras": [
+    {
+     "inicio": 125.86,
+     "fim": 126.24,
+     "texto": "Assistência"
+    },
+    {
+     "inicio": 126.24,
+     "fim": 126.58,
+     "texto": "social,"
+    },
+    {
+     "inicio": 126.92,
+     "fim": 127.74,
+     "texto": "262"
+    },
+    {
+     "inicio": 127.74,
+     "fim": 128.1,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 128.5,
+   "fim": 130.27,
+   "texto": "Meio ambiente, 37 milhões.",
+   "palavras": [
+    {
+     "inicio": 128.5,
+     "fim": 128.64,
+     "texto": "Meio"
+    },
+    {
+     "inicio": 128.64,
+     "fim": 128.86,
+     "texto": "ambiente,"
+    },
+    {
+     "inicio": 129.3,
+     "fim": 129.68,
+     "texto": "37"
+    },
+    {
+     "inicio": 129.68,
+     "fim": 130.12,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 130.58,
+   "fim": 132.48,
+   "texto": "Agricultura, nada: a ação de hortas",
+   "palavras": [
+    {
+     "inicio": 130.58,
+     "fim": 131.06,
+     "texto": "Agricultura,"
+    },
+    {
+     "inicio": 131.36,
+     "fim": 131.56,
+     "texto": "nada:"
+    },
+    {
+     "inicio": 131.9,
+     "fim": 131.94,
+     "texto": "a"
+    },
+    {
+     "inicio": 131.94,
+     "fim": 132.14,
+     "texto": "ação"
+    },
+    {
+     "inicio": 132.14,
+     "fim": 132.28,
+     "texto": "de"
+    },
+    {
+     "inicio": 132.28,
+     "fim": 132.48,
+     "texto": "hortas"
+    }
+   ]
+  },
+  {
+   "inicio": 132.48,
+   "fim": 134.63,
+   "texto": "urbanas previa 360 mil.",
+   "palavras": [
+    {
+     "inicio": 132.48,
+     "fim": 132.92,
+     "texto": "urbanas"
+    },
+    {
+     "inicio": 133.2,
+     "fim": 133.42,
+     "texto": "previa"
+    },
+    {
+     "inicio": 133.42,
+     "fim": 133.88,
+     "texto": "360"
+    },
+    {
+     "inicio": 133.88,
+     "fim": 134.48,
+     "texto": "mil."
+    }
+   ]
+  },
+  {
+   "inicio": 134.92,
+   "fim": 136.57,
+   "texto": "Esporte, 129 milhões.",
+   "palavras": [
+    {
+     "inicio": 134.92,
+     "fim": 135.24,
+     "texto": "Esporte,"
+    },
+    {
+     "inicio": 135.58,
+     "fim": 136.1,
+     "texto": "129"
+    },
+    {
+     "inicio": 136.1,
+     "fim": 136.42,
+     "texto": "milhões."
+    }
+   ]
+  },
+  {
+   "inicio": 137.04,
+   "fim": 138.3,
+   "texto": "A ação de eventos e festas",
+   "palavras": [
+    {
+     "inicio": 137.04,
+     "fim": 137.18,
+     "texto": "A"
+    },
+    {
+     "inicio": 137.18,
+     "fim": 137.42,
+     "texto": "ação"
+    },
+    {
+     "inicio": 137.42,
+     "fim": 137.56,
+     "texto": "de"
+    },
+    {
+     "inicio": 137.56,
+     "fim": 137.88,
+     "texto": "eventos"
+    },
+    {
+     "inicio": 137.88,
+     "fim": 138.0,
+     "texto": "e"
+    },
+    {
+     "inicio": 138.0,
+     "fim": 138.3,
+     "texto": "festas"
+    }
+   ]
+  },
+  {
+   "inicio": 138.3,
+   "fim": 140.06,
+   "texto": "da Saltur previa 80 milhões em",
+   "palavras": [
+    {
+     "inicio": 138.3,
+     "fim": 138.52,
+     "texto": "da"
+    },
+    {
+     "inicio": 138.52,
+     "fim": 138.74,
+     "texto": "Saltur"
+    },
+    {
+     "inicio": 138.94,
+     "fim": 139.16,
+     "texto": "previa"
+    },
+    {
+     "inicio": 139.16,
+     "fim": 139.54,
+     "texto": "80"
+    },
+    {
+     "inicio": 139.54,
+     "fim": 139.86,
+     "texto": "milhões"
+    },
+    {
+     "inicio": 139.86,
+     "fim": 140.06,
+     "texto": "em"
+    }
+   ]
+  },
+  {
+   "inicio": 140.06,
+   "fim": 142.25,
+   "texto": "2024 e gastou 219.",
+   "palavras": [
+    {
+     "inicio": 140.06,
+     "fim": 140.54,
+     "texto": "2024"
+    },
+    {
+     "inicio": 140.54,
+     "fim": 141.04,
+     "texto": "e"
+    },
+    {
+     "inicio": 141.04,
+     "fim": 141.34,
+     "texto": "gastou"
+    },
+    {
+     "inicio": 141.34,
+     "fim": 142.1,
+     "texto": "219."
+    }
+   ]
+  },
+  {
+   "inicio": 142.86,
+   "fim": 145.68,
+   "texto": "Em 2025, previa 138 e gastou",
+   "palavras": [
+    {
+     "inicio": 142.86,
+     "fim": 143.06,
+     "texto": "Em"
+    },
+    {
+     "inicio": 143.06,
+     "fim": 143.54,
+     "texto": "2025,"
+    },
+    {
+     "inicio": 144.16,
+     "fim": 144.42,
+     "texto": "previa"
+    },
+    {
+     "inicio": 144.42,
+     "fim": 145.24,
+     "texto": "138"
+    },
+    {
+     "inicio": 145.24,
+     "fim": 145.42,
+     "texto": "e"
+    },
+    {
+     "inicio": 145.42,
+     "fim": 145.68,
+     "texto": "gastou"
+    }
+   ]
+  },
+  {
+   "inicio": 145.68,
+   "fim": 146.69,
+   "texto": "158.",
+   "palavras": [
+    {
+     "inicio": 145.68,
+     "fim": 146.54,
+     "texto": "158."
+    }
+   ]
+  },
+  {
+   "inicio": 146.92,
+   "fim": 149.31,
+   "texto": "Em 2026, previa 143.",
+   "palavras": [
+    {
+     "inicio": 146.92,
+     "fim": 147.06,
+     "texto": "Em"
+    },
+    {
+     "inicio": 147.06,
+     "fim": 147.76,
+     "texto": "2026,"
+    },
+    {
+     "inicio": 147.76,
+     "fim": 148.28,
+     "texto": "previa"
+    },
+    {
+     "inicio": 148.28,
+     "fim": 149.16,
+     "texto": "143."
+    }
+   ]
+  },
+  {
+   "inicio": 149.54,
+   "fim": 152.13,
+   "texto": "Até setembro, já foram 233.",
+   "palavras": [
+    {
+     "inicio": 149.54,
+     "fim": 149.84,
+     "texto": "Até"
+    },
+    {
+     "inicio": 149.84,
+     "fim": 150.4,
+     "texto": "setembro,"
+    },
+    {
+     "inicio": 150.52,
+     "fim": 150.68,
+     "texto": "já"
+    },
+    {
+     "inicio": 150.68,
+     "fim": 150.92,
+     "texto": "foram"
+    },
+    {
+     "inicio": 150.92,
+     "fim": 151.98,
+     "texto": "233."
+    }
+   ]
+  },
+  {
+   "inicio": 152.44,
+   "fim": 154.88,
+   "texto": "A publicidade da prefeitura previa 52 milhões",
+   "palavras": [
+    {
+     "inicio": 152.44,
+     "fim": 152.54,
+     "texto": "A"
+    },
+    {
+     "inicio": 152.54,
+     "fim": 153.02,
+     "texto": "publicidade"
+    },
+    {
+     "inicio": 153.02,
+     "fim": 153.18,
+     "texto": "da"
+    },
+    {
+     "inicio": 153.18,
+     "fim": 153.7,
+     "texto": "prefeitura"
+    },
+    {
+     "inicio": 153.7,
+     "fim": 154.06,
+     "texto": "previa"
+    },
+    {
+     "inicio": 154.06,
+     "fim": 154.5,
+     "texto": "52"
+    },
+    {
+     "inicio": 154.5,
+     "fim": 154.88,
+     "texto": "milhões"
+    }
+   ]
+  },
+  {
+   "inicio": 154.88,
+   "fim": 157.19,
+   "texto": "para 2026 e já gastou 94.",
+   "palavras": [
+    {
+     "inicio": 154.88,
+     "fim": 155.14,
+     "texto": "para"
+    },
+    {
+     "inicio": 155.14,
+     "fim": 155.9,
+     "texto": "2026"
+    },
+    {
+     "inicio": 155.9,
+     "fim": 156.1,
+     "texto": "e"
+    },
+    {
+     "inicio": 156.1,
+     "fim": 156.2,
+     "texto": "já"
+    },
+    {
+     "inicio": 156.2,
+     "fim": 156.5,
+     "texto": "gastou"
+    },
+    {
+     "inicio": 156.5,
+     "fim": 157.04,
+     "texto": "94."
+    }
+   ]
+  },
+  {
+   "inicio": 157.56,
+   "fim": 158.57,
+   "texto": "Gastar não é crime.",
+   "palavras": [
+    {
+     "inicio": 157.56,
+     "fim": 157.94,
+     "texto": "Gastar"
+    },
+    {
+     "inicio": 157.94,
+     "fim": 158.08,
+     "texto": "não"
+    },
+    {
+     "inicio": 158.08,
+     "fim": 158.18,
+     "texto": "é"
+    },
+    {
+     "inicio": 158.18,
+     "fim": 158.42,
+     "texto": "crime."
+    }
+   ]
+  },
+  {
+   "inicio": 158.74,
+   "fim": 160.04,
+   "texto": "Mas se a alimentação escolar ficou",
+   "palavras": [
+    {
+     "inicio": 158.74,
+     "fim": 158.88,
+     "texto": "Mas"
+    },
+    {
+     "inicio": 158.88,
+     "fim": 159.04,
+     "texto": "se"
+    },
+    {
+     "inicio": 159.04,
+     "fim": 159.1,
+     "texto": "a"
+    },
+    {
+     "inicio": 159.1,
+     "fim": 159.5,
+     "texto": "alimentação"
+    },
+    {
+     "inicio": 159.5,
+     "fim": 159.84,
+     "texto": "escolar"
+    },
+    {
+     "inicio": 159.84,
+     "fim": 160.04,
+     "texto": "ficou"
+    }
+   ]
+  },
+  {
+   "inicio": 160.04,
+   "fim": 161.73,
+   "texto": "em 97 milhões até setembro,",
+   "palavras": [
+    {
+     "inicio": 160.04,
+     "fim": 160.16,
+     "texto": "em"
+    },
+    {
+     "inicio": 160.16,
+     "fim": 160.6,
+     "texto": "97"
+    },
+    {
+     "inicio": 160.6,
+     "fim": 160.86,
+     "texto": "milhões"
+    },
+    {
+     "inicio": 160.86,
+     "fim": 161.08,
+     "texto": "até"
+    },
+    {
+     "inicio": 161.08,
+     "fim": 161.58,
+     "texto": "setembro,"
+    }
+   ]
+  },
+  {
+   "inicio": 161.76,
+   "fim": 162.92,
+   "texto": "por que os eventos já levaram",
+   "palavras": [
+    {
+     "inicio": 161.76,
+     "fim": 161.96,
+     "texto": "por"
+    },
+    {
+     "inicio": 161.96,
+     "fim": 162.04,
+     "texto": "que"
+    },
+    {
+     "inicio": 162.04,
+     "fim": 162.14,
+     "texto": "os"
+    },
+    {
+     "inicio": 162.14,
+     "fim": 162.5,
+     "texto": "eventos"
+    },
+    {
+     "inicio": 162.5,
+     "fim": 162.58,
+     "texto": "já"
+    },
+    {
+     "inicio": 162.58,
+     "fim": 162.92,
+     "texto": "levaram"
+    }
+   ]
+  },
+  {
+   "inicio": 162.92,
+   "fim": 163.97,
+   "texto": "233?",
+   "palavras": [
+    {
+     "inicio": 162.92,
+     "fim": 163.82,
+     "texto": "233?"
+    }
+   ]
+  },
+  {
+   "inicio": 164.22,
+   "fim": 166.49,
+   "texto": "Segue o @eumagnoleite para mais informações.",
+   "palavras": [
+    {
+     "inicio": 164.22,
+     "fim": 164.52,
+     "texto": "Segue"
+    },
+    {
+     "inicio": 164.52,
+     "fim": 164.62,
+     "texto": "o"
+    },
+    {
+     "inicio": 164.62,
+     "fim": 165.6,
+     "texto": "@eumagnoleite"
+    },
+    {
+     "inicio": 165.6,
+     "fim": 165.78,
+     "texto": "para"
+    },
+    {
+     "inicio": 165.78,
+     "fim": 165.98,
+     "texto": "mais"
+    },
+    {
+     "inicio": 165.98,
+     "fim": 166.34,
+     "texto": "informações."
+    }
+   ]
+  }
+ ],
+ "cenas": [
+  {
+   "titulo": "",
+   "peca": "mapa",
+   "dados": {
+    "uf": "BA",
+    "municipio": "Salvador",
+    "plaquinhas": [
+     {
+      "ano": "2024",
+      "rotulo": "R$ 12,20 BI",
+      "cor": "dourado",
+      "t": 1.14
+     },
+     {
+      "ano": "2025",
+      "rotulo": "R$ 12,39 BI",
+      "cor": "verde",
+      "t": 3.7
+     },
+     {
+      "ano": "2026",
+      "rotulo": "R$ 10,89 BI · ATÉ SET",
+      "cor": "rosa",
+      "t": 6.52
+     }
+    ],
+    "faixa": {
+     "rotulo": "PREFEITURA E CÂMARA DE SALVADOR",
+     "t": 10.84
+    },
+    "etiqueta": {
+     "rotulo": "TCM-BA · TRIBUNAL DE CONTAS",
+     "t": 13.34
+    },
+    "tela_cheia": true
+   },
+   "inicio": 0.0,
+   "fim": 15.12
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Educação",
+      "rotulo": "R$ 2,69 BI",
+      "valor": 2691768316.85,
+      "tipo": "escola",
+      "t": 7.66,
+      "folha": {
+       "titulo": "EDUCAÇÃO · 2024",
+       "linhas": [
+        [
+         "Administração de Pessoal e Encargos - Ensino Fundamental",
+         "R$ 977.926.138,31"
+        ],
+        [
+         "Manutenção das Unidades de Ensino Fundamental",
+         "R$ 521.389.988,87"
+        ],
+        [
+         "Construção e Reconstrução de Novas Unidades de Ensino Fundamental - Espaço para Todos",
+         "R$ 176.235.400,58"
+        ],
+        [
+         "Administração de Pessoal e Encargos - Educação Infantil - Pré-Escola",
+         "R$ 140.833.734,20"
+        ],
+        [
+         "Manutenção dos Centros Municipais de Educação Infantil - CMEI - Pré-Escola",
+         "R$ 106.664.287,74"
+        ],
+        [
+         "Fomento às Escolas Comunitárias, Filantrópicas e Confessionais - Creche",
+         "R$ 89.897.984,95"
+        ],
+        [
+         "Outras 19 ações",
+         "R$ 678.820.782,20"
+        ]
+       ],
+       "total": "R$ 2.691.768.316,85"
+      }
+     },
+     {
+      "nome": "Saúde",
+      "rotulo": "R$ 3,00 BI",
+      "valor": 3001710668.07,
+      "tipo": "hospital",
+      "t": 10.56,
+      "folha": {
+       "titulo": "SAÚDE · 2024",
+       "linhas": [
+        [
+         "Administração de Pessoal e Encargos - SMS",
+         "R$ 972.736.863,01"
+        ],
+        [
+         "Rede Forte - Saúde de Média e Alta Complexidade",
+         "R$ 723.588.633,69"
+        ],
+        [
+         "Gestão da Rede de Urgência e Emergência",
+         "R$ 460.325.140,99"
+        ],
+        [
+         "Manutenção dos Serviços Técnicos e Administrativos - FMS",
+         "R$ 221.469.827,93"
+        ],
+        [
+         "Promoção das Ações Básicas de Saúde",
+         "R$ 195.745.964,28"
+        ],
+        [
+         "Manutenção do Hospital Municipal",
+         "R$ 140.090.876,07"
+        ],
+        [
+         "Outras 12 ações",
+         "R$ 287.753.362,10"
+        ]
+       ],
+       "total": "R$ 3.001.710.668,07"
+      }
+     },
+     {
+      "nome": "Administração e previdência",
+      "rotulo": "R$ 1,84 BI",
+      "valor": 1836049107.99,
+      "tipo": "predio",
+      "t": 11.98,
+      "folha": {
+       "titulo": "ADMINISTRAÇÃO E PREVIDÊNCIA · 2024",
+       "linhas": [
+        [
+         "Concessão de Benefícios - Previdência do Regime Estatutário - FUMPREV PREV",
+         "R$ 624.218.517,50"
+        ],
+        [
+         "Administração de Pessoal e Encargos - CGM",
+         "R$ 287.915.347,76"
+        ],
+        [
+         "Administração de Pessoal e Encargos - GCM",
+         "R$ 125.668.249,59"
+        ],
+        [
+         "Manutenção dos Serviços Técnicos e Administrativos - SEMGE",
+         "R$ 111.132.414,21"
+        ],
+        [
+         "Encargos Diversos da PMS",
+         "R$ 71.770.267,25"
+        ],
+        [
+         "Concessão de Benefícios - Previdência Especial - FUMPRES FIN",
+         "R$ 68.898.406,29"
+        ],
+        [
+         "Outras 92 ações",
+         "R$ 546.445.905,39"
+        ]
+       ],
+       "total": "R$ 1.836.049.107,99",
+       "destaque": "Inclui previdência dos servidores, guarda civil, defesa civil, publicidade e demais secretarias"
+      }
+     }
+    ],
+    "ano": "2024",
+    "cor": "dourado",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2024: R$ 12,20 BI",
+    "folha_receita": {
+     "titulo": "RECEITA 2024",
+     "linhas": [
+      [
+       "Transferências (União, Estado, Fundeb, SUS)",
+       "R$ 4.933.222.764,13"
+      ],
+      [
+       "Impostos e taxas da cidade (IPTU, ISS, ITBI...)",
+       "R$ 4.655.775.640,65"
+      ],
+      [
+       "Empréstimos (operações de crédito)",
+       "R$ 828.293.996,17"
+      ],
+      [
+       "Contribuições (previdência dos servidores, iluminação)",
+       "R$ 548.666.411,93"
+      ],
+      [
+       "Intraorçamentárias (contribuição patronal e outras)",
+       "R$ 481.189.384,74"
+      ],
+      [
+       "Rendimentos e receita patrimonial",
+       "R$ 365.398.953,89"
+      ],
+      [
+       "Outras receitas correntes",
+       "R$ 199.143.219,29"
+      ],
+      [
+       "Outras receitas de capital",
+       "R$ 85.536.016,88"
+      ],
+      [
+       "Transferências de capital (convênios de obras)",
+       "R$ 60.200.124,99"
+      ],
+      [
+       "Receita de serviços",
+       "R$ 35.827.323,39"
+      ],
+      [
+       "Venda de bens",
+       "R$ 5.418.255,32"
+      ]
+     ],
+     "total": "R$ 12.198.672.091,38",
+     "t": 16.74
+    },
+    "destaques": [
+     {
+      "rotulo": "ARRECADOU R$ 12,20 BI",
+      "t": 1.62
+     },
+     {
+      "rotulo": "GASTOU R$ 12,39 BI",
+      "t": 3.28
+     },
+     {
+      "rotulo": "GASTOU R$ 190 MI A MAIS",
+      "t": 5.6,
+      "cor": "vermelho"
+     }
+    ],
+    "saldo": {
+     "tipo": "a_mais",
+     "rotulo": "GASTOU R$ 190 MI A MAIS",
+     "valor": 189603869.18,
+     "t": 5.6
+    },
+    "gastou": {
+     "rotulo": "GASTOU R$ 12,39 BI",
+     "valor": 12388275960.56,
+     "t": 3.28
+    },
+    "arrecadou": {
+     "rotulo": "R$ 12,20 BI",
+     "valor": 12198672091.38,
+     "t": 1.62
+    },
+    "inicio_ano": true,
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [],
+    "ja_ordem": [],
+    "ja_ano": {},
+    "anos_ant": {},
+    "t0": 15.12,
+    "volta": 0,
+    "gastou_ano": 12388275960.56
+   },
+   "inicio": 15.12,
+   "fim": 30.61
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Obras e serviços urbanos",
+      "rotulo": "R$ 2,81 BI",
+      "valor": 2813268903.19,
+      "tipo": "rua",
+      "t": 0.2,
+      "folha": {
+       "titulo": "OBRAS E SERVIÇOS URBANOS · 2024",
+       "linhas": [
+        [
+         "Manutenção dos Serviços de Limpeza Urbana",
+         "R$ 505.674.131,98"
+        ],
+        [
+         "Administração de Pessoal e Encargos - FUNCIP",
+         "R$ 321.621.518,97"
+        ],
+        [
+         "Novo Mané Dendê",
+         "R$ 209.917.835,71"
+        ],
+        [
+         "Sistema Viário Moderno - Implantação de Infraestrutura Viária",
+         "R$ 201.372.379,07"
+        ],
+        [
+         "Novas Vias - Requalificação e Repavimentação de Vias",
+         "R$ 191.509.016,51"
+        ],
+        [
+         "Conservar Para Não Parar - Conservação da Malha Viária",
+         "R$ 154.604.920,92"
+        ],
+        [
+         "Outras 51 ações",
+         "R$ 1.228.569.100,03"
+        ]
+       ],
+       "total": "R$ 2.813.268.903,19"
+      }
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "rotulo": "R$ 270 MI",
+      "valor": 270068462.35,
+      "tipo": "predio",
+      "t": 2.91,
+      "folha": {
+       "titulo": "CÂMARA DE VEREADORES · 2024",
+       "linhas": [
+        [
+         "Administração de Pessoal e Encargos - FCF",
+         "R$ 195.735.423,38"
+        ],
+        [
+         "Manutenção dos Serviços Técnicos e Administrativos - FCF",
+         "R$ 46.268.044,79"
+        ],
+        [
+         "Publicidade das Ações do Legislativo",
+         "R$ 9.808.275,05"
+        ],
+        [
+         "Manutenção dos Serviços de Tecnologia da Informação",
+         "R$ 9.222.463,89"
+        ],
+        [
+         "Comunicação da TV Câmara",
+         "R$ 4.711.788,64"
+        ],
+        [
+         "Comunicação da Rádio Câmara",
+         "R$ 2.946.230,00"
+        ],
+        [
+         "Outras 2 ações",
+         "R$ 1.376.236,60"
+        ]
+       ],
+       "total": "R$ 270.068.462,35",
+       "destaque": "Repasse recebido da prefeitura (duodécimo) R$ 292.656.444,00 · devolveu R$ 21.470.431,58 (razão da Câmara, PCMGE018)"
+      }
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "rotulo": "R$ 660 MI",
+      "valor": 659532940.1,
+      "tipo": "predio",
+      "t": 5.21,
+      "folha": {
+       "titulo": "DÍVIDAS E ENCARGOS · 2024",
+       "linhas": [
+        [
+         "Operações Especiais - Encargos da Dívida Pública",
+         "R$ 400.965.337,40"
+        ],
+        [
+         "Operações Especiais - Atendimento a Sentenças Judiciais",
+         "R$ 161.442.012,31"
+        ],
+        [
+         "Operações Especiais - Encargos com PIS/PASEP",
+         "R$ 97.125.590,39"
+        ]
+       ],
+       "total": "R$ 659.532.940,10"
+      }
+     }
+    ],
+    "ano": "2024",
+    "cor": "dourado",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2024: R$ 12,20 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência"
+    ],
+    "ja_ano": {
+     "Educação": 2691768316.85,
+     "Saúde": 3001710668.07,
+     "Administração e previdência": 1836049107.99
+    },
+    "anos_ant": {},
+    "t0": 30.61,
+    "volta": 0,
+    "gastou_ano": 12388275960.56
+   },
+   "inicio": 30.61,
+   "fim": 38.24
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Transporte e mobilidade",
+      "rotulo": "R$ 309 MI",
+      "valor": 308600890.08,
+      "tipo": "rua",
+      "t": 0.2,
+      "folha": {
+       "titulo": "TRANSPORTE E MOBILIDADE · 2024",
+       "linhas": [
+        [
+         "Fomento de Ações para Melhoria de Mobilidade Urbana",
+         "R$ 109.826.605,23"
+        ],
+        [
+         "Implantação de Corredores de Transportes Públicos Integrados - BRT Salvador",
+         "R$ 90.088.232,63"
+        ],
+        [
+         "Manutenção das Estações, Terminais, Abrigos e Passarelas",
+         "R$ 46.269.672,89"
+        ],
+        [
+         "Administração de Pessoal e Encargos - FMMU",
+         "R$ 20.023.098,00"
+        ],
+        [
+         "Manutenção dos Serviços Técnicos e Administrativos - FMMU",
+         "R$ 12.918.315,90"
+        ],
+        [
+         "Transporte Seguro e Confortável - Implantação e Revitalização de Equipamentos Públicos de Transporte",
+         "R$ 9.602.704,07"
+        ],
+        [
+         "Outras 8 ações",
+         "R$ 19.872.261,36"
+        ]
+       ],
+       "total": "R$ 308.600.890,08"
+      }
+     },
+     {
+      "nome": "Festas e eventos",
+      "rotulo": "R$ 220 MI",
+      "valor": 219867311.19,
+      "tipo": "casa",
+      "t": 2.06,
+      "folha": {
+       "titulo": "FESTAS E EVENTOS · 2024",
+       "linhas": [
+        [
+         "Salvador Capital da Alegria - Calendário Anual de Eventos e Festas Populares",
+         "R$ 219.172.129,23"
+        ],
+        [
+         "Promoção e Apoio a Ações e Eventos Especiais - SEMOP",
+         "R$ 400.000,00"
+        ],
+        [
+         "Promoção e Apoio a Ações e Eventos Especiais - SEMIT",
+         "R$ 193.000,00"
+        ],
+        [
+         "Promoção e Apoio a Ações e Eventos Especiais - SEMGE",
+         "R$ 102.181,96"
+        ]
+       ],
+       "total": "R$ 219.867.311,19",
+       "destaque": "Ações de eventos e festas (Saltur e secretarias); fora da Cultura (regra 99)"
+      }
+     },
+     {
+      "nome": "Cultura e turismo",
+      "rotulo": "R$ 139 MI",
+      "valor": 138798869.34,
+      "tipo": "predio",
+      "t": 4.92,
+      "folha": {
+       "titulo": "CULTURA E TURISMO · 2024",
+       "linhas": [
+        [
+         "Instalação e Dinamização do Complexo Cidade da Música",
+         "R$ 34.434.961,05"
+        ],
+        [
+         "Salvador Te Espera - Fortalecimento de Salvador no Circuito do Turismo",
+         "R$ 21.645.769,56"
+        ],
+        [
+         "Administração de Pessoal e Encargos - FGM",
+         "R$ 12.151.442,89"
+        ],
+        [
+         "Desenvolvimento da Infraestrutura e Qualificação Turística - PRODETUR SALVADOR",
+         "R$ 11.346.534,51"
+        ],
+        [
+         "Manutenção de Equipamentos Turísticos",
+         "R$ 10.286.843,36"
+        ],
+        [
+         "Tudo é Arte em Toda Parte - Fomento à Produção Artística e Cultural",
+         "R$ 9.844.982,66"
+        ],
+        [
+         "Outras 23 ações",
+         "R$ 39.088.335,31"
+        ]
+       ],
+       "total": "R$ 138.798.869,34"
+      }
+     },
+     {
+      "nome": "Assistência social",
+      "rotulo": "R$ 307 MI",
+      "valor": 306997042.66,
+      "tipo": "casa",
+      "t": 7.68,
+      "folha": {
+       "titulo": "ASSISTÊNCIA SOCIAL · 2024",
+       "linhas": [
+        [
+         "Manutenção dos Serviços Técnicos e Administrativos - FMAS",
+         "R$ 71.311.438,35"
+        ],
+        [
+         "Benefícios Eventuais para Situação de Vulnerabilidade Social",
+         "R$ 32.092.633,68"
+        ],
+        [
+         "Administração de Pessoal e Encargos - FCM",
+         "R$ 25.992.534,98"
+        ],
+        [
+         "Primeiro Passo - Ações de Assistência Social para a Primeira Infância",
+         "R$ 24.083.630,99"
+        ],
+        [
+         "Implementação de Ações de Atendimento à População em Situação de Rua",
+         "R$ 18.201.425,23"
+        ],
+        [
+         "Manutenção e Operacionalização dos Serviços Técnicos e Administrativos das Unidades de Atendimento do CADÚNICO e dos Pro",
+         "R$ 15.191.006,93"
+        ],
+        [
+         "Outras 30 ações",
+         "R$ 120.124.372,50"
+        ]
+       ],
+       "total": "R$ 306.997.042,66"
+      }
+     }
+    ],
+    "ano": "2024",
+    "cor": "dourado",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2024: R$ 12,20 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos"
+    ],
+    "ja_ano": {
+     "Educação": 2691768316.85,
+     "Saúde": 3001710668.07,
+     "Administração e previdência": 1836049107.99,
+     "Obras e serviços urbanos": 2813268903.19,
+     "Câmara de Vereadores": 270068462.35,
+     "Dívidas e encargos": 659532940.1
+    },
+    "anos_ant": {},
+    "t0": 38.24,
+    "volta": 0,
+    "gastou_ano": 12388275960.56
+   },
+   "inicio": 38.24,
+   "fim": 48.58
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Meio ambiente",
+      "rotulo": "R$ 50 MI",
+      "valor": 49972792.27,
+      "tipo": "campo",
+      "t": 0.2,
+      "folha": {
+       "titulo": "MEIO AMBIENTE · 2024",
+       "linhas": [
+        [
+         "Verde Vivo - Tratamento Paisagístico do Município de Salvador",
+         "R$ 28.112.368,21"
+        ],
+        [
+         "Administração de Pessoal e Encargos - SECIS",
+         "R$ 7.555.859,94"
+        ],
+        [
+         "Implantação e Revitalização de Parques Verdes e Hortos",
+         "R$ 7.134.740,71"
+        ],
+        [
+         "Manutenção dos Serviços Técnicos e Administrativos - SECIS",
+         "R$ 3.419.304,43"
+        ],
+        [
+         "Manutenção de Parques, hortos e Jardim Botânico",
+         "R$ 1.689.880,54"
+        ],
+        [
+         "Operacionalização do Centro Municipal de Inovação (COLABORE)",
+         "R$ 976.825,91"
+        ],
+        [
+         "Outras 4 ações",
+         "R$ 1.083.812,53"
+        ]
+       ],
+       "total": "R$ 49.972.792,27"
+      }
+     },
+     {
+      "nome": "Agricultura",
+      "rotulo": "R$ 457 MIL",
+      "valor": 457110.0,
+      "tipo": "campo",
+      "t": 1.96,
+      "folha": {
+       "titulo": "AGRICULTURA · 2024",
+       "linhas": [
+        [
+         "Horta Soteropolitana - Programa de Agricultura Urbana",
+         "R$ 457.110,00"
+        ]
+       ],
+       "total": "R$ 457.110,00"
+      }
+     },
+     {
+      "nome": "Esporte e lazer",
+      "rotulo": "R$ 91,2 MI",
+      "valor": 91183546.47,
+      "tipo": "campo",
+      "t": 4.74,
+      "folha": {
+       "titulo": "ESPORTE E LAZER · 2024",
+       "linhas": [
+        [
+         "Revitalizar e Requalificar Equipamentos Esportivos e de Lazer",
+         "R$ 71.617.177,00"
+        ],
+        [
+         "Construção e Implantação de Arena Multiuso - Salvador",
+         "R$ 7.964.829,79"
+        ],
+        [
+         "Promoção e Atração de Eventos Esportivos e de Lazer",
+         "R$ 6.942.767,29"
+        ],
+        [
+         "Apoio à Atletas e Delegações Representativas",
+         "R$ 2.297.841,20"
+        ],
+        [
+         "Gestão dos Equipamentos Esportivos e de Lazer",
+         "R$ 1.625.479,62"
+        ],
+        [
+         "Implantação e Implementação de Programas de Atividades Esportivas",
+         "R$ 735.451,57"
+        ]
+       ],
+       "total": "R$ 91.183.546,47"
+      }
+     }
+    ],
+    "ano": "2024",
+    "cor": "dourado",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2024: R$ 12,20 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social"
+    ],
+    "ja_ano": {
+     "Educação": 2691768316.85,
+     "Saúde": 3001710668.07,
+     "Administração e previdência": 1836049107.99,
+     "Obras e serviços urbanos": 2813268903.19,
+     "Câmara de Vereadores": 270068462.35,
+     "Dívidas e encargos": 659532940.1,
+     "Transporte e mobilidade": 308600890.08,
+     "Festas e eventos": 219867311.19,
+     "Cultura e turismo": 138798869.34,
+     "Assistência social": 306997042.66
+    },
+    "anos_ant": {},
+    "t0": 48.58,
+    "volta": 0,
+    "gastou_ano": 12388275960.56
+   },
+   "inicio": 48.58,
+   "fim": 55.56
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Educação",
+      "rotulo": "R$ 2,64 BI",
+      "valor": 2642934577.05,
+      "tipo": "escola",
+      "t": 8.26,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 2,69 BI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "EDUCAÇÃO · 2025",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - Ensino Fundamental",
+         "R$ 1.105.555.640,24"
+        ],
+        [
+         "Manutencao das Unidades de Ensino Fundamental",
+         "R$ 442.799.004,50"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - Educacao Infantil - Pre-Escola",
+         "R$ 153.803.264,01"
+        ],
+        [
+         "Manutencao dos Centros Municipais de Educacao Infantil - CMEI - Pre-Escola",
+         "R$ 118.154.010,96"
+        ],
+        [
+         "Fomento às Escolas Comunitarias, Filantropicas e Confessionais - Creche",
+         "R$ 111.131.899,43"
+        ],
+        [
+         "Construcao e Reconstrucao de Novas Unidades de Ensino Fundamental - Espaco para Todos",
+         "R$ 101.544.677,93"
+        ],
+        [
+         "Outras 20 ações",
+         "R$ 609.946.079,98"
+        ]
+       ],
+       "total": "R$ 2.642.934.577,05"
+      }
+     },
+     {
+      "nome": "Saúde",
+      "rotulo": "R$ 3,03 BI",
+      "valor": 3031009263.21,
+      "tipo": "hospital",
+      "t": 10.92,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 3,00 BI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "SAÚDE · 2025",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - SMS",
+         "R$ 1.038.718.163,34"
+        ],
+        [
+         "Rede Forte - Saude de Media e Alta Complexidade",
+         "R$ 869.310.997,07"
+        ],
+        [
+         "Gestao da Rede de Urgencia e Emergencia",
+         "R$ 440.009.806,62"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - FMS",
+         "R$ 219.442.057,52"
+        ],
+        [
+         "Manutencao do Hospital Municipal",
+         "R$ 156.590.255,81"
+        ],
+        [
+         "Promocao das Acoes Basicas de Saude",
+         "R$ 140.722.201,25"
+        ],
+        [
+         "Outras 12 ações",
+         "R$ 166.215.781,60"
+        ]
+       ],
+       "total": "R$ 3.031.009.263,21"
+      }
+     },
+     {
+      "nome": "Administração e previdência",
+      "rotulo": "R$ 2,06 BI",
+      "valor": 2058221491.63,
+      "tipo": "predio",
+      "t": 12.9,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 1,84 BI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "ADMINISTRAÇÃO E PREVIDÊNCIA · 2025",
+       "linhas": [
+        [
+         "Concessao de Beneficios - Previdencia do Regime Estatutario - FUMPREV PREV",
+         "R$ 751.792.450,12"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - CGM",
+         "R$ 326.048.602,43"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - GCM",
+         "R$ 139.698.280,04"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - SEMGE",
+         "R$ 107.255.841,73"
+        ],
+        [
+         "Encargos Diversos da PMS",
+         "R$ 97.601.945,87"
+        ],
+        [
+         "Prefeitura Comunica - Publicidade Institucional das Acoes de Governo",
+         "R$ 90.547.596,36"
+        ],
+        [
+         "Outras 86 ações",
+         "R$ 545.276.775,08"
+        ]
+       ],
+       "total": "R$ 2.058.221.491,63",
+       "destaque": "Inclui previdência dos servidores, guarda civil, defesa civil, publicidade e demais secretarias"
+      }
+     }
+    ],
+    "ano": "2025",
+    "cor": "verde",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2025: R$ 12,39 BI",
+    "folha_receita": {
+     "titulo": "RECEITA 2025",
+     "linhas": [
+      [
+       "Transferências (União, Estado, Fundeb, SUS)",
+       "R$ 5.371.732.367,64"
+      ],
+      [
+       "Impostos e taxas da cidade (IPTU, ISS, ITBI...)",
+       "R$ 4.890.151.464,11"
+      ],
+      [
+       "Contribuições (previdência dos servidores, iluminação)",
+       "R$ 612.616.586,68"
+      ],
+      [
+       "Intraorçamentárias (contribuição patronal e outras)",
+       "R$ 498.559.339,86"
+      ],
+      [
+       "Rendimentos e receita patrimonial",
+       "R$ 398.100.521,26"
+      ],
+      [
+       "Empréstimos (operações de crédito)",
+       "R$ 232.428.420,55"
+      ],
+      [
+       "Outras receitas correntes",
+       "R$ 194.985.030,35"
+      ],
+      [
+       "Outras receitas de capital",
+       "R$ 124.246.624,24"
+      ],
+      [
+       "Transferências de capital (convênios de obras)",
+       "R$ 30.751.357,25"
+      ],
+      [
+       "Receita de serviços",
+       "R$ 29.305.995,76"
+      ],
+      [
+       "Venda de bens",
+       "R$ 2.397.388,67"
+      ]
+     ],
+     "total": "R$ 12.385.275.096,37",
+     "t": 57.48
+    },
+    "destaques": [
+     {
+      "rotulo": "ARRECADOU R$ 12,39 BI",
+      "t": 1.92
+     },
+     {
+      "rotulo": "GASTOU R$ 11,90 BI",
+      "t": 3.98
+     },
+     {
+      "rotulo": "SOBRARAM R$ 486 MI",
+      "t": 6.16,
+      "cor": "verde"
+     }
+    ],
+    "saldo": {
+     "tipo": "sobrou",
+     "rotulo": "SOBRARAM R$ 486 MI",
+     "valor": 486237597.62,
+     "t": 6.16
+    },
+    "gastou": {
+     "rotulo": "GASTOU R$ 11,90 BI",
+     "valor": 11899037498.75,
+     "t": 3.98
+    },
+    "arrecadou": {
+     "rotulo": "R$ 12,39 BI",
+     "valor": 12385275096.37,
+     "t": 1.92
+    },
+    "inicio_ano": true,
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {},
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      }
+     ]
+    },
+    "t0": 55.56,
+    "volta": 1,
+    "gastou_ano": 11899037498.75
+   },
+   "inicio": 55.56,
+   "fim": 71.12
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Obras e serviços urbanos",
+      "rotulo": "R$ 2,11 BI",
+      "valor": 2106445116.37,
+      "tipo": "rua",
+      "t": 0.2,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 2,81 BI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "OBRAS E SERVIÇOS URBANOS · 2025",
+       "linhas": [
+        [
+         "Manutencao dos Servicos de Limpeza Urbana",
+         "R$ 539.996.350,16"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FUNCIP",
+         "R$ 332.910.730,75"
+        ],
+        [
+         "Manutencao dos Destinos Finais e Transbordo",
+         "R$ 150.265.672,26"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - CODESAL",
+         "R$ 131.750.949,00"
+        ],
+        [
+         "Sistema Viario Moderno - Implantacao de Infraestrutura Viaria",
+         "R$ 128.144.423,07"
+        ],
+        [
+         "Novo Mane Dende",
+         "R$ 121.585.255,25"
+        ],
+        [
+         "Outras 51 ações",
+         "R$ 701.791.735,88"
+        ]
+       ],
+       "total": "R$ 2.106.445.116,37"
+      }
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "rotulo": "R$ 293 MI",
+      "valor": 292704874.22,
+      "tipo": "predio",
+      "t": 3.36,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 270 MI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "CÂMARA DE VEREADORES · 2025",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - FCF",
+         "R$ 177.489.376,67"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - FCF",
+         "R$ 69.298.850,40"
+        ],
+        [
+         "Manutencao dos Servicos de Tecnologia da Informacao",
+         "R$ 23.843.589,47"
+        ],
+        [
+         "Publicidade das Acoes do Legislativo",
+         "R$ 14.167.367,18"
+        ],
+        [
+         "Comunicacao da TV Camara",
+         "R$ 4.740.000,00"
+        ],
+        [
+         "Comunicacao da Radio Camara",
+         "R$ 2.950.896,75"
+        ],
+        [
+         "Outras 1 ações",
+         "R$ 214.793,75"
+        ]
+       ],
+       "total": "R$ 292.704.874,22",
+       "destaque": "Repasse recebido da prefeitura (duodécimo) R$ 344.184.951,00 · devolveu R$ 50.596.314,90 (razão da Câmara, PCMGE018)"
+      }
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "rotulo": "R$ 839 MI",
+      "valor": 839113896.65,
+      "tipo": "predio",
+      "t": 5.6,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 660 MI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "DÍVIDAS E ENCARGOS · 2025",
+       "linhas": [
+        [
+         "Operacoes Especiais - Encargos da Divida Publica",
+         "R$ 482.431.526,39"
+        ],
+        [
+         "Operacoes Especiais - Atendimento a Sentencas Judiciais",
+         "R$ 255.551.589,23"
+        ],
+        [
+         "Operacoes Especiais - Encargos com PIS/PASEP",
+         "R$ 101.130.781,03"
+        ]
+       ],
+       "total": "R$ 839.113.896,65"
+      }
+     }
+    ],
+    "ano": "2025",
+    "cor": "verde",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2025: R$ 12,39 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2642934577.05,
+     "Saúde": 3031009263.21,
+     "Administração e previdência": 2058221491.63
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      }
+     ]
+    },
+    "t0": 71.12,
+    "volta": 1,
+    "gastou_ano": 11899037498.75
+   },
+   "inicio": 71.12,
+   "fim": 79.48
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Transporte e mobilidade",
+      "rotulo": "R$ 204 MI",
+      "valor": 203534196.04,
+      "tipo": "rua",
+      "t": 0.2,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 309 MI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "TRANSPORTE E MOBILIDADE · 2025",
+       "linhas": [
+        [
+         "Fomento de Acoes para Melhoria de Mobilidade Urbana",
+         "R$ 77.631.907,45"
+        ],
+        [
+         "Manutencao das Estacoes, Terminais, Abrigos e Passarelas",
+         "R$ 42.192.922,82"
+        ],
+        [
+         "Implantacao de Corredores de Transportes Publicos Integrados - BRT Salvador",
+         "R$ 39.642.579,01"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FMMU",
+         "R$ 21.219.388,95"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - FMMU",
+         "R$ 12.201.053,63"
+        ],
+        [
+         "Manutencao do Transporte Coletivo de Passageiros por Ônibus",
+         "R$ 3.755.318,92"
+        ],
+        [
+         "Outras 6 ações",
+         "R$ 6.891.025,26"
+        ]
+       ],
+       "total": "R$ 203.534.196,04"
+      }
+     },
+     {
+      "nome": "Festas e eventos",
+      "rotulo": "R$ 159 MI",
+      "valor": 158544959.36,
+      "tipo": "casa",
+      "t": 2.06,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 220 MI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "FESTAS E EVENTOS · 2025",
+       "linhas": [
+        [
+         "Salvador Capital da Alegria - Calendario Anual de Eventos e Festas Populares",
+         "R$ 158.244.959,36"
+        ],
+        [
+         "Promocao e Apoio a Acoes e Eventos Especiais - SEMOP",
+         "R$ 300.000,00"
+        ]
+       ],
+       "total": "R$ 158.544.959,36",
+       "destaque": "Ações de eventos e festas (Saltur e secretarias); fora da Cultura (regra 99)"
+      }
+     },
+     {
+      "nome": "Cultura e turismo",
+      "rotulo": "R$ 127 MI",
+      "valor": 127170067.01,
+      "tipo": "predio",
+      "t": 4.64,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 139 MI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "CULTURA E TURISMO · 2025",
+       "linhas": [
+        [
+         "Salvador Te Espera - Fortalecimento de Salvador no Circuito do Turismo",
+         "R$ 25.291.328,13"
+        ],
+        [
+         "Tudo e Arte em Toda Parte - Fomento à Producao Artistica e Cultural",
+         "R$ 16.928.794,92"
+        ],
+        [
+         "Instalacao e Dinamizacao do Complexo Cidade da Musica",
+         "R$ 14.384.356,93"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FGM",
+         "R$ 14.081.343,41"
+        ],
+        [
+         "Manutencao de Equipamentos Turisticos",
+         "R$ 13.401.663,86"
+        ],
+        [
+         "Gestao de Equipamentos Turisticos/Culturais",
+         "R$ 6.822.474,09"
+        ],
+        [
+         "Outras 18 ações",
+         "R$ 36.260.105,67"
+        ]
+       ],
+       "total": "R$ 127.170.067,01"
+      }
+     },
+     {
+      "nome": "Assistência social",
+      "rotulo": "R$ 309 MI",
+      "valor": 308959903.36,
+      "tipo": "casa",
+      "t": 7.48,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 307 MI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "ASSISTÊNCIA SOCIAL · 2025",
+       "linhas": [
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - FMAS",
+         "R$ 71.085.819,36"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FCM",
+         "R$ 27.727.855,34"
+        ],
+        [
+         "Beneficios Eventuais para Situacao de Vulnerabilidade Social",
+         "R$ 27.310.252,43"
+        ],
+        [
+         "Implementacao de Acoes de Atendimento à Populacao em Situacao de Rua",
+         "R$ 18.738.447,75"
+        ],
+        [
+         "Primeiro Passo - Acoes de Assistencia Social para a Primeira Infancia",
+         "R$ 18.348.877,58"
+        ],
+        [
+         "Implementacao dos Programas Sociais Vinculados",
+         "R$ 15.127.680,99"
+        ],
+        [
+         "Outras 30 ações",
+         "R$ 130.620.969,91"
+        ]
+       ],
+       "total": "R$ 308.959.903,36"
+      }
+     }
+    ],
+    "ano": "2025",
+    "cor": "verde",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2025: R$ 12,39 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2642934577.05,
+     "Saúde": 3031009263.21,
+     "Administração e previdência": 2058221491.63,
+     "Obras e serviços urbanos": 2106445116.37,
+     "Câmara de Vereadores": 292704874.22,
+     "Dívidas e encargos": 839113896.65
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      }
+     ]
+    },
+    "t0": 79.48,
+    "volta": 1,
+    "gastou_ano": 11899037498.75
+   },
+   "inicio": 79.48,
+   "fim": 89.58
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Meio ambiente",
+      "rotulo": "R$ 38,8 MI",
+      "valor": 38815827.55,
+      "tipo": "campo",
+      "t": 0.2,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 50 MI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "MEIO AMBIENTE · 2025",
+       "linhas": [
+        [
+         "Verde Vivo - Tratamento Paisagistico do Municipio de Salvador",
+         "R$ 18.558.705,00"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - SECIS",
+         "R$ 8.541.972,92"
+        ],
+        [
+         "Implantacao e Revitalizacao de Parques Verdes e Hortos",
+         "R$ 3.802.630,97"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - SECIS",
+         "R$ 3.519.189,63"
+        ],
+        [
+         "Manutencao de Parques, hortos e Jardim Botanico",
+         "R$ 1.460.706,25"
+        ],
+        [
+         "Operacionalizacao do Centro Municipal de Inovacao (COLABORE)",
+         "R$ 1.137.514,86"
+        ],
+        [
+         "Outras 5 ações",
+         "R$ 1.795.107,92"
+        ]
+       ],
+       "total": "R$ 38.815.827,55"
+      }
+     },
+     {
+      "nome": "Agricultura",
+      "rotulo": "R$ 86 MIL",
+      "valor": 85760.0,
+      "tipo": "campo",
+      "t": 1.92,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 457 MIL",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "AGRICULTURA · 2025",
+       "linhas": [
+        [
+         "Horta Soteropolitana - Programa de Agricultura Urbana",
+         "R$ 85.760,00"
+        ]
+       ],
+       "total": "R$ 85.760,00"
+      }
+     },
+     {
+      "nome": "Esporte e lazer",
+      "rotulo": "R$ 91,5 MI",
+      "valor": 91497566.3,
+      "tipo": "campo",
+      "t": 3.8,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 91,2 MI",
+        "cor": "dourado"
+       }
+      ],
+      "folha": {
+       "titulo": "ESPORTE E LAZER · 2025",
+       "linhas": [
+        [
+         "Construcao e Implantacao de Arena Multiuso - Salvador",
+         "R$ 58.254.156,43"
+        ],
+        [
+         "Revitalizar e Requalificar Equipamentos Esportivos e de Lazer",
+         "R$ 25.232.677,51"
+        ],
+        [
+         "Promocao e Atracao de Eventos Esportivos e de Lazer",
+         "R$ 3.057.701,15"
+        ],
+        [
+         "Gestao dos Equipamentos Esportivos e de Lazer",
+         "R$ 2.991.231,21"
+        ],
+        [
+         "Apoio à Atletas e Delegacoes Representativas",
+         "R$ 1.961.800,00"
+        ]
+       ],
+       "total": "R$ 91.497.566,30"
+      }
+     }
+    ],
+    "ano": "2025",
+    "cor": "verde",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2025: R$ 12,39 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2642934577.05,
+     "Saúde": 3031009263.21,
+     "Administração e previdência": 2058221491.63,
+     "Obras e serviços urbanos": 2106445116.37,
+     "Câmara de Vereadores": 292704874.22,
+     "Dívidas e encargos": 839113896.65,
+     "Transporte e mobilidade": 203534196.04,
+     "Festas e eventos": 158544959.36,
+     "Cultura e turismo": 127170067.01,
+     "Assistência social": 308959903.36
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      }
+     ]
+    },
+    "t0": 89.58,
+    "volta": 1,
+    "gastou_ano": 11899037498.75
+   },
+   "inicio": 89.58,
+   "fim": 96.22
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Educação",
+      "rotulo": "R$ 2,16 BI",
+      "valor": 2163025633.39,
+      "tipo": "escola",
+      "t": 5.68,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 2,69 BI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 2,64 BI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "EDUCAÇÃO · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - Ensino Fundamental",
+         "R$ 957.600.967,56"
+        ],
+        [
+         "Gestao das Unidades de Ensino Fundamental",
+         "R$ 408.997.578,44"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - Educacao Infantil - Pre Escola",
+         "R$ 133.500.806,01"
+        ],
+        [
+         "Escolas Parceiras - Creche",
+         "R$ 101.875.181,16"
+        ],
+        [
+         "Gestao dos Centros Municipais de Educacao Infantil - CMEI - Pre-Escola",
+         "R$ 78.164.702,34"
+        ],
+        [
+         "Escolas Parceiras - Pre Escola",
+         "R$ 73.733.274,91"
+        ],
+        [
+         "Outras 23 ações",
+         "R$ 409.153.122,97"
+        ]
+       ],
+       "total": "R$ 2.163.025.633,39"
+      }
+     },
+     {
+      "nome": "Saúde",
+      "rotulo": "R$ 2,44 BI",
+      "valor": 2436698686.31,
+      "tipo": "hospital",
+      "t": 8.7,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 3,00 BI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 3,03 BI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "SAÚDE · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - SMS",
+         "R$ 775.451.675,30"
+        ],
+        [
+         "Rede Forte - Ampliacao do Atendimento à Saude de Media e Alta Complexidade",
+         "R$ 667.800.640,37"
+        ],
+        [
+         "Gestao da Rede de Urgencia e Emergencia",
+         "R$ 305.590.861,34"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - FMS",
+         "R$ 215.979.308,01"
+        ],
+        [
+         "Promocao das Acoes Basicas de Saude",
+         "R$ 156.389.703,52"
+        ],
+        [
+         "Operacionalizacao do Hospital Municipal",
+         "R$ 113.555.668,97"
+        ],
+        [
+         "Outras 16 ações",
+         "R$ 201.930.828,80"
+        ]
+       ],
+       "total": "R$ 2.436.698.686,31"
+      }
+     },
+     {
+      "nome": "Administração e previdência",
+      "rotulo": "R$ 1,72 BI",
+      "valor": 1719453937.01,
+      "tipo": "predio",
+      "t": 11.28,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 1,84 BI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 2,06 BI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "ADMINISTRAÇÃO E PREVIDÊNCIA · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Concessao de Beneficios - Previdencia do Regime Estatutario - FUMPRES PREV",
+         "R$ 615.978.208,36"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - SACPB",
+         "R$ 275.857.624,68"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - SACPB",
+         "R$ 100.321.776,04"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - GCM",
+         "R$ 100.126.673,42"
+        ],
+        [
+         "Prefetura Comunica - Publicidade Institucional das Acoes de Governo",
+         "R$ 93.811.518,88"
+        ],
+        [
+         "Encargos Diversos da PMS",
+         "R$ 60.930.268,76"
+        ],
+        [
+         "Outras 84 ações",
+         "R$ 472.427.866,87"
+        ]
+       ],
+       "total": "R$ 1.719.453.937,01",
+       "destaque": "Inclui previdência dos servidores, guarda civil, defesa civil, publicidade e demais secretarias"
+      }
+     }
+    ],
+    "ano": "2026 · A",
+    "cor": "rosa",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2026 ATÉ SETEMBRO: R$ 10,89 BI",
+    "folha_receita": {
+     "titulo": "RECEITA 2026 ATÉ SET",
+     "linhas": [
+      [
+       "Transferências (União, Estado, Fundeb, SUS)",
+       "R$ 4.552.948.401,25"
+      ],
+      [
+       "Impostos e taxas da cidade (IPTU, ISS, ITBI...)",
+       "R$ 4.004.302.123,13"
+      ],
+      [
+       "Empréstimos (operações de crédito)",
+       "R$ 901.387.651,72"
+      ],
+      [
+       "Contribuições (previdência dos servidores, iluminação)",
+       "R$ 475.472.516,99"
+      ],
+      [
+       "Rendimentos e receita patrimonial",
+       "R$ 357.957.762,93"
+      ],
+      [
+       "Intraorçamentárias (contribuição patronal e outras)",
+       "R$ 314.978.823,04"
+      ],
+      [
+       "Outras receitas correntes",
+       "R$ 147.598.270,52"
+      ],
+      [
+       "Outras receitas de capital",
+       "R$ 78.131.532,94"
+      ],
+      [
+       "Receita de serviços",
+       "R$ 41.731.734,18"
+      ],
+      [
+       "Transferências de capital (convênios de obras)",
+       "R$ 11.303.823,27"
+      ],
+      [
+       "Venda de bens",
+       "R$ 8.084.671,84"
+      ]
+     ],
+     "total": "R$ 10.893.897.311,81",
+     "t": 98.58
+    },
+    "destaques": [
+     {
+      "rotulo": "ARRECADOU R$ 10,89 BI",
+      "t": 2.36
+     },
+     {
+      "rotulo": "GASTOU R$ 9,88 BI",
+      "t": 4.4
+     }
+    ],
+    "gastou": {
+     "rotulo": "GASTOU R$ 9,88 BI",
+     "valor": 9880455414.29,
+     "t": 4.4
+    },
+    "arrecadou": {
+     "rotulo": "R$ 10,89 BI",
+     "valor": 10893897311.81,
+     "t": 2.36
+    },
+    "inicio_ano": true,
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {},
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      },
+      {
+       "cor": "verde",
+       "valor": 2642934577.05
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      },
+      {
+       "cor": "verde",
+       "valor": 3031009263.21
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      },
+      {
+       "cor": "verde",
+       "valor": 2058221491.63
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      },
+      {
+       "cor": "verde",
+       "valor": 2106445116.37
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      },
+      {
+       "cor": "verde",
+       "valor": 292704874.22
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      },
+      {
+       "cor": "verde",
+       "valor": 839113896.65
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      },
+      {
+       "cor": "verde",
+       "valor": 203534196.04
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      },
+      {
+       "cor": "verde",
+       "valor": 158544959.36
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      },
+      {
+       "cor": "verde",
+       "valor": 127170067.01
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      },
+      {
+       "cor": "verde",
+       "valor": 308959903.36
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      },
+      {
+       "cor": "verde",
+       "valor": 38815827.55
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      },
+      {
+       "cor": "verde",
+       "valor": 85760.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      },
+      {
+       "cor": "verde",
+       "valor": 91497566.3
+      }
+     ]
+    },
+    "t0": 96.22,
+    "volta": 2,
+    "gastou_ano": 9880455414.29
+   },
+   "inicio": 96.22,
+   "fim": 111.14
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Obras e serviços urbanos",
+      "rotulo": "R$ 1,70 BI",
+      "valor": 1701601674.48,
+      "tipo": "rua",
+      "t": 0.2,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 2,81 BI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 2,11 BI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "OBRAS E SERVIÇOS URBANOS · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Manutencao dos Servicos de Limpeza Urbana",
+         "R$ 416.806.444,08"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FUNCIP",
+         "R$ 242.515.975,93"
+        ],
+        [
+         "Requalificacao e Pavimentacao de Vias",
+         "R$ 118.854.720,72"
+        ],
+        [
+         "Gestao dos Destinos Finais de Residuos e Disposicao de Rejeitos",
+         "R$ 104.799.359,99"
+        ],
+        [
+         "Conservar para Nao Parar - Conservacao e Requalificacao da Malha Viaria",
+         "R$ 98.067.855,63"
+        ],
+        [
+         "Cidade Acesa - Melhoria da Gestao dos Servicos de Iluminacao Publica",
+         "R$ 90.649.701,58"
+        ],
+        [
+         "Outras 46 ações",
+         "R$ 629.907.616,55"
+        ]
+       ],
+       "total": "R$ 1.701.601.674,48"
+      }
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "rotulo": "R$ 227 MI",
+      "valor": 226532039.91,
+      "tipo": "predio",
+      "t": 2.54,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 270 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 293 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "CÂMARA DE VEREADORES · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - FCF",
+         "R$ 128.229.364,46"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - FCF",
+         "R$ 64.198.538,09"
+        ],
+        [
+         "Manutencao de Tecnologia da Informacao e Comunicacao - CMS",
+         "R$ 21.510.465,79"
+        ],
+        [
+         "Publicidade das Acoes do Legislativo",
+         "R$ 7.297.495,36"
+        ],
+        [
+         "Comunicacao da TV Camera",
+         "R$ 3.160.000,00"
+        ],
+        [
+         "Comunicacao da Radio Camera",
+         "R$ 1.965.881,21"
+        ],
+        [
+         "Outras 1 ações",
+         "R$ 170.295,00"
+        ]
+       ],
+       "total": "R$ 226.532.039,91",
+       "destaque": "Repasse recebido da prefeitura (duodécimo) R$ 262.155.750,03 (razão da Câmara, PCMGE018)"
+      }
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "rotulo": "R$ 538 MI",
+      "valor": 538004930.7,
+      "tipo": "predio",
+      "t": 4.52,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 660 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 839 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "DÍVIDAS E ENCARGOS · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Operacoes Especiais - Encargos da Divida Publica - SALTUR",
+         "R$ 346.297.701,31"
+        ],
+        [
+         "Operacoes Especiais - Atendimento a Sentencas Judiciais - EGM-SEFAZ",
+         "R$ 111.855.529,80"
+        ],
+        [
+         "Operacoes Especiais - Encargos com PIS/PASEP - SMART",
+         "R$ 79.851.699,59"
+        ]
+       ],
+       "total": "R$ 538.004.930,70"
+      }
+     }
+    ],
+    "ano": "2026 · A",
+    "cor": "rosa",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2026 ATÉ SETEMBRO: R$ 10,89 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2163025633.39,
+     "Saúde": 2436698686.31,
+     "Administração e previdência": 1719453937.01
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      },
+      {
+       "cor": "verde",
+       "valor": 2642934577.05
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      },
+      {
+       "cor": "verde",
+       "valor": 3031009263.21
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      },
+      {
+       "cor": "verde",
+       "valor": 2058221491.63
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      },
+      {
+       "cor": "verde",
+       "valor": 2106445116.37
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      },
+      {
+       "cor": "verde",
+       "valor": 292704874.22
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      },
+      {
+       "cor": "verde",
+       "valor": 839113896.65
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      },
+      {
+       "cor": "verde",
+       "valor": 203534196.04
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      },
+      {
+       "cor": "verde",
+       "valor": 158544959.36
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      },
+      {
+       "cor": "verde",
+       "valor": 127170067.01
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      },
+      {
+       "cor": "verde",
+       "valor": 308959903.36
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      },
+      {
+       "cor": "verde",
+       "valor": 38815827.55
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      },
+      {
+       "cor": "verde",
+       "valor": 85760.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      },
+      {
+       "cor": "verde",
+       "valor": 91497566.3
+      }
+     ]
+    },
+    "t0": 111.14,
+    "volta": 2,
+    "gastou_ano": 9880455414.29
+   },
+   "inicio": 111.14,
+   "fim": 117.96
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Transporte e mobilidade",
+      "rotulo": "R$ 336 MI",
+      "valor": 336390071.56,
+      "tipo": "rua",
+      "t": 0.2,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 309 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 204 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "TRANSPORTE E MOBILIDADE · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Circula Salvador - Melhoria do Sistema dos Transportes Publicos Coletivos de Salvador",
+         "R$ 171.750.000,00"
+        ],
+        [
+         "Gestao de Riscos e Sustentabilidade das Concessoes de Transporte Publico",
+         "R$ 65.204.903,85"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - TRANSALVADOR",
+         "R$ 41.497.302,26"
+        ],
+        [
+         "Manutencao das Estacoes, Terminais, Abrigos e Passarelas",
+         "R$ 32.985.458,86"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - SEMOB",
+         "R$ 15.622.110,70"
+        ],
+        [
+         "Circula Salvador - Implantacao de Melhorias na Infraestrutura do Sistema de Mobilidade Urbana",
+         "R$ 2.997.076,15"
+        ],
+        [
+         "Outras 7 ações",
+         "R$ 6.333.219,74"
+        ]
+       ],
+       "total": "R$ 336.390.071,56"
+      }
+     },
+     {
+      "nome": "Festas e eventos",
+      "rotulo": "R$ 237 MI",
+      "valor": 237347758.12,
+      "tipo": "casa",
+      "t": 2.38,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 220 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 159 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "FESTAS E EVENTOS · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Salvador: Cidade Vibrante o Ano Inteiro",
+         "R$ 233.172.154,12"
+        ],
+        [
+         "Salvador Cidade da Cultura, dos Festivais e das Criancas",
+         "R$ 3.667.604,00"
+        ],
+        [
+         "Promocao e Apoio à Eventos Especiais - SEINFRA",
+         "R$ 480.000,00"
+        ],
+        [
+         "Promocao e Apoio à Eventos Especiais - SEMIT",
+         "R$ 28.000,00"
+        ]
+       ],
+       "total": "R$ 237.347.758,12",
+       "destaque": "Ações de eventos e festas (Saltur e secretarias); fora da Cultura (regra 99)"
+      }
+     },
+     {
+      "nome": "Cultura e turismo",
+      "rotulo": "R$ 93,6 MI",
+      "valor": 93629180.49,
+      "tipo": "predio",
+      "t": 5.08,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 139 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 127 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "CULTURA E TURISMO · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Salvador Te Espera - Fortalecimento de Salvador no Circuito do Turismo",
+         "R$ 18.861.416,30"
+        ],
+        [
+         "Manutencao de Equipamentos Turisticos/Culturais",
+         "R$ 15.681.375,19"
+        ],
+        [
+         "Implantacao e Recuperacao de Infraestrutura de Equipamentos Turisticos/ Culturais",
+         "R$ 12.884.886,92"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FGM",
+         "R$ 10.745.070,37"
+        ],
+        [
+         "Salvador das Artes - Fomento à Producao e Desenvolvimento de Atividades Artisticas e Culturais",
+         "R$ 9.877.205,59"
+        ],
+        [
+         "Ampliacao e Dinamizacao do Complexo Cidade da Musica",
+         "R$ 9.539.624,40"
+        ],
+        [
+         "Outras 15 ações",
+         "R$ 16.039.601,72"
+        ]
+       ],
+       "total": "R$ 93.629.180,49"
+      }
+     },
+     {
+      "nome": "Assistência social",
+      "rotulo": "R$ 262 MI",
+      "valor": 261907876.87,
+      "tipo": "casa",
+      "t": 7.52,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 307 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 309 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "ASSISTÊNCIA SOCIAL · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - SEMPRE",
+         "R$ 72.894.137,78"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FCM",
+         "R$ 20.718.179,49"
+        ],
+        [
+         "Implementacao das Acoes do Salvador Beneficios",
+         "R$ 16.912.115,74"
+        ],
+        [
+         "Implantacao e Implementacao do Vida Nova - Fase II",
+         "R$ 16.805.175,36"
+        ],
+        [
+         "Implementacao de Acoes de Atendimento à Populacao em Situacao de Rua",
+         "R$ 13.344.274,36"
+        ],
+        [
+         "Salvador Social - Monitoramento da Gestao do Projeto",
+         "R$ 12.680.283,50"
+        ],
+        [
+         "Outras 26 ações",
+         "R$ 108.553.710,64"
+        ]
+       ],
+       "total": "R$ 261.907.876,87"
+      }
+     }
+    ],
+    "ano": "2026 · A",
+    "cor": "rosa",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2026 ATÉ SETEMBRO: R$ 10,89 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2163025633.39,
+     "Saúde": 2436698686.31,
+     "Administração e previdência": 1719453937.01,
+     "Obras e serviços urbanos": 1701601674.48,
+     "Câmara de Vereadores": 226532039.91,
+     "Dívidas e encargos": 538004930.7
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      },
+      {
+       "cor": "verde",
+       "valor": 2642934577.05
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      },
+      {
+       "cor": "verde",
+       "valor": 3031009263.21
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      },
+      {
+       "cor": "verde",
+       "valor": 2058221491.63
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      },
+      {
+       "cor": "verde",
+       "valor": 2106445116.37
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      },
+      {
+       "cor": "verde",
+       "valor": 292704874.22
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      },
+      {
+       "cor": "verde",
+       "valor": 839113896.65
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      },
+      {
+       "cor": "verde",
+       "valor": 203534196.04
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      },
+      {
+       "cor": "verde",
+       "valor": 158544959.36
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      },
+      {
+       "cor": "verde",
+       "valor": 127170067.01
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      },
+      {
+       "cor": "verde",
+       "valor": 308959903.36
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      },
+      {
+       "cor": "verde",
+       "valor": 38815827.55
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      },
+      {
+       "cor": "verde",
+       "valor": 85760.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      },
+      {
+       "cor": "verde",
+       "valor": 91497566.3
+      }
+     ]
+    },
+    "t0": 117.96,
+    "volta": 2,
+    "gastou_ano": 9880455414.29
+   },
+   "inicio": 117.96,
+   "fim": 128.4
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "setores": [
+     {
+      "nome": "Meio ambiente",
+      "rotulo": "R$ 37,3 MI",
+      "valor": 37324980.83,
+      "tipo": "campo",
+      "t": 0.2,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 50 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 38,8 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "MEIO AMBIENTE · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Verde Vivo - Manutencao do Paisagismo no Municipio de Salvador",
+         "R$ 21.465.876,85"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - SECIS",
+         "R$ 6.666.528,44"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - SECIS",
+         "R$ 3.968.274,17"
+        ],
+        [
+         "Programa de Arborizacao Urbana - Implantacao de Corredores e Rotas Verdes",
+         "R$ 2.700.000,00"
+        ],
+        [
+         "Implementacao da Politica Municipal para Residuos Solidos e Reciclagem",
+         "R$ 749.000,00"
+        ],
+        [
+         "Salvador Verde - Renaturalizacao de Espaco Urbano",
+         "R$ 500.000,00"
+        ],
+        [
+         "Outras 5 ações",
+         "R$ 1.275.301,37"
+        ]
+       ],
+       "total": "R$ 37.324.980,83"
+      }
+     },
+     {
+      "nome": "Agricultura",
+      "rotulo": "R$ 0",
+      "valor": 0.0,
+      "tipo": "campo",
+      "zerado": true,
+      "t": 1.88,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 457 MIL",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 86 MIL",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "AGRICULTURA · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Hortas Soteropolitanas - Programa de Agricultura Urbana: previsto R$ 360.000,00 · gasto",
+         "R$ 0,00"
+        ]
+       ],
+       "total": "R$ 0,00"
+      }
+     },
+     {
+      "nome": "Esporte e lazer",
+      "rotulo": "R$ 129 MI",
+      "valor": 128538644.62,
+      "tipo": "campo",
+      "t": 6.14,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 91,2 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 91,5 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "ESPORTE E LAZER · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Construcao e Implantacao da Arena Multiuso - Salvador",
+         "R$ 96.576.433,29"
+        ],
+        [
+         "Revitalizar e Requalificar Equipamentos Esportivos e de Lazer",
+         "R$ 19.161.718,89"
+        ],
+        [
+         "Implantacao e Implementacao do Sempre Esportivo",
+         "R$ 4.567.792,60"
+        ],
+        [
+         "Promocao e Atracoes de Eventos Esportivos",
+         "R$ 2.479.183,98"
+        ],
+        [
+         "Construcao de Equipamentos de Esporte e Lazer",
+         "R$ 2.091.399,99"
+        ],
+        [
+         "Gestao dos Equipamentos Esportivos e de Lazer",
+         "R$ 1.849.415,87"
+        ],
+        [
+         "Outras 1 ações",
+         "R$ 1.812.700,00"
+        ]
+       ],
+       "total": "R$ 128.538.644,62"
+      }
+     }
+    ],
+    "ano": "2026 · A",
+    "cor": "rosa",
+    "pilha_mi": 200.0,
+    "titulo": "ARRECADOU EM 2026 ATÉ SETEMBRO: R$ 10,89 BI",
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2163025633.39,
+     "Saúde": 2436698686.31,
+     "Administração e previdência": 1719453937.01,
+     "Obras e serviços urbanos": 1701601674.48,
+     "Câmara de Vereadores": 226532039.91,
+     "Dívidas e encargos": 538004930.7,
+     "Transporte e mobilidade": 336390071.56,
+     "Festas e eventos": 237347758.12,
+     "Cultura e turismo": 93629180.49,
+     "Assistência social": 261907876.87
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      },
+      {
+       "cor": "verde",
+       "valor": 2642934577.05
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      },
+      {
+       "cor": "verde",
+       "valor": 3031009263.21
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      },
+      {
+       "cor": "verde",
+       "valor": 2058221491.63
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      },
+      {
+       "cor": "verde",
+       "valor": 2106445116.37
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      },
+      {
+       "cor": "verde",
+       "valor": 292704874.22
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      },
+      {
+       "cor": "verde",
+       "valor": 839113896.65
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      },
+      {
+       "cor": "verde",
+       "valor": 203534196.04
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      },
+      {
+       "cor": "verde",
+       "valor": 158544959.36
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      },
+      {
+       "cor": "verde",
+       "valor": 127170067.01
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      },
+      {
+       "cor": "verde",
+       "valor": 308959903.36
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      },
+      {
+       "cor": "verde",
+       "valor": 38815827.55
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      },
+      {
+       "cor": "verde",
+       "valor": 85760.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      },
+      {
+       "cor": "verde",
+       "valor": 91497566.3
+      }
+     ]
+    },
+    "t0": 128.4,
+    "volta": 2,
+    "gastou_ano": 9880455414.29
+   },
+   "inicio": 128.4,
+   "fim": 136.96
+  },
+  {
+   "titulo": "EVENTOS DA SALTUR: PREVIA x GASTOU",
+   "peca": "barras",
+   "dados": {
+    "valores": [
+     79.99,
+     219.17,
+     138.05,
+     158.24,
+     143.44,
+     233.17
+    ],
+    "rotulos": [
+     "2024 PREVIA R$ 80 MI",
+     "2024 GASTOU R$ 219 MI",
+     "2025 PREVIA R$ 138 MI",
+     "2025 GASTOU R$ 158 MI",
+     "2026 PREVIA R$ 143 MI",
+     "ATÉ SET/2026 R$ 233 MI"
+    ],
+    "cores": [
+     "dourado claro",
+     "dourado",
+     "verde claro",
+     "verde",
+     "rosa claro",
+     "rosa"
+    ],
+    "titulo": "EVENTOS DA SALTUR: PREVIA x GASTOU",
+    "barras": [
+     {
+      "rotulo": "2024 PREVIA R$ 80 MI",
+      "valor": 79991000.0,
+      "cor": "dourado claro",
+      "t": 2.2
+     },
+     {
+      "rotulo": "2024 GASTOU R$ 219 MI",
+      "valor": 219166450.83,
+      "cor": "dourado",
+      "t": 4.38
+     },
+     {
+      "rotulo": "2025 PREVIA R$ 138 MI",
+      "valor": 138049000.0,
+      "cor": "verde claro",
+      "t": 7.46
+     },
+     {
+      "rotulo": "2025 GASTOU R$ 158 MI",
+      "valor": 158244959.36,
+      "cor": "verde",
+      "t": 8.72
+     },
+     {
+      "rotulo": "2026 PREVIA R$ 143 MI",
+      "valor": 143438000.0,
+      "cor": "rosa claro",
+      "t": 11.32
+     },
+     {
+      "rotulo": "ATÉ SET/2026 R$ 233 MI",
+      "valor": 233172154.12,
+      "cor": "rosa",
+      "t": 13.96
+     }
+    ],
+    "mesa": true,
+    "cor": "rosa",
+    "ano": "2026 · A",
+    "pilha_mi": 200.0,
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2163025633.39,
+     "Saúde": 2436698686.31,
+     "Administração e previdência": 1719453937.01,
+     "Obras e serviços urbanos": 1701601674.48,
+     "Câmara de Vereadores": 226532039.91,
+     "Dívidas e encargos": 538004930.7,
+     "Transporte e mobilidade": 336390071.56,
+     "Festas e eventos": 237347758.12,
+     "Cultura e turismo": 93629180.49,
+     "Assistência social": 261907876.87,
+     "Meio ambiente": 37324980.83,
+     "Agricultura": 0.0,
+     "Esporte e lazer": 128538644.62
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      },
+      {
+       "cor": "verde",
+       "valor": 2642934577.05
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      },
+      {
+       "cor": "verde",
+       "valor": 3031009263.21
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      },
+      {
+       "cor": "verde",
+       "valor": 2058221491.63
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      },
+      {
+       "cor": "verde",
+       "valor": 2106445116.37
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      },
+      {
+       "cor": "verde",
+       "valor": 292704874.22
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      },
+      {
+       "cor": "verde",
+       "valor": 839113896.65
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      },
+      {
+       "cor": "verde",
+       "valor": 203534196.04
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      },
+      {
+       "cor": "verde",
+       "valor": 158544959.36
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      },
+      {
+       "cor": "verde",
+       "valor": 127170067.01
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      },
+      {
+       "cor": "verde",
+       "valor": 308959903.36
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      },
+      {
+       "cor": "verde",
+       "valor": 38815827.55
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      },
+      {
+       "cor": "verde",
+       "valor": 85760.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      },
+      {
+       "cor": "verde",
+       "valor": 91497566.3
+      }
+     ]
+    },
+    "t0": 136.96,
+    "volta": 2,
+    "gastou_ano": 0
+   },
+   "inicio": 136.96,
+   "fim": 152.4
+  },
+  {
+   "titulo": "PUBLICIDADE: PREVIA x GASTOU (2026)",
+   "peca": "barras",
+   "dados": {
+    "valores": [
+     52.1,
+     93.81
+    ],
+    "rotulos": [
+     "2026 PREVIA R$ 52 MI",
+     "ATÉ SET/2026 R$ 94 MI"
+    ],
+    "cores": [
+     "rosa claro",
+     "rosa"
+    ],
+    "titulo": "PUBLICIDADE: PREVIA x GASTOU (2026)",
+    "barras": [
+     {
+      "rotulo": "2026 PREVIA R$ 52 MI",
+      "valor": 52096000.0,
+      "cor": "rosa claro",
+      "t": 1.66
+     },
+     {
+      "rotulo": "ATÉ SET/2026 R$ 94 MI",
+      "valor": 93811518.88,
+      "cor": "rosa",
+      "t": 4.08
+     }
+    ],
+    "mesa": true,
+    "cor": "rosa",
+    "ano": "2026 · A",
+    "pilha_mi": 200.0,
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2163025633.39,
+     "Saúde": 2436698686.31,
+     "Administração e previdência": 1719453937.01,
+     "Obras e serviços urbanos": 1701601674.48,
+     "Câmara de Vereadores": 226532039.91,
+     "Dívidas e encargos": 538004930.7,
+     "Transporte e mobilidade": 336390071.56,
+     "Festas e eventos": 237347758.12,
+     "Cultura e turismo": 93629180.49,
+     "Assistência social": 261907876.87,
+     "Meio ambiente": 37324980.83,
+     "Agricultura": 0.0,
+     "Esporte e lazer": 128538644.62
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      },
+      {
+       "cor": "verde",
+       "valor": 2642934577.05
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      },
+      {
+       "cor": "verde",
+       "valor": 3031009263.21
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      },
+      {
+       "cor": "verde",
+       "valor": 2058221491.63
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      },
+      {
+       "cor": "verde",
+       "valor": 2106445116.37
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      },
+      {
+       "cor": "verde",
+       "valor": 292704874.22
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      },
+      {
+       "cor": "verde",
+       "valor": 839113896.65
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      },
+      {
+       "cor": "verde",
+       "valor": 203534196.04
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      },
+      {
+       "cor": "verde",
+       "valor": 158544959.36
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      },
+      {
+       "cor": "verde",
+       "valor": 127170067.01
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      },
+      {
+       "cor": "verde",
+       "valor": 308959903.36
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      },
+      {
+       "cor": "verde",
+       "valor": 38815827.55
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      },
+      {
+       "cor": "verde",
+       "valor": 85760.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      },
+      {
+       "cor": "verde",
+       "valor": 91497566.3
+      }
+     ]
+    },
+    "t0": 152.4,
+    "volta": 2,
+    "gastou_ano": 0
+   },
+   "inicio": 152.4,
+   "fim": 157.58
+  },
+  {
+   "titulo": "ALIMENTAÇÃO ESCOLAR x EVENTOS (2026)",
+   "peca": "barras",
+   "dados": {
+    "valores": [
+     97.28,
+     233.17
+    ],
+    "rotulos": [
+     "ALIMENTAÇÃO ESCOLAR R$ 97 MI",
+     "EVENTOS R$ 233 MI"
+    ],
+    "cores": [
+     "vermelho",
+     "rosa"
+    ],
+    "titulo": "ALIMENTAÇÃO ESCOLAR x EVENTOS (2026)",
+    "barras": [
+     {
+      "rotulo": "ALIMENTAÇÃO ESCOLAR R$ 97 MI",
+      "valor": 97281131.39,
+      "cor": "vermelho",
+      "t": 1.14
+     },
+     {
+      "rotulo": "EVENTOS R$ 233 MI",
+      "valor": 233172154.12,
+      "cor": "rosa",
+      "t": 4.16
+     }
+    ],
+    "mesa": true,
+    "cor": "rosa",
+    "ano": "2026 · A",
+    "pilha_mi": 200.0,
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2163025633.39,
+     "Saúde": 2436698686.31,
+     "Administração e previdência": 1719453937.01,
+     "Obras e serviços urbanos": 1701601674.48,
+     "Câmara de Vereadores": 226532039.91,
+     "Dívidas e encargos": 538004930.7,
+     "Transporte e mobilidade": 336390071.56,
+     "Festas e eventos": 237347758.12,
+     "Cultura e turismo": 93629180.49,
+     "Assistência social": 261907876.87,
+     "Meio ambiente": 37324980.83,
+     "Agricultura": 0.0,
+     "Esporte e lazer": 128538644.62
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      },
+      {
+       "cor": "verde",
+       "valor": 2642934577.05
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      },
+      {
+       "cor": "verde",
+       "valor": 3031009263.21
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      },
+      {
+       "cor": "verde",
+       "valor": 2058221491.63
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      },
+      {
+       "cor": "verde",
+       "valor": 2106445116.37
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      },
+      {
+       "cor": "verde",
+       "valor": 292704874.22
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      },
+      {
+       "cor": "verde",
+       "valor": 839113896.65
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      },
+      {
+       "cor": "verde",
+       "valor": 203534196.04
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      },
+      {
+       "cor": "verde",
+       "valor": 158544959.36
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      },
+      {
+       "cor": "verde",
+       "valor": 127170067.01
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      },
+      {
+       "cor": "verde",
+       "valor": 308959903.36
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      },
+      {
+       "cor": "verde",
+       "valor": 38815827.55
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      },
+      {
+       "cor": "verde",
+       "valor": 85760.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      },
+      {
+       "cor": "verde",
+       "valor": 91497566.3
+      }
+     ]
+    },
+    "t0": 157.58,
+    "volta": 2,
+    "gastou_ano": 0
+   },
+   "inicio": 157.58,
+   "fim": 164.22
+  },
+  {
+   "titulo": "",
+   "peca": "maquete",
+   "dados": {
+    "ano": "2026 · A",
+    "cor": "rosa",
+    "pilha_mi": 200.0,
+    "setores": [
+     {
+      "nome": "Educação",
+      "rotulo": "R$ 2,16 BI",
+      "valor": 2163025633.39,
+      "tipo": "escola",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 2,69 BI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 2,64 BI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "EDUCAÇÃO · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - Ensino Fundamental",
+         "R$ 957.600.967,56"
+        ],
+        [
+         "Gestao das Unidades de Ensino Fundamental",
+         "R$ 408.997.578,44"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - Educacao Infantil - Pre Escola",
+         "R$ 133.500.806,01"
+        ],
+        [
+         "Escolas Parceiras - Creche",
+         "R$ 101.875.181,16"
+        ],
+        [
+         "Gestao dos Centros Municipais de Educacao Infantil - CMEI - Pre-Escola",
+         "R$ 78.164.702,34"
+        ],
+        [
+         "Escolas Parceiras - Pre Escola",
+         "R$ 73.733.274,91"
+        ],
+        [
+         "Outras 23 ações",
+         "R$ 409.153.122,97"
+        ]
+       ],
+       "total": "R$ 2.163.025.633,39"
+      }
+     },
+     {
+      "nome": "Saúde",
+      "rotulo": "R$ 2,44 BI",
+      "valor": 2436698686.31,
+      "tipo": "hospital",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 3,00 BI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 3,03 BI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "SAÚDE · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - SMS",
+         "R$ 775.451.675,30"
+        ],
+        [
+         "Rede Forte - Ampliacao do Atendimento à Saude de Media e Alta Complexidade",
+         "R$ 667.800.640,37"
+        ],
+        [
+         "Gestao da Rede de Urgencia e Emergencia",
+         "R$ 305.590.861,34"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - FMS",
+         "R$ 215.979.308,01"
+        ],
+        [
+         "Promocao das Acoes Basicas de Saude",
+         "R$ 156.389.703,52"
+        ],
+        [
+         "Operacionalizacao do Hospital Municipal",
+         "R$ 113.555.668,97"
+        ],
+        [
+         "Outras 16 ações",
+         "R$ 201.930.828,80"
+        ]
+       ],
+       "total": "R$ 2.436.698.686,31"
+      }
+     },
+     {
+      "nome": "Administração e previdência",
+      "rotulo": "R$ 1,72 BI",
+      "valor": 1719453937.01,
+      "tipo": "predio",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 1,84 BI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 2,06 BI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "ADMINISTRAÇÃO E PREVIDÊNCIA · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Concessao de Beneficios - Previdencia do Regime Estatutario - FUMPRES PREV",
+         "R$ 615.978.208,36"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - SACPB",
+         "R$ 275.857.624,68"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - SACPB",
+         "R$ 100.321.776,04"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - GCM",
+         "R$ 100.126.673,42"
+        ],
+        [
+         "Prefetura Comunica - Publicidade Institucional das Acoes de Governo",
+         "R$ 93.811.518,88"
+        ],
+        [
+         "Encargos Diversos da PMS",
+         "R$ 60.930.268,76"
+        ],
+        [
+         "Outras 84 ações",
+         "R$ 472.427.866,87"
+        ]
+       ],
+       "total": "R$ 1.719.453.937,01",
+       "destaque": "Inclui previdência dos servidores, guarda civil, defesa civil, publicidade e demais secretarias"
+      }
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "rotulo": "R$ 1,70 BI",
+      "valor": 1701601674.48,
+      "tipo": "rua",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 2,81 BI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 2,11 BI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "OBRAS E SERVIÇOS URBANOS · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Manutencao dos Servicos de Limpeza Urbana",
+         "R$ 416.806.444,08"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FUNCIP",
+         "R$ 242.515.975,93"
+        ],
+        [
+         "Requalificacao e Pavimentacao de Vias",
+         "R$ 118.854.720,72"
+        ],
+        [
+         "Gestao dos Destinos Finais de Residuos e Disposicao de Rejeitos",
+         "R$ 104.799.359,99"
+        ],
+        [
+         "Conservar para Nao Parar - Conservacao e Requalificacao da Malha Viaria",
+         "R$ 98.067.855,63"
+        ],
+        [
+         "Cidade Acesa - Melhoria da Gestao dos Servicos de Iluminacao Publica",
+         "R$ 90.649.701,58"
+        ],
+        [
+         "Outras 46 ações",
+         "R$ 629.907.616,55"
+        ]
+       ],
+       "total": "R$ 1.701.601.674,48"
+      }
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "rotulo": "R$ 227 MI",
+      "valor": 226532039.91,
+      "tipo": "predio",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 270 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 293 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "CÂMARA DE VEREADORES · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Administracao de Pessoal e Encargos - FCF",
+         "R$ 128.229.364,46"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - FCF",
+         "R$ 64.198.538,09"
+        ],
+        [
+         "Manutencao de Tecnologia da Informacao e Comunicacao - CMS",
+         "R$ 21.510.465,79"
+        ],
+        [
+         "Publicidade das Acoes do Legislativo",
+         "R$ 7.297.495,36"
+        ],
+        [
+         "Comunicacao da TV Camera",
+         "R$ 3.160.000,00"
+        ],
+        [
+         "Comunicacao da Radio Camera",
+         "R$ 1.965.881,21"
+        ],
+        [
+         "Outras 1 ações",
+         "R$ 170.295,00"
+        ]
+       ],
+       "total": "R$ 226.532.039,91",
+       "destaque": "Repasse recebido da prefeitura (duodécimo) R$ 262.155.750,03 (razão da Câmara, PCMGE018)"
+      }
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "rotulo": "R$ 538 MI",
+      "valor": 538004930.7,
+      "tipo": "predio",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 660 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 839 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "DÍVIDAS E ENCARGOS · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Operacoes Especiais - Encargos da Divida Publica - SALTUR",
+         "R$ 346.297.701,31"
+        ],
+        [
+         "Operacoes Especiais - Atendimento a Sentencas Judiciais - EGM-SEFAZ",
+         "R$ 111.855.529,80"
+        ],
+        [
+         "Operacoes Especiais - Encargos com PIS/PASEP - SMART",
+         "R$ 79.851.699,59"
+        ]
+       ],
+       "total": "R$ 538.004.930,70"
+      }
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "rotulo": "R$ 336 MI",
+      "valor": 336390071.56,
+      "tipo": "rua",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 309 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 204 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "TRANSPORTE E MOBILIDADE · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Circula Salvador - Melhoria do Sistema dos Transportes Publicos Coletivos de Salvador",
+         "R$ 171.750.000,00"
+        ],
+        [
+         "Gestao de Riscos e Sustentabilidade das Concessoes de Transporte Publico",
+         "R$ 65.204.903,85"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - TRANSALVADOR",
+         "R$ 41.497.302,26"
+        ],
+        [
+         "Manutencao das Estacoes, Terminais, Abrigos e Passarelas",
+         "R$ 32.985.458,86"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - SEMOB",
+         "R$ 15.622.110,70"
+        ],
+        [
+         "Circula Salvador - Implantacao de Melhorias na Infraestrutura do Sistema de Mobilidade Urbana",
+         "R$ 2.997.076,15"
+        ],
+        [
+         "Outras 7 ações",
+         "R$ 6.333.219,74"
+        ]
+       ],
+       "total": "R$ 336.390.071,56"
+      }
+     },
+     {
+      "nome": "Festas e eventos",
+      "rotulo": "R$ 237 MI",
+      "valor": 237347758.12,
+      "tipo": "casa",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 220 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 159 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "FESTAS E EVENTOS · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Salvador: Cidade Vibrante o Ano Inteiro",
+         "R$ 233.172.154,12"
+        ],
+        [
+         "Salvador Cidade da Cultura, dos Festivais e das Criancas",
+         "R$ 3.667.604,00"
+        ],
+        [
+         "Promocao e Apoio à Eventos Especiais - SEINFRA",
+         "R$ 480.000,00"
+        ],
+        [
+         "Promocao e Apoio à Eventos Especiais - SEMIT",
+         "R$ 28.000,00"
+        ]
+       ],
+       "total": "R$ 237.347.758,12",
+       "destaque": "Ações de eventos e festas (Saltur e secretarias); fora da Cultura (regra 99)"
+      }
+     },
+     {
+      "nome": "Cultura e turismo",
+      "rotulo": "R$ 93,6 MI",
+      "valor": 93629180.49,
+      "tipo": "predio",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 139 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 127 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "CULTURA E TURISMO · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Salvador Te Espera - Fortalecimento de Salvador no Circuito do Turismo",
+         "R$ 18.861.416,30"
+        ],
+        [
+         "Manutencao de Equipamentos Turisticos/Culturais",
+         "R$ 15.681.375,19"
+        ],
+        [
+         "Implantacao e Recuperacao de Infraestrutura de Equipamentos Turisticos/ Culturais",
+         "R$ 12.884.886,92"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FGM",
+         "R$ 10.745.070,37"
+        ],
+        [
+         "Salvador das Artes - Fomento à Producao e Desenvolvimento de Atividades Artisticas e Culturais",
+         "R$ 9.877.205,59"
+        ],
+        [
+         "Ampliacao e Dinamizacao do Complexo Cidade da Musica",
+         "R$ 9.539.624,40"
+        ],
+        [
+         "Outras 15 ações",
+         "R$ 16.039.601,72"
+        ]
+       ],
+       "total": "R$ 93.629.180,49"
+      }
+     },
+     {
+      "nome": "Assistência social",
+      "rotulo": "R$ 262 MI",
+      "valor": 261907876.87,
+      "tipo": "casa",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 307 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 309 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "ASSISTÊNCIA SOCIAL · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - SEMPRE",
+         "R$ 72.894.137,78"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - FCM",
+         "R$ 20.718.179,49"
+        ],
+        [
+         "Implementacao das Acoes do Salvador Beneficios",
+         "R$ 16.912.115,74"
+        ],
+        [
+         "Implantacao e Implementacao do Vida Nova - Fase II",
+         "R$ 16.805.175,36"
+        ],
+        [
+         "Implementacao de Acoes de Atendimento à Populacao em Situacao de Rua",
+         "R$ 13.344.274,36"
+        ],
+        [
+         "Salvador Social - Monitoramento da Gestao do Projeto",
+         "R$ 12.680.283,50"
+        ],
+        [
+         "Outras 26 ações",
+         "R$ 108.553.710,64"
+        ]
+       ],
+       "total": "R$ 261.907.876,87"
+      }
+     },
+     {
+      "nome": "Meio ambiente",
+      "rotulo": "R$ 37,3 MI",
+      "valor": 37324980.83,
+      "tipo": "campo",
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 50 MI",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 38,8 MI",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "MEIO AMBIENTE · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Verde Vivo - Manutencao do Paisagismo no Municipio de Salvador",
+         "R$ 21.465.876,85"
+        ],
+        [
+         "Administracao de Pessoal e Encargos - SECIS",
+         "R$ 6.666.528,44"
+        ],
+        [
+         "Manutencao dos Servicos Tecnicos e Administrativos - SECIS",
+         "R$ 3.968.274,17"
+        ],
+        [
+         "Programa de Arborizacao Urbana - Implantacao de Corredores e Rotas Verdes",
+         "R$ 2.700.000,00"
+        ],
+        [
+         "Implementacao da Politica Municipal para Residuos Solidos e Reciclagem",
+         "R$ 749.000,00"
+        ],
+        [
+         "Salvador Verde - Renaturalizacao de Espaco Urbano",
+         "R$ 500.000,00"
+        ],
+        [
+         "Outras 5 ações",
+         "R$ 1.275.301,37"
+        ]
+       ],
+       "total": "R$ 37.324.980,83"
+      }
+     },
+     {
+      "nome": "Agricultura",
+      "rotulo": "R$ 0",
+      "valor": 0.0,
+      "tipo": "campo",
+      "zerado": true,
+      "t": 0.0,
+      "anteriores": [
+       {
+        "ano": "2024",
+        "rotulo": "R$ 457 MIL",
+        "cor": "dourado"
+       },
+       {
+        "ano": "2025",
+        "rotulo": "R$ 86 MIL",
+        "cor": "verde"
+       }
+      ],
+      "folha": {
+       "titulo": "AGRICULTURA · 2026 ATÉ SET",
+       "linhas": [
+        [
+         "Hortas Soteropolitanas - Programa de Agricultura Urbana: previsto R$ 360.000,00 · gasto",
+         "R$ 0,00"
+        ]
+       ],
+       "total": "R$ 0,00"
+      }
+     }
+    ],
+    "visao_geral": true,
+    "todos": [
+     {
+      "nome": "Educação",
+      "tipo": "escola"
+     },
+     {
+      "nome": "Saúde",
+      "tipo": "hospital"
+     },
+     {
+      "nome": "Administração e previdência",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Obras e serviços urbanos",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Câmara de Vereadores",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Dívidas e encargos",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Transporte e mobilidade",
+      "tipo": "rua"
+     },
+     {
+      "nome": "Festas e eventos",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Cultura e turismo",
+      "tipo": "predio"
+     },
+     {
+      "nome": "Assistência social",
+      "tipo": "casa"
+     },
+     {
+      "nome": "Meio ambiente",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Agricultura",
+      "tipo": "campo"
+     },
+     {
+      "nome": "Esporte e lazer",
+      "tipo": "campo"
+     }
+    ],
+    "ja": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ordem": [
+     "Educação",
+     "Saúde",
+     "Administração e previdência",
+     "Obras e serviços urbanos",
+     "Câmara de Vereadores",
+     "Dívidas e encargos",
+     "Transporte e mobilidade",
+     "Festas e eventos",
+     "Cultura e turismo",
+     "Assistência social",
+     "Meio ambiente",
+     "Agricultura",
+     "Esporte e lazer"
+    ],
+    "ja_ano": {
+     "Educação": 2163025633.39,
+     "Saúde": 2436698686.31,
+     "Administração e previdência": 1719453937.01,
+     "Obras e serviços urbanos": 1701601674.48,
+     "Câmara de Vereadores": 226532039.91,
+     "Dívidas e encargos": 538004930.7,
+     "Transporte e mobilidade": 336390071.56,
+     "Festas e eventos": 237347758.12,
+     "Cultura e turismo": 93629180.49,
+     "Assistência social": 261907876.87,
+     "Meio ambiente": 37324980.83,
+     "Agricultura": 0.0,
+     "Esporte e lazer": 128538644.62
+    },
+    "anos_ant": {
+     "Educação": [
+      {
+       "cor": "dourado",
+       "valor": 2691768316.85
+      },
+      {
+       "cor": "verde",
+       "valor": 2642934577.05
+      }
+     ],
+     "Saúde": [
+      {
+       "cor": "dourado",
+       "valor": 3001710668.07
+      },
+      {
+       "cor": "verde",
+       "valor": 3031009263.21
+      }
+     ],
+     "Administração e previdência": [
+      {
+       "cor": "dourado",
+       "valor": 1836049107.99
+      },
+      {
+       "cor": "verde",
+       "valor": 2058221491.63
+      }
+     ],
+     "Obras e serviços urbanos": [
+      {
+       "cor": "dourado",
+       "valor": 2813268903.19
+      },
+      {
+       "cor": "verde",
+       "valor": 2106445116.37
+      }
+     ],
+     "Câmara de Vereadores": [
+      {
+       "cor": "dourado",
+       "valor": 270068462.35
+      },
+      {
+       "cor": "verde",
+       "valor": 292704874.22
+      }
+     ],
+     "Dívidas e encargos": [
+      {
+       "cor": "dourado",
+       "valor": 659532940.1
+      },
+      {
+       "cor": "verde",
+       "valor": 839113896.65
+      }
+     ],
+     "Transporte e mobilidade": [
+      {
+       "cor": "dourado",
+       "valor": 308600890.08
+      },
+      {
+       "cor": "verde",
+       "valor": 203534196.04
+      }
+     ],
+     "Festas e eventos": [
+      {
+       "cor": "dourado",
+       "valor": 219867311.19
+      },
+      {
+       "cor": "verde",
+       "valor": 158544959.36
+      }
+     ],
+     "Cultura e turismo": [
+      {
+       "cor": "dourado",
+       "valor": 138798869.34
+      },
+      {
+       "cor": "verde",
+       "valor": 127170067.01
+      }
+     ],
+     "Assistência social": [
+      {
+       "cor": "dourado",
+       "valor": 306997042.66
+      },
+      {
+       "cor": "verde",
+       "valor": 308959903.36
+      }
+     ],
+     "Meio ambiente": [
+      {
+       "cor": "dourado",
+       "valor": 49972792.27
+      },
+      {
+       "cor": "verde",
+       "valor": 38815827.55
+      }
+     ],
+     "Agricultura": [
+      {
+       "cor": "dourado",
+       "valor": 457110.0
+      },
+      {
+       "cor": "verde",
+       "valor": 85760.0
+      }
+     ],
+     "Esporte e lazer": [
+      {
+       "cor": "dourado",
+       "valor": 91183546.47
+      },
+      {
+       "cor": "verde",
+       "valor": 91497566.3
+      }
+     ]
+    },
+    "t0": 164.22,
+    "volta": 2,
+    "gastou_ano": 9880455414.29
+   },
+   "inicio": 164.22,
+   "fim": 167.79
+  }
+ ],
+ "audio": "audio/1000-150-salvador-final.wav",
+ "visual": "magno"
+}

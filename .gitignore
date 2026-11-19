@@ -6,3 +6,5 @@ public/audio/*.mp3
 edicoes/**/*.mp4
 edicoes/**/quadro-*.png
 edicoes/**/montagem.png
+referencias/**/*.mp4
+motor-rs/target/

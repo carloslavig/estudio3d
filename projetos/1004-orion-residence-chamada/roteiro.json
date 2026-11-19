@@ -1,0 +1,590 @@
+{
+  "titulo": "Órion Residence: chamada de pré-cadastro",
+  "estilo": "padrao",
+  "legenda": [
+    {
+      "inicio": 0.12,
+      "fim": 1.06,
+      "texto": "Você sabia?",
+      "palavras": [
+        {
+          "inicio": 0.12,
+          "fim": 0.36,
+          "texto": "Você"
+        },
+        {
+          "inicio": 0.36,
+          "fim": 1.06,
+          "texto": "sabia?"
+        }
+      ]
+    },
+    {
+      "inicio": 1.06,
+      "fim": 3.62,
+      "texto": "A constelação de Órion é",
+      "palavras": [
+        {
+          "inicio": 1.06,
+          "fim": 1.86,
+          "texto": "A"
+        },
+        {
+          "inicio": 1.86,
+          "fim": 2.56,
+          "texto": "constelação"
+        },
+        {
+          "inicio": 2.56,
+          "fim": 2.8,
+          "texto": "de"
+        },
+        {
+          "inicio": 2.8,
+          "fim": 3.2,
+          "texto": "Órion"
+        },
+        {
+          "inicio": 3.2,
+          "fim": 3.62,
+          "texto": "é"
+        }
+      ]
+    },
+    {
+      "inicio": 3.62,
+      "fim": 5.32,
+      "texto": "vista de quase todo o",
+      "palavras": [
+        {
+          "inicio": 3.62,
+          "fim": 3.98,
+          "texto": "vista"
+        },
+        {
+          "inicio": 3.98,
+          "fim": 4.22,
+          "texto": "de"
+        },
+        {
+          "inicio": 4.22,
+          "fim": 4.66,
+          "texto": "quase"
+        },
+        {
+          "inicio": 4.66,
+          "fim": 5.12,
+          "texto": "todo"
+        },
+        {
+          "inicio": 5.12,
+          "fim": 5.32,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 5.32,
+      "fim": 6.09,
+      "texto": "planeta.",
+      "palavras": [
+        {
+          "inicio": 5.32,
+          "fim": 5.94,
+          "texto": "planeta."
+        }
+      ]
+    },
+    {
+      "inicio": 6.78,
+      "fim": 8.44,
+      "texto": "As Três Marias são o",
+      "palavras": [
+        {
+          "inicio": 6.78,
+          "fim": 7.04,
+          "texto": "As"
+        },
+        {
+          "inicio": 7.04,
+          "fim": 7.34,
+          "texto": "Três"
+        },
+        {
+          "inicio": 7.34,
+          "fim": 7.78,
+          "texto": "Marias"
+        },
+        {
+          "inicio": 7.78,
+          "fim": 8.28,
+          "texto": "são"
+        },
+        {
+          "inicio": 8.28,
+          "fim": 8.44,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 8.44,
+      "fim": 10.72,
+      "texto": "cinturão dela, e na sua",
+      "palavras": [
+        {
+          "inicio": 8.44,
+          "fim": 9.06,
+          "texto": "cinturão"
+        },
+        {
+          "inicio": 9.06,
+          "fim": 9.5,
+          "texto": "dela,"
+        },
+        {
+          "inicio": 9.5,
+          "fim": 10.4,
+          "texto": "e"
+        },
+        {
+          "inicio": 10.4,
+          "fim": 10.54,
+          "texto": "na"
+        },
+        {
+          "inicio": 10.54,
+          "fim": 10.72,
+          "texto": "sua"
+        }
+      ]
+    },
+    {
+      "inicio": 10.72,
+      "fim": 13.73,
+      "texto": "nebulosa nascem novas estrelas.",
+      "palavras": [
+        {
+          "inicio": 10.72,
+          "fim": 11.44,
+          "texto": "nebulosa"
+        },
+        {
+          "inicio": 11.44,
+          "fim": 12.24,
+          "texto": "nascem"
+        },
+        {
+          "inicio": 12.24,
+          "fim": 12.78,
+          "texto": "novas"
+        },
+        {
+          "inicio": 12.78,
+          "fim": 13.58,
+          "texto": "estrelas."
+        }
+      ]
+    },
+    {
+      "inicio": 14.7,
+      "fim": 16.7,
+      "texto": "Foi essa constelação que inspirou",
+      "palavras": [
+        {
+          "inicio": 14.7,
+          "fim": 14.92,
+          "texto": "Foi"
+        },
+        {
+          "inicio": 14.92,
+          "fim": 15.26,
+          "texto": "essa"
+        },
+        {
+          "inicio": 15.26,
+          "fim": 16.02,
+          "texto": "constelação"
+        },
+        {
+          "inicio": 16.02,
+          "fim": 16.2,
+          "texto": "que"
+        },
+        {
+          "inicio": 16.2,
+          "fim": 16.7,
+          "texto": "inspirou"
+        }
+      ]
+    },
+    {
+      "inicio": 16.7,
+      "fim": 18.94,
+      "texto": "um novo endereço em Ilhéus,",
+      "palavras": [
+        {
+          "inicio": 16.7,
+          "fim": 16.88,
+          "texto": "um"
+        },
+        {
+          "inicio": 16.88,
+          "fim": 17.28,
+          "texto": "novo"
+        },
+        {
+          "inicio": 17.28,
+          "fim": 17.88,
+          "texto": "endereço"
+        },
+        {
+          "inicio": 17.88,
+          "fim": 18.1,
+          "texto": "em"
+        },
+        {
+          "inicio": 18.1,
+          "fim": 18.94,
+          "texto": "Ilhéus,"
+        }
+      ]
+    },
+    {
+      "inicio": 18.94,
+      "fim": 20.75,
+      "texto": "o Órion Residence,",
+      "palavras": [
+        {
+          "inicio": 18.94,
+          "fim": 19.44,
+          "texto": "o"
+        },
+        {
+          "inicio": 19.44,
+          "fim": 19.92,
+          "texto": "Órion"
+        },
+        {
+          "inicio": 19.92,
+          "fim": 20.6,
+          "texto": "Residence,"
+        }
+      ]
+    },
+    {
+      "inicio": 21.72,
+      "fim": 23.5,
+      "texto": "no bairro São Francisco,",
+      "palavras": [
+        {
+          "inicio": 21.72,
+          "fim": 21.86,
+          "texto": "no"
+        },
+        {
+          "inicio": 21.86,
+          "fim": 22.2,
+          "texto": "bairro"
+        },
+        {
+          "inicio": 22.2,
+          "fim": 22.44,
+          "texto": "São"
+        },
+        {
+          "inicio": 22.44,
+          "fim": 23.5,
+          "texto": "Francisco,"
+        }
+      ]
+    },
+    {
+      "inicio": 23.5,
+      "fim": 24.67,
+      "texto": "com vista para o mar.",
+      "palavras": [
+        {
+          "inicio": 23.5,
+          "fim": 23.68,
+          "texto": "com"
+        },
+        {
+          "inicio": 23.68,
+          "fim": 24,
+          "texto": "vista"
+        },
+        {
+          "inicio": 24,
+          "fim": 24.26,
+          "texto": "para"
+        },
+        {
+          "inicio": 24.26,
+          "fim": 24.38,
+          "texto": "o"
+        },
+        {
+          "inicio": 24.38,
+          "fim": 24.52,
+          "texto": "mar."
+        }
+      ]
+    },
+    {
+      "inicio": 25.68,
+      "fim": 27.22,
+      "texto": "Apartamentos de 2 e 3",
+      "palavras": [
+        {
+          "inicio": 25.68,
+          "fim": 26.22,
+          "texto": "Apartamentos"
+        },
+        {
+          "inicio": 26.22,
+          "fim": 26.42,
+          "texto": "de"
+        },
+        {
+          "inicio": 26.42,
+          "fim": 26.8,
+          "texto": "2"
+        },
+        {
+          "inicio": 26.8,
+          "fim": 27,
+          "texto": "e"
+        },
+        {
+          "inicio": 27,
+          "fim": 27.22,
+          "texto": "3"
+        }
+      ]
+    },
+    {
+      "inicio": 27.22,
+      "fim": 29.68,
+      "texto": "quartos, a partir de 62",
+      "palavras": [
+        {
+          "inicio": 27.22,
+          "fim": 28.24,
+          "texto": "quartos,"
+        },
+        {
+          "inicio": 28.24,
+          "fim": 28.36,
+          "texto": "a"
+        },
+        {
+          "inicio": 28.36,
+          "fim": 28.66,
+          "texto": "partir"
+        },
+        {
+          "inicio": 28.66,
+          "fim": 28.88,
+          "texto": "de"
+        },
+        {
+          "inicio": 28.88,
+          "fim": 29.68,
+          "texto": "62"
+        }
+      ]
+    },
+    {
+      "inicio": 29.68,
+      "fim": 32.68,
+      "texto": "metros quadrados e de 410",
+      "palavras": [
+        {
+          "inicio": 29.68,
+          "fim": 30.06,
+          "texto": "metros"
+        },
+        {
+          "inicio": 30.06,
+          "fim": 30.76,
+          "texto": "quadrados"
+        },
+        {
+          "inicio": 30.76,
+          "fim": 31.3,
+          "texto": "e"
+        },
+        {
+          "inicio": 31.3,
+          "fim": 31.44,
+          "texto": "de"
+        },
+        {
+          "inicio": 31.44,
+          "fim": 32.68,
+          "texto": "410"
+        }
+      ]
+    },
+    {
+      "inicio": 32.68,
+      "fim": 36.14,
+      "texto": "mil reais No rooftop,",
+      "palavras": [
+        {
+          "inicio": 32.68,
+          "fim": 33.02,
+          "texto": "mil"
+        },
+        {
+          "inicio": 33.02,
+          "fim": 33.34,
+          "texto": "reais"
+        },
+        {
+          "inicio": 34.92,
+          "fim": 35.12,
+          "texto": "No"
+        },
+        {
+          "inicio": 35.12,
+          "fim": 36.14,
+          "texto": "rooftop,"
+        }
+      ]
+    },
+    {
+      "inicio": 36.14,
+      "fim": 37.82,
+      "texto": "piscina com prainha,",
+      "palavras": [
+        {
+          "inicio": 36.14,
+          "fim": 36.64,
+          "texto": "piscina"
+        },
+        {
+          "inicio": 36.64,
+          "fim": 36.88,
+          "texto": "com"
+        },
+        {
+          "inicio": 36.88,
+          "fim": 37.82,
+          "texto": "prainha,"
+        }
+      ]
+    },
+    {
+      "inicio": 37.82,
+      "fim": 40.07,
+      "texto": "área gourmet e wellness club",
+      "palavras": [
+        {
+          "inicio": 37.82,
+          "fim": 38.04,
+          "texto": "área"
+        },
+        {
+          "inicio": 38.04,
+          "fim": 38.52,
+          "texto": "gourmet"
+        },
+        {
+          "inicio": 38.52,
+          "fim": 39.1,
+          "texto": "e"
+        },
+        {
+          "inicio": 39.1,
+          "fim": 39.5,
+          "texto": "wellness"
+        },
+        {
+          "inicio": 39.5,
+          "fim": 39.92,
+          "texto": "club"
+        }
+      ]
+    },
+    {
+      "inicio": 41.1,
+      "fim": 44.48,
+      "texto": "O pré-lançamento já começou Chame",
+      "palavras": [
+        {
+          "inicio": 41.1,
+          "fim": 41.32,
+          "texto": "O"
+        },
+        {
+          "inicio": 41.32,
+          "fim": 42.24,
+          "texto": "pré-lançamento"
+        },
+        {
+          "inicio": 42.24,
+          "fim": 42.56,
+          "texto": "já"
+        },
+        {
+          "inicio": 42.56,
+          "fim": 43.04,
+          "texto": "começou"
+        },
+        {
+          "inicio": 44.14,
+          "fim": 44.48,
+          "texto": "Chame"
+        }
+      ]
+    },
+    {
+      "inicio": 44.48,
+      "fim": 46.16,
+      "texto": "agora e faça o seu",
+      "palavras": [
+        {
+          "inicio": 44.48,
+          "fim": 44.86,
+          "texto": "agora"
+        },
+        {
+          "inicio": 44.86,
+          "fim": 45.46,
+          "texto": "e"
+        },
+        {
+          "inicio": 45.46,
+          "fim": 45.88,
+          "texto": "faça"
+        },
+        {
+          "inicio": 45.88,
+          "fim": 46.04,
+          "texto": "o"
+        },
+        {
+          "inicio": 46.04,
+          "fim": 46.16,
+          "texto": "seu"
+        }
+      ]
+    },
+    {
+      "inicio": 46.16,
+      "fim": 47.07,
+      "texto": "pré-cadastro",
+      "palavras": [
+        {
+          "inicio": 46.16,
+          "fim": 46.92,
+          "texto": "pré-cadastro"
+        }
+      ]
+    }
+  ],
+  "cenas": [],
+  "audio": "audio/1004-orion-residence-chamada.wav"
+}

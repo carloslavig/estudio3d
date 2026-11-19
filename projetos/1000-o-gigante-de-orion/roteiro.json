@@ -1,0 +1,668 @@
+{
+  "titulo": "O Gigante de Orion",
+  "estilo": "padrao",
+  "legenda": [
+    {
+      "inicio": 0.1,
+      "fim": 1.44,
+      "texto": "Na noite de inverno,",
+      "palavras": [
+        {
+          "inicio": 0.1,
+          "fim": 0.26,
+          "texto": "Na"
+        },
+        {
+          "inicio": 0.26,
+          "fim": 0.58,
+          "texto": "noite"
+        },
+        {
+          "inicio": 0.58,
+          "fim": 0.82,
+          "texto": "de"
+        },
+        {
+          "inicio": 0.82,
+          "fim": 1.44,
+          "texto": "inverno,"
+        }
+      ]
+    },
+    {
+      "inicio": 1.44,
+      "fim": 3.28,
+      "texto": "um gigante com capa de",
+      "palavras": [
+        {
+          "inicio": 1.44,
+          "fim": 1.94,
+          "texto": "um"
+        },
+        {
+          "inicio": 1.94,
+          "fim": 2.48,
+          "texto": "gigante"
+        },
+        {
+          "inicio": 2.48,
+          "fim": 2.72,
+          "texto": "com"
+        },
+        {
+          "inicio": 2.72,
+          "fim": 3.12,
+          "texto": "capa"
+        },
+        {
+          "inicio": 3.12,
+          "fim": 3.28,
+          "texto": "de"
+        }
+      ]
+    },
+    {
+      "inicio": 3.28,
+      "fim": 6.16,
+      "texto": "fogo e espada brilhante guia",
+      "palavras": [
+        {
+          "inicio": 3.28,
+          "fim": 3.76,
+          "texto": "fogo"
+        },
+        {
+          "inicio": 3.76,
+          "fim": 4.08,
+          "texto": "e"
+        },
+        {
+          "inicio": 4.08,
+          "fim": 4.58,
+          "texto": "espada"
+        },
+        {
+          "inicio": 4.58,
+          "fim": 5.2,
+          "texto": "brilhante"
+        },
+        {
+          "inicio": 5.2,
+          "fim": 6.16,
+          "texto": "guia"
+        }
+      ]
+    },
+    {
+      "inicio": 6.16,
+      "fim": 8.01,
+      "texto": "os viajantes do céu.",
+      "palavras": [
+        {
+          "inicio": 6.16,
+          "fim": 6.38,
+          "texto": "os"
+        },
+        {
+          "inicio": 6.38,
+          "fim": 6.94,
+          "texto": "viajantes"
+        },
+        {
+          "inicio": 6.94,
+          "fim": 7.16,
+          "texto": "do"
+        },
+        {
+          "inicio": 7.16,
+          "fim": 7.86,
+          "texto": "céu."
+        }
+      ]
+    },
+    {
+      "inicio": 8.54,
+      "fim": 10.16,
+      "texto": "Esse é Órion,",
+      "palavras": [
+        {
+          "inicio": 8.54,
+          "fim": 8.84,
+          "texto": "Esse"
+        },
+        {
+          "inicio": 8.84,
+          "fim": 9.1,
+          "texto": "é"
+        },
+        {
+          "inicio": 9.1,
+          "fim": 10.16,
+          "texto": "Órion,"
+        }
+      ]
+    },
+    {
+      "inicio": 10.16,
+      "fim": 12.6,
+      "texto": "uma das constelações mais reconhecidas",
+      "palavras": [
+        {
+          "inicio": 10.16,
+          "fim": 10.46,
+          "texto": "uma"
+        },
+        {
+          "inicio": 10.46,
+          "fim": 10.64,
+          "texto": "das"
+        },
+        {
+          "inicio": 10.64,
+          "fim": 11.36,
+          "texto": "constelações"
+        },
+        {
+          "inicio": 11.36,
+          "fim": 11.74,
+          "texto": "mais"
+        },
+        {
+          "inicio": 11.74,
+          "fim": 12.6,
+          "texto": "reconhecidas"
+        }
+      ]
+    },
+    {
+      "inicio": 12.6,
+      "fim": 13.73,
+      "texto": "do céu noturno.",
+      "palavras": [
+        {
+          "inicio": 12.6,
+          "fim": 12.8,
+          "texto": "do"
+        },
+        {
+          "inicio": 12.8,
+          "fim": 12.96,
+          "texto": "céu"
+        },
+        {
+          "inicio": 12.96,
+          "fim": 13.58,
+          "texto": "noturno."
+        }
+      ]
+    },
+    {
+      "inicio": 14.8,
+      "fim": 16.58,
+      "texto": "Suas três estrelas na cintura",
+      "palavras": [
+        {
+          "inicio": 14.8,
+          "fim": 15.14,
+          "texto": "Suas"
+        },
+        {
+          "inicio": 15.14,
+          "fim": 15.36,
+          "texto": "três"
+        },
+        {
+          "inicio": 15.36,
+          "fim": 15.96,
+          "texto": "estrelas"
+        },
+        {
+          "inicio": 15.96,
+          "fim": 16.1,
+          "texto": "na"
+        },
+        {
+          "inicio": 16.1,
+          "fim": 16.58,
+          "texto": "cintura"
+        }
+      ]
+    },
+    {
+      "inicio": 16.58,
+      "fim": 19.07,
+      "texto": "formam a famosa faixa,",
+      "palavras": [
+        {
+          "inicio": 16.58,
+          "fim": 17.42,
+          "texto": "formam"
+        },
+        {
+          "inicio": 17.42,
+          "fim": 17.54,
+          "texto": "a"
+        },
+        {
+          "inicio": 17.54,
+          "fim": 18.08,
+          "texto": "famosa"
+        },
+        {
+          "inicio": 18.08,
+          "fim": 18.92,
+          "texto": "faixa,"
+        }
+      ]
+    },
+    {
+      "inicio": 19.3,
+      "fim": 22.04,
+      "texto": "enquanto Betelgeuse e Rígel marcam",
+      "palavras": [
+        {
+          "inicio": 19.3,
+          "fim": 19.62,
+          "texto": "enquanto"
+        },
+        {
+          "inicio": 19.62,
+          "fim": 20.46,
+          "texto": "Betelgeuse"
+        },
+        {
+          "inicio": 20.46,
+          "fim": 20.76,
+          "texto": "e"
+        },
+        {
+          "inicio": 20.76,
+          "fim": 21.14,
+          "texto": "Rígel"
+        },
+        {
+          "inicio": 21.14,
+          "fim": 22.04,
+          "texto": "marcam"
+        }
+      ]
+    },
+    {
+      "inicio": 22.04,
+      "fim": 24.44,
+      "texto": "respectivamente o ombro e o",
+      "palavras": [
+        {
+          "inicio": 22.04,
+          "fim": 22.92,
+          "texto": "respectivamente"
+        },
+        {
+          "inicio": 22.92,
+          "fim": 23.46,
+          "texto": "o"
+        },
+        {
+          "inicio": 23.46,
+          "fim": 23.78,
+          "texto": "ombro"
+        },
+        {
+          "inicio": 23.78,
+          "fim": 24.3,
+          "texto": "e"
+        },
+        {
+          "inicio": 24.3,
+          "fim": 24.44,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 24.44,
+      "fim": 25.41,
+      "texto": "pé do caçador.",
+      "palavras": [
+        {
+          "inicio": 24.44,
+          "fim": 24.62,
+          "texto": "pé"
+        },
+        {
+          "inicio": 24.62,
+          "fim": 24.8,
+          "texto": "do"
+        },
+        {
+          "inicio": 24.8,
+          "fim": 25.26,
+          "texto": "caçador."
+        }
+      ]
+    },
+    {
+      "inicio": 26.52,
+      "fim": 28.22,
+      "texto": "A espada de Órion contém",
+      "palavras": [
+        {
+          "inicio": 26.52,
+          "fim": 26.6,
+          "texto": "A"
+        },
+        {
+          "inicio": 26.6,
+          "fim": 27.06,
+          "texto": "espada"
+        },
+        {
+          "inicio": 27.06,
+          "fim": 27.24,
+          "texto": "de"
+        },
+        {
+          "inicio": 27.24,
+          "fim": 27.58,
+          "texto": "Órion"
+        },
+        {
+          "inicio": 27.58,
+          "fim": 28.22,
+          "texto": "contém"
+        }
+      ]
+    },
+    {
+      "inicio": 28.22,
+      "fim": 29.62,
+      "texto": "nebulosas de gás,",
+      "palavras": [
+        {
+          "inicio": 28.22,
+          "fim": 28.88,
+          "texto": "nebulosas"
+        },
+        {
+          "inicio": 28.88,
+          "fim": 29.1,
+          "texto": "de"
+        },
+        {
+          "inicio": 29.1,
+          "fim": 29.62,
+          "texto": "gás,"
+        }
+      ]
+    },
+    {
+      "inicio": 29.62,
+      "fim": 31.5,
+      "texto": "como a nebulosa de Órion,",
+      "palavras": [
+        {
+          "inicio": 29.62,
+          "fim": 30.16,
+          "texto": "como"
+        },
+        {
+          "inicio": 30.16,
+          "fim": 30.28,
+          "texto": "a"
+        },
+        {
+          "inicio": 30.28,
+          "fim": 30.82,
+          "texto": "nebulosa"
+        },
+        {
+          "inicio": 30.82,
+          "fim": 30.98,
+          "texto": "de"
+        },
+        {
+          "inicio": 30.98,
+          "fim": 31.5,
+          "texto": "Órion,"
+        }
+      ]
+    },
+    {
+      "inicio": 31.5,
+      "fim": 34.01,
+      "texto": "onde nascem novas estrelas.",
+      "palavras": [
+        {
+          "inicio": 31.5,
+          "fim": 31.94,
+          "texto": "onde"
+        },
+        {
+          "inicio": 31.94,
+          "fim": 32.44,
+          "texto": "nascem"
+        },
+        {
+          "inicio": 32.44,
+          "fim": 32.86,
+          "texto": "novas"
+        },
+        {
+          "inicio": 32.86,
+          "fim": 33.86,
+          "texto": "estrelas."
+        }
+      ]
+    },
+    {
+      "inicio": 34.6,
+      "fim": 36.4,
+      "texto": "Através de telescópios,",
+      "palavras": [
+        {
+          "inicio": 34.6,
+          "fim": 35.06,
+          "texto": "Através"
+        },
+        {
+          "inicio": 35.06,
+          "fim": 35.22,
+          "texto": "de"
+        },
+        {
+          "inicio": 35.22,
+          "fim": 36.4,
+          "texto": "telescópios,"
+        }
+      ]
+    },
+    {
+      "inicio": 36.4,
+      "fim": 38.84,
+      "texto": "cientistas observam essas estrelas jovens",
+      "palavras": [
+        {
+          "inicio": 36.4,
+          "fim": 36.92,
+          "texto": "cientistas"
+        },
+        {
+          "inicio": 36.92,
+          "fim": 37.56,
+          "texto": "observam"
+        },
+        {
+          "inicio": 37.56,
+          "fim": 37.82,
+          "texto": "essas"
+        },
+        {
+          "inicio": 37.82,
+          "fim": 38.36,
+          "texto": "estrelas"
+        },
+        {
+          "inicio": 38.36,
+          "fim": 38.84,
+          "texto": "jovens"
+        }
+      ]
+    },
+    {
+      "inicio": 38.84,
+      "fim": 39.91,
+      "texto": "em formação.",
+      "palavras": [
+        {
+          "inicio": 38.84,
+          "fim": 39.06,
+          "texto": "em"
+        },
+        {
+          "inicio": 39.06,
+          "fim": 39.76,
+          "texto": "formação."
+        }
+      ]
+    },
+    {
+      "inicio": 40.82,
+      "fim": 43.2,
+      "texto": "Órion continua a inspirar astrônomos",
+      "palavras": [
+        {
+          "inicio": 40.82,
+          "fim": 41.18,
+          "texto": "Órion"
+        },
+        {
+          "inicio": 41.18,
+          "fim": 41.74,
+          "texto": "continua"
+        },
+        {
+          "inicio": 41.74,
+          "fim": 41.98,
+          "texto": "a"
+        },
+        {
+          "inicio": 41.98,
+          "fim": 42.48,
+          "texto": "inspirar"
+        },
+        {
+          "inicio": 42.48,
+          "fim": 43.2,
+          "texto": "astrônomos"
+        }
+      ]
+    },
+    {
+      "inicio": 43.2,
+      "fim": 45.02,
+      "texto": "e sonhadores em todo o",
+      "palavras": [
+        {
+          "inicio": 43.2,
+          "fim": 43.52,
+          "texto": "e"
+        },
+        {
+          "inicio": 43.52,
+          "fim": 44.12,
+          "texto": "sonhadores"
+        },
+        {
+          "inicio": 44.12,
+          "fim": 44.48,
+          "texto": "em"
+        },
+        {
+          "inicio": 44.48,
+          "fim": 44.9,
+          "texto": "todo"
+        },
+        {
+          "inicio": 44.9,
+          "fim": 45.02,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 45.02,
+      "fim": 45.89,
+      "texto": "mundo.",
+      "palavras": [
+        {
+          "inicio": 45.02,
+          "fim": 45.74,
+          "texto": "mundo."
+        }
+      ]
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "Gigante Noturno",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-o-gigante-de-orion/1.jpg",
+        "credito": "NASA/JPL/Cornell"
+      },
+      "inicio": 0.0,
+      "fim": 8.54
+    },
+    {
+      "titulo": "Cintura Brilhante",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-o-gigante-de-orion/2.jpg",
+        "credito": "NASA/ESA/JPL-Caltech/IRAM"
+      },
+      "inicio": 8.54,
+      "fim": 14.8
+    },
+    {
+      "titulo": "Betelgeuse Vermelha",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-o-gigante-de-orion/3.jpg",
+        "credito": "ESA/Herschel/PACS/L. Decin et al."
+      },
+      "inicio": 14.8,
+      "fim": 22.04
+    },
+    {
+      "titulo": "Rigel Azul",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-o-gigante-de-orion/4.jpg",
+        "credito": "Dave Jarvis (https://dave.autonoma.ca/) · CC BY-SA 3.0 · Wikimedia Commons"
+      },
+      "inicio": 22.04,
+      "fim": 31.5
+    },
+    {
+      "titulo": "Espada de Orion",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-o-gigante-de-orion/5.jpg",
+        "credito": "NASA/JPL-Caltech/IRAS /H. McCallon"
+      },
+      "inicio": 31.5,
+      "fim": 38.84
+    },
+    {
+      "titulo": "Visão Espacial",
+      "peca": "foto",
+      "dados": {
+        "arquivo": "fotos/1000-o-gigante-de-orion/6.jpg",
+        "credito": "NASA/MSFC"
+      },
+      "inicio": 38.84,
+      "fim": 46.39
+    }
+  ],
+  "audio": "audio/1000-o-gigante-de-orion.wav"
+}

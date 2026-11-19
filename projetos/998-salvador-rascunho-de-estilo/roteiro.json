@@ -1,0 +1,727 @@
+{
+  "titulo": "Salvador rascunho de estilo",
+  "estilo": "mesa",
+  "cabecalho": {
+    "titulo": "SALVADOR",
+    "arroba": "@eumagnoleite",
+    "fonte": "RASCUNHO DE ESTILO · VALORES DE EXEMPLO · NAO SAO DE SALVADOR",
+    "escala": "1 PILHA = R$ 2 MI · DOURADO 2024 · VERDE 2025 · ROSA 2026"
+  },
+  "legenda": [
+    {
+      "inicio": 0.0,
+      "fim": 1.79,
+      "texto": "Salvador, na Bahia.",
+      "palavras": [
+        {
+          "inicio": 0.0,
+          "fim": 0.6,
+          "texto": "Salvador,"
+        },
+        {
+          "inicio": 1.12,
+          "fim": 1.2,
+          "texto": "na"
+        },
+        {
+          "inicio": 1.2,
+          "fim": 1.64,
+          "texto": "Bahia."
+        }
+      ]
+    },
+    {
+      "inicio": 2.1,
+      "fim": 3.42,
+      "texto": "Para onde foi o dinheiro",
+      "palavras": [
+        {
+          "inicio": 2.1,
+          "fim": 2.3,
+          "texto": "Para"
+        },
+        {
+          "inicio": 2.3,
+          "fim": 2.56,
+          "texto": "onde"
+        },
+        {
+          "inicio": 2.56,
+          "fim": 2.92,
+          "texto": "foi"
+        },
+        {
+          "inicio": 2.92,
+          "fim": 3.08,
+          "texto": "o"
+        },
+        {
+          "inicio": 3.08,
+          "fim": 3.42,
+          "texto": "dinheiro"
+        }
+      ]
+    },
+    {
+      "inicio": 3.42,
+      "fim": 4.53,
+      "texto": "da prefeitura?",
+      "palavras": [
+        {
+          "inicio": 3.42,
+          "fim": 3.74,
+          "texto": "da"
+        },
+        {
+          "inicio": 3.74,
+          "fim": 4.38,
+          "texto": "prefeitura?"
+        }
+      ]
+    },
+    {
+      "inicio": 4.88,
+      "fim": 7.07,
+      "texto": "Vamos ver, ano a ano,",
+      "palavras": [
+        {
+          "inicio": 4.88,
+          "fim": 5.12,
+          "texto": "Vamos"
+        },
+        {
+          "inicio": 5.12,
+          "fim": 5.46,
+          "texto": "ver,"
+        },
+        {
+          "inicio": 5.9,
+          "fim": 6.22,
+          "texto": "ano"
+        },
+        {
+          "inicio": 6.22,
+          "fim": 6.56,
+          "texto": "a"
+        },
+        {
+          "inicio": 6.56,
+          "fim": 6.92,
+          "texto": "ano,"
+        }
+      ]
+    },
+    {
+      "inicio": 7.34,
+      "fim": 8.69,
+      "texto": "setor por setor.",
+      "palavras": [
+        {
+          "inicio": 7.34,
+          "fim": 7.8,
+          "texto": "setor"
+        },
+        {
+          "inicio": 7.8,
+          "fim": 8.02,
+          "texto": "por"
+        },
+        {
+          "inicio": 8.02,
+          "fim": 8.54,
+          "texto": "setor."
+        }
+      ]
+    },
+    {
+      "inicio": 9.14,
+      "fim": 9.83,
+      "texto": "Atenção!",
+      "palavras": [
+        {
+          "inicio": 9.14,
+          "fim": 9.68,
+          "texto": "Atenção!"
+        }
+      ]
+    },
+    {
+      "inicio": 10.2,
+      "fim": 11.66,
+      "texto": "Os valores deste vídeo são",
+      "palavras": [
+        {
+          "inicio": 10.2,
+          "fim": 10.3,
+          "texto": "Os"
+        },
+        {
+          "inicio": 10.3,
+          "fim": 10.66,
+          "texto": "valores"
+        },
+        {
+          "inicio": 10.66,
+          "fim": 10.98,
+          "texto": "deste"
+        },
+        {
+          "inicio": 10.98,
+          "fim": 11.42,
+          "texto": "vídeo"
+        },
+        {
+          "inicio": 11.42,
+          "fim": 11.66,
+          "texto": "são"
+        }
+      ]
+    },
+    {
+      "inicio": 11.66,
+      "fim": 12.69,
+      "texto": "só de exemplo,",
+      "palavras": [
+        {
+          "inicio": 11.66,
+          "fim": 11.96,
+          "texto": "só"
+        },
+        {
+          "inicio": 11.96,
+          "fim": 12.08,
+          "texto": "de"
+        },
+        {
+          "inicio": 12.08,
+          "fim": 12.54,
+          "texto": "exemplo,"
+        }
+      ]
+    },
+    {
+      "inicio": 12.76,
+      "fim": 14.17,
+      "texto": "para mostrar o visual.",
+      "palavras": [
+        {
+          "inicio": 12.76,
+          "fim": 13.04,
+          "texto": "para"
+        },
+        {
+          "inicio": 13.04,
+          "fim": 13.48,
+          "texto": "mostrar"
+        },
+        {
+          "inicio": 13.48,
+          "fim": 13.66,
+          "texto": "o"
+        },
+        {
+          "inicio": 13.66,
+          "fim": 14.02,
+          "texto": "visual."
+        }
+      ]
+    },
+    {
+      "inicio": 14.62,
+      "fim": 17.08,
+      "texto": "Em 2025, o dinheiro sai",
+      "palavras": [
+        {
+          "inicio": 14.62,
+          "fim": 14.8,
+          "texto": "Em"
+        },
+        {
+          "inicio": 14.8,
+          "fim": 15.42,
+          "texto": "2025,"
+        },
+        {
+          "inicio": 16.14,
+          "fim": 16.32,
+          "texto": "o"
+        },
+        {
+          "inicio": 16.32,
+          "fim": 16.62,
+          "texto": "dinheiro"
+        },
+        {
+          "inicio": 16.62,
+          "fim": 17.08,
+          "texto": "sai"
+        }
+      ]
+    },
+    {
+      "inicio": 17.08,
+      "fim": 18.52,
+      "texto": "do cofre e vai para",
+      "palavras": [
+        {
+          "inicio": 17.08,
+          "fim": 17.24,
+          "texto": "do"
+        },
+        {
+          "inicio": 17.24,
+          "fim": 17.66,
+          "texto": "cofre"
+        },
+        {
+          "inicio": 17.66,
+          "fim": 18.06,
+          "texto": "e"
+        },
+        {
+          "inicio": 18.06,
+          "fim": 18.26,
+          "texto": "vai"
+        },
+        {
+          "inicio": 18.26,
+          "fim": 18.52,
+          "texto": "para"
+        }
+      ]
+    },
+    {
+      "inicio": 18.52,
+      "fim": 19.51,
+      "texto": "cada setor.",
+      "palavras": [
+        {
+          "inicio": 18.52,
+          "fim": 18.88,
+          "texto": "cada"
+        },
+        {
+          "inicio": 18.88,
+          "fim": 19.36,
+          "texto": "setor."
+        }
+      ]
+    },
+    {
+      "inicio": 19.9,
+      "fim": 21.97,
+      "texto": "Educação, a maior pilha,",
+      "palavras": [
+        {
+          "inicio": 19.9,
+          "fim": 20.62,
+          "texto": "Educação,"
+        },
+        {
+          "inicio": 21.0,
+          "fim": 21.06,
+          "texto": "a"
+        },
+        {
+          "inicio": 21.06,
+          "fim": 21.32,
+          "texto": "maior"
+        },
+        {
+          "inicio": 21.32,
+          "fim": 21.82,
+          "texto": "pilha,"
+        }
+      ]
+    },
+    {
+      "inicio": 22.26,
+      "fim": 24.23,
+      "texto": "saúde, logo em seguida,",
+      "palavras": [
+        {
+          "inicio": 22.26,
+          "fim": 22.74,
+          "texto": "saúde,"
+        },
+        {
+          "inicio": 23.26,
+          "fim": 23.42,
+          "texto": "logo"
+        },
+        {
+          "inicio": 23.42,
+          "fim": 23.62,
+          "texto": "em"
+        },
+        {
+          "inicio": 23.62,
+          "fim": 24.08,
+          "texto": "seguida,"
+        }
+      ]
+    },
+    {
+      "inicio": 24.54,
+      "fim": 27.87,
+      "texto": "administração, obras e serviços urbanos,",
+      "palavras": [
+        {
+          "inicio": 24.54,
+          "fim": 25.38,
+          "texto": "administração,"
+        },
+        {
+          "inicio": 25.38,
+          "fim": 26.32,
+          "texto": "obras"
+        },
+        {
+          "inicio": 26.32,
+          "fim": 26.58,
+          "texto": "e"
+        },
+        {
+          "inicio": 26.58,
+          "fim": 27.1,
+          "texto": "serviços"
+        },
+        {
+          "inicio": 27.1,
+          "fim": 27.72,
+          "texto": "urbanos,"
+        }
+      ]
+    },
+    {
+      "inicio": 28.06,
+      "fim": 30.19,
+      "texto": "cultura, uma pilha pequena,",
+      "palavras": [
+        {
+          "inicio": 28.06,
+          "fim": 28.6,
+          "texto": "cultura,"
+        },
+        {
+          "inicio": 29.08,
+          "fim": 29.2,
+          "texto": "uma"
+        },
+        {
+          "inicio": 29.2,
+          "fim": 29.52,
+          "texto": "pilha"
+        },
+        {
+          "inicio": 29.52,
+          "fim": 30.04,
+          "texto": "pequena,"
+        }
+      ]
+    },
+    {
+      "inicio": 30.5,
+      "fim": 32.53,
+      "texto": "esporte e agricultura,",
+      "palavras": [
+        {
+          "inicio": 30.5,
+          "fim": 31.04,
+          "texto": "esporte"
+        },
+        {
+          "inicio": 31.04,
+          "fim": 31.66,
+          "texto": "e"
+        },
+        {
+          "inicio": 31.66,
+          "fim": 32.38,
+          "texto": "agricultura,"
+        }
+      ]
+    },
+    {
+      "inicio": 32.64,
+      "fim": 33.79,
+      "texto": "sem nenhum valor.",
+      "palavras": [
+        {
+          "inicio": 32.64,
+          "fim": 32.92,
+          "texto": "sem"
+        },
+        {
+          "inicio": 32.92,
+          "fim": 33.28,
+          "texto": "nenhum"
+        },
+        {
+          "inicio": 33.28,
+          "fim": 33.64,
+          "texto": "valor."
+        }
+      ]
+    },
+    {
+      "inicio": 34.5,
+      "fim": 36.05,
+      "texto": "Cada cor é um ano,",
+      "palavras": [
+        {
+          "inicio": 34.5,
+          "fim": 34.84,
+          "texto": "Cada"
+        },
+        {
+          "inicio": 34.84,
+          "fim": 35.2,
+          "texto": "cor"
+        },
+        {
+          "inicio": 35.2,
+          "fim": 35.52,
+          "texto": "é"
+        },
+        {
+          "inicio": 35.52,
+          "fim": 35.66,
+          "texto": "um"
+        },
+        {
+          "inicio": 35.66,
+          "fim": 35.9,
+          "texto": "ano,"
+        }
+      ]
+    },
+    {
+      "inicio": 36.38,
+      "fim": 39.13,
+      "texto": "dourado, 2024, verde,",
+      "palavras": [
+        {
+          "inicio": 36.38,
+          "fim": 36.86,
+          "texto": "dourado,"
+        },
+        {
+          "inicio": 37.12,
+          "fim": 37.68,
+          "texto": "2024,"
+        },
+        {
+          "inicio": 38.58,
+          "fim": 38.98,
+          "texto": "verde,"
+        }
+      ]
+    },
+    {
+      "inicio": 39.4,
+      "fim": 41.45,
+      "texto": "2025 e rosa,",
+      "palavras": [
+        {
+          "inicio": 39.4,
+          "fim": 39.9,
+          "texto": "2025"
+        },
+        {
+          "inicio": 39.9,
+          "fim": 40.9,
+          "texto": "e"
+        },
+        {
+          "inicio": 40.9,
+          "fim": 41.3,
+          "texto": "rosa,"
+        }
+      ]
+    },
+    {
+      "inicio": 41.6,
+      "fim": 42.63,
+      "texto": "2026.",
+      "palavras": [
+        {
+          "inicio": 41.6,
+          "fim": 42.48,
+          "texto": "2026."
+        }
+      ]
+    },
+    {
+      "inicio": 43.22,
+      "fim": 44.54,
+      "texto": "Segue o Arroba e o",
+      "palavras": [
+        {
+          "inicio": 43.22,
+          "fim": 43.66,
+          "texto": "Segue"
+        },
+        {
+          "inicio": 43.66,
+          "fim": 43.82,
+          "texto": "o"
+        },
+        {
+          "inicio": 43.82,
+          "fim": 44.22,
+          "texto": "Arroba"
+        },
+        {
+          "inicio": 44.22,
+          "fim": 44.46,
+          "texto": "e"
+        },
+        {
+          "inicio": 44.46,
+          "fim": 44.54,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 44.54,
+      "fim": 46.59,
+      "texto": "Magnolileite para mais informações.",
+      "palavras": [
+        {
+          "inicio": 44.54,
+          "fim": 45.38,
+          "texto": "Magnolileite"
+        },
+        {
+          "inicio": 45.38,
+          "fim": 45.7,
+          "texto": "para"
+        },
+        {
+          "inicio": 45.7,
+          "fim": 45.96,
+          "texto": "mais"
+        },
+        {
+          "inicio": 45.96,
+          "fim": 46.44,
+          "texto": "informações."
+        }
+      ]
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "",
+      "peca": "mapa",
+      "dados": {
+        "uf": "BA",
+        "municipio": "Salvador",
+        "marcas": {
+          "estado": 0.0
+        }
+      },
+      "inicio": 0.0,
+      "fim": 14.62
+    },
+    {
+      "titulo": "",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Educação",
+            "rotulo": "R$ 12 MI (EX.)",
+            "valor": 12000000.0,
+            "tipo": "escola",
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 10 MI (EX.)",
+                "cor": "dourado"
+              }
+            ],
+            "t": 4.98
+          },
+          {
+            "nome": "Saúde",
+            "rotulo": "R$ 9 MI (EX.)",
+            "valor": 9000000.0,
+            "tipo": "hospital",
+            "t": 7.34
+          },
+          {
+            "nome": "Administração",
+            "rotulo": "R$ 6 MI (EX.)",
+            "valor": 6000000.0,
+            "tipo": "predio",
+            "t": 9.62
+          },
+          {
+            "nome": "Obras",
+            "rotulo": "R$ 4 MI (EX.)",
+            "valor": 4000000.0,
+            "tipo": "rua"
+          },
+          {
+            "nome": "Cultura",
+            "rotulo": "R$ 2 MI (EX.)",
+            "valor": 2000000.0,
+            "tipo": "casa",
+            "t": 13.14
+          },
+          {
+            "nome": "Esporte",
+            "rotulo": "R$ 2 MI (EX.)",
+            "valor": 2000000.0,
+            "tipo": "campo"
+          },
+          {
+            "nome": "Agricultura",
+            "rotulo": "R$ 0",
+            "valor": 0.0,
+            "tipo": "casa",
+            "zerado": true
+          }
+        ],
+        "ano": "2025",
+        "cor": "verde",
+        "pilha_mi": 2.0,
+        "titulo": "2025 · VALORES DE EXEMPLO"
+      },
+      "inicio": 14.62,
+      "fim": 30.5
+    },
+    {
+      "titulo": "",
+      "peca": "moedas",
+      "dados": {
+        "pilhas": [
+          {
+            "ano": "2024",
+            "rotulo": "EXEMPLO",
+            "valor": 10.0,
+            "cor": "dourado"
+          },
+          {
+            "ano": "2025",
+            "rotulo": "EXEMPLO",
+            "valor": 15.0,
+            "cor": "verde"
+          },
+          {
+            "ano": "2026",
+            "rotulo": "EXEMPLO",
+            "valor": 8.0,
+            "cor": "rosa"
+          }
+        ]
+      },
+      "inicio": 30.5,
+      "fim": 47.09
+    }
+  ],
+  "audio": "audio/998-salvador-rascunho-de-estilo.wav"
+}

@@ -1,0 +1,106 @@
+{
+  "titulo": "Santa Cruz Cabrália no mapa",
+  "estilo": "padrao",
+  "legenda": [
+    {
+      "inicio": 0.0,
+      "fim": 1.88,
+      "texto": "Hoje, vamos falar de Santa"
+    },
+    {
+      "inicio": 1.88,
+      "fim": 4.03,
+      "texto": "Cruz Cabralha, na Bahia."
+    },
+    {
+      "inicio": 4.64,
+      "fim": 6.04,
+      "texto": "A cidade fica no litoral"
+    },
+    {
+      "inicio": 6.04,
+      "fim": 7.11,
+      "texto": "sul do estado."
+    },
+    {
+      "inicio": 7.92,
+      "fim": 9.01,
+      "texto": "Vamos olhar o mapa."
+    },
+    {
+      "inicio": 9.48,
+      "fim": 10.67,
+      "texto": "Primeiro o Brasil,"
+    },
+    {
+      "inicio": 11.26,
+      "fim": 13.32,
+      "texto": "depois a Bahia e,"
+    },
+    {
+      "inicio": 13.32,
+      "fim": 14.87,
+      "texto": "por fim, o município."
+    },
+    {
+      "inicio": 15.8,
+      "fim": 16.97,
+      "texto": "Nos próximos vídeos,"
+    },
+    {
+      "inicio": 17.44,
+      "fim": 18.74,
+      "texto": "vamos mostrar as contas da"
+    },
+    {
+      "inicio": 18.74,
+      "fim": 21.14,
+      "texto": "prefeitura, com números tirados de"
+    },
+    {
+      "inicio": 21.14,
+      "fim": 22.55,
+      "texto": "documentos oficiais."
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "Santa Cruz Cabrália",
+      "peca": "mapa",
+      "dados": {
+        "uf": "BA",
+        "municipio": "Santa Cruz Cabrália",
+        "pinos": [
+          {
+            "nome": "Santa Cruz Cabrália",
+            "lat": -16.2778,
+            "lon": -39.0267
+          },
+          {
+            "nome": "Porto Seguro",
+            "lat": -16.4435,
+            "lon": -39.0643
+          }
+        ],
+        "marcas": {
+          "estado": 11.26,
+          "cidade": 13.32
+        }
+      },
+      "inicio": 0.0,
+      "fim": 17.6
+    },
+    {
+      "titulo": "Contas públicas",
+      "peca": "numero",
+      "dados": {
+        "valor": "Em breve",
+        "rotulo": "Números de documentos oficiais",
+        "detalhe": "TCM-BA · SICONFI"
+      },
+      "inicio": 17.6,
+      "fim": 24.0
+    }
+  ],
+  "audio": "audio/008-santa-cruz-cabralia-no-mapa.wav"
+}

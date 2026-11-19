@@ -1,0 +1,2945 @@
+{
+  "titulo": "TESTE Salvador (narração do vídeo 023, já publicado)",
+  "estilo": "mesa",
+  "cabecalho": {
+    "titulo": "SALVADOR",
+    "arroba": "@eumagnoleite",
+    "fonte": "FONTE: RELATÓRIOS FISCAIS DA PREFEITURA (RREO/RGF 2024 E 2025)",
+    "escala": "1 PILHA = R$ 200 MI"
+  },
+  "legenda": [
+    {
+      "inicio": 0.0,
+      "fim": 2.36,
+      "texto": "Salvador gastou 11,9 bilhões de",
+      "palavras": [
+        {
+          "inicio": 0.0,
+          "fim": 0.26,
+          "texto": "Salvador"
+        },
+        {
+          "inicio": 0.26,
+          "fim": 0.68,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 0.68,
+          "fim": 1.58,
+          "texto": "11,9"
+        },
+        {
+          "inicio": 1.58,
+          "fim": 2.16,
+          "texto": "bilhões"
+        },
+        {
+          "inicio": 2.16,
+          "fim": 2.36,
+          "texto": "de"
+        }
+      ]
+    },
+    {
+      "inicio": 2.36,
+      "fim": 3.67,
+      "texto": "reais em 2025.",
+      "palavras": [
+        {
+          "inicio": 2.36,
+          "fim": 2.6,
+          "texto": "reais"
+        },
+        {
+          "inicio": 2.6,
+          "fim": 2.82,
+          "texto": "em"
+        },
+        {
+          "inicio": 2.82,
+          "fim": 3.52,
+          "texto": "2025."
+        }
+      ]
+    },
+    {
+      "inicio": 4.22,
+      "fim": 5.08,
+      "texto": "Eu abri os relatórios da",
+      "palavras": [
+        {
+          "inicio": 4.22,
+          "fim": 4.34,
+          "texto": "Eu"
+        },
+        {
+          "inicio": 4.34,
+          "fim": 4.54,
+          "texto": "abri"
+        },
+        {
+          "inicio": 4.54,
+          "fim": 4.62,
+          "texto": "os"
+        },
+        {
+          "inicio": 4.62,
+          "fim": 4.96,
+          "texto": "relatórios"
+        },
+        {
+          "inicio": 4.96,
+          "fim": 5.08,
+          "texto": "da"
+        }
+      ]
+    },
+    {
+      "inicio": 5.08,
+      "fim": 6.2,
+      "texto": "Prefeitura para te mostrar para",
+      "palavras": [
+        {
+          "inicio": 5.08,
+          "fim": 5.48,
+          "texto": "Prefeitura"
+        },
+        {
+          "inicio": 5.48,
+          "fim": 5.64,
+          "texto": "para"
+        },
+        {
+          "inicio": 5.64,
+          "fim": 5.74,
+          "texto": "te"
+        },
+        {
+          "inicio": 5.74,
+          "fim": 6.0,
+          "texto": "mostrar"
+        },
+        {
+          "inicio": 6.0,
+          "fim": 6.2,
+          "texto": "para"
+        }
+      ]
+    },
+    {
+      "inicio": 6.2,
+      "fim": 7.51,
+      "texto": "onde foi cada real.",
+      "palavras": [
+        {
+          "inicio": 6.2,
+          "fim": 6.54,
+          "texto": "onde"
+        },
+        {
+          "inicio": 6.54,
+          "fim": 6.78,
+          "texto": "foi"
+        },
+        {
+          "inicio": 6.78,
+          "fim": 7.1,
+          "texto": "cada"
+        },
+        {
+          "inicio": 7.1,
+          "fim": 7.36,
+          "texto": "real."
+        }
+      ]
+    },
+    {
+      "inicio": 7.7,
+      "fim": 8.76,
+      "texto": "Tudo aqui está nos relatórios",
+      "palavras": [
+        {
+          "inicio": 7.7,
+          "fim": 7.88,
+          "texto": "Tudo"
+        },
+        {
+          "inicio": 7.88,
+          "fim": 8.1,
+          "texto": "aqui"
+        },
+        {
+          "inicio": 8.1,
+          "fim": 8.32,
+          "texto": "está"
+        },
+        {
+          "inicio": 8.32,
+          "fim": 8.42,
+          "texto": "nos"
+        },
+        {
+          "inicio": 8.42,
+          "fim": 8.76,
+          "texto": "relatórios"
+        }
+      ]
+    },
+    {
+      "inicio": 8.76,
+      "fim": 10.06,
+      "texto": "fiscais que a própria Prefeitura",
+      "palavras": [
+        {
+          "inicio": 8.76,
+          "fim": 9.18,
+          "texto": "fiscais"
+        },
+        {
+          "inicio": 9.18,
+          "fim": 9.26,
+          "texto": "que"
+        },
+        {
+          "inicio": 9.26,
+          "fim": 9.36,
+          "texto": "a"
+        },
+        {
+          "inicio": 9.36,
+          "fim": 9.62,
+          "texto": "própria"
+        },
+        {
+          "inicio": 9.62,
+          "fim": 10.06,
+          "texto": "Prefeitura"
+        }
+      ]
+    },
+    {
+      "inicio": 10.06,
+      "fim": 11.47,
+      "texto": "publica no portal da Transparência.",
+      "palavras": [
+        {
+          "inicio": 10.06,
+          "fim": 10.4,
+          "texto": "publica"
+        },
+        {
+          "inicio": 10.4,
+          "fim": 10.48,
+          "texto": "no"
+        },
+        {
+          "inicio": 10.48,
+          "fim": 10.68,
+          "texto": "portal"
+        },
+        {
+          "inicio": 10.68,
+          "fim": 10.82,
+          "texto": "da"
+        },
+        {
+          "inicio": 10.82,
+          "fim": 11.32,
+          "texto": "Transparência."
+        }
+      ]
+    },
+    {
+      "inicio": 11.6,
+      "fim": 12.68,
+      "texto": "A página de cada número",
+      "palavras": [
+        {
+          "inicio": 11.6,
+          "fim": 11.72,
+          "texto": "A"
+        },
+        {
+          "inicio": 11.72,
+          "fim": 11.98,
+          "texto": "página"
+        },
+        {
+          "inicio": 11.98,
+          "fim": 12.16,
+          "texto": "de"
+        },
+        {
+          "inicio": 12.16,
+          "fim": 12.36,
+          "texto": "cada"
+        },
+        {
+          "inicio": 12.36,
+          "fim": 12.68,
+          "texto": "número"
+        }
+      ]
+    },
+    {
+      "inicio": 12.68,
+      "fim": 13.59,
+      "texto": "aparece na tela.",
+      "palavras": [
+        {
+          "inicio": 12.68,
+          "fim": 12.98,
+          "texto": "aparece"
+        },
+        {
+          "inicio": 12.98,
+          "fim": 13.24,
+          "texto": "na"
+        },
+        {
+          "inicio": 13.24,
+          "fim": 13.44,
+          "texto": "tela."
+        }
+      ]
+    },
+    {
+      "inicio": 13.8,
+      "fim": 15.14,
+      "texto": "Primeiro, de onde vem o",
+      "palavras": [
+        {
+          "inicio": 13.8,
+          "fim": 14.16,
+          "texto": "Primeiro,"
+        },
+        {
+          "inicio": 14.42,
+          "fim": 14.54,
+          "texto": "de"
+        },
+        {
+          "inicio": 14.54,
+          "fim": 14.72,
+          "texto": "onde"
+        },
+        {
+          "inicio": 14.72,
+          "fim": 15.04,
+          "texto": "vem"
+        },
+        {
+          "inicio": 15.04,
+          "fim": 15.14,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 15.14,
+      "fim": 15.47,
+      "texto": "dinheiro?",
+      "palavras": [
+        {
+          "inicio": 15.14,
+          "fim": 15.32,
+          "texto": "dinheiro?"
+        }
+      ]
+    },
+    {
+      "inicio": 15.8,
+      "fim": 17.7,
+      "texto": "Em 2025, a Prefeitura arrecadou",
+      "palavras": [
+        {
+          "inicio": 15.8,
+          "fim": 15.92,
+          "texto": "Em"
+        },
+        {
+          "inicio": 15.92,
+          "fim": 16.42,
+          "texto": "2025,"
+        },
+        {
+          "inicio": 16.88,
+          "fim": 16.92,
+          "texto": "a"
+        },
+        {
+          "inicio": 16.92,
+          "fim": 17.28,
+          "texto": "Prefeitura"
+        },
+        {
+          "inicio": 17.28,
+          "fim": 17.7,
+          "texto": "arrecadou"
+        }
+      ]
+    },
+    {
+      "inicio": 17.7,
+      "fim": 19.43,
+      "texto": "12,4 bilhões.",
+      "palavras": [
+        {
+          "inicio": 17.7,
+          "fim": 18.74,
+          "texto": "12,4"
+        },
+        {
+          "inicio": 18.74,
+          "fim": 19.28,
+          "texto": "bilhões."
+        }
+      ]
+    },
+    {
+      "inicio": 19.76,
+      "fim": 20.72,
+      "texto": "Pouco mais de 1 de",
+      "palavras": [
+        {
+          "inicio": 19.76,
+          "fim": 19.98,
+          "texto": "Pouco"
+        },
+        {
+          "inicio": 19.98,
+          "fim": 20.18,
+          "texto": "mais"
+        },
+        {
+          "inicio": 20.18,
+          "fim": 20.34,
+          "texto": "de"
+        },
+        {
+          "inicio": 20.34,
+          "fim": 20.58,
+          "texto": "1"
+        },
+        {
+          "inicio": 20.58,
+          "fim": 20.72,
+          "texto": "de"
+        }
+      ]
+    },
+    {
+      "inicio": 20.72,
+      "fim": 21.8,
+      "texto": "cada 3 reais veio dos",
+      "palavras": [
+        {
+          "inicio": 20.72,
+          "fim": 20.82,
+          "texto": "cada"
+        },
+        {
+          "inicio": 20.82,
+          "fim": 21.14,
+          "texto": "3"
+        },
+        {
+          "inicio": 21.14,
+          "fim": 21.42,
+          "texto": "reais"
+        },
+        {
+          "inicio": 21.42,
+          "fim": 21.66,
+          "texto": "veio"
+        },
+        {
+          "inicio": 21.66,
+          "fim": 21.8,
+          "texto": "dos"
+        }
+      ]
+    },
+    {
+      "inicio": 21.8,
+      "fim": 22.87,
+      "texto": "impostos da cidade,",
+      "palavras": [
+        {
+          "inicio": 21.8,
+          "fim": 22.26,
+          "texto": "impostos"
+        },
+        {
+          "inicio": 22.26,
+          "fim": 22.38,
+          "texto": "da"
+        },
+        {
+          "inicio": 22.38,
+          "fim": 22.72,
+          "texto": "cidade,"
+        }
+      ]
+    },
+    {
+      "inicio": 22.92,
+      "fim": 24.43,
+      "texto": "como IPTU e ISS.",
+      "palavras": [
+        {
+          "inicio": 22.92,
+          "fim": 23.1,
+          "texto": "como"
+        },
+        {
+          "inicio": 23.1,
+          "fim": 23.72,
+          "texto": "IPTU"
+        },
+        {
+          "inicio": 23.72,
+          "fim": 23.9,
+          "texto": "e"
+        },
+        {
+          "inicio": 23.9,
+          "fim": 24.28,
+          "texto": "ISS."
+        }
+      ]
+    },
+    {
+      "inicio": 24.8,
+      "fim": 25.86,
+      "texto": "O resto veio do Governo",
+      "palavras": [
+        {
+          "inicio": 24.8,
+          "fim": 25.0,
+          "texto": "O"
+        },
+        {
+          "inicio": 25.0,
+          "fim": 25.22,
+          "texto": "resto"
+        },
+        {
+          "inicio": 25.22,
+          "fim": 25.42,
+          "texto": "veio"
+        },
+        {
+          "inicio": 25.42,
+          "fim": 25.54,
+          "texto": "do"
+        },
+        {
+          "inicio": 25.54,
+          "fim": 25.86,
+          "texto": "Governo"
+        }
+      ]
+    },
+    {
+      "inicio": 25.86,
+      "fim": 27.06,
+      "texto": "Federal, do Estado e do",
+      "palavras": [
+        {
+          "inicio": 25.86,
+          "fim": 26.1,
+          "texto": "Federal,"
+        },
+        {
+          "inicio": 26.4,
+          "fim": 26.46,
+          "texto": "do"
+        },
+        {
+          "inicio": 26.46,
+          "fim": 26.7,
+          "texto": "Estado"
+        },
+        {
+          "inicio": 26.7,
+          "fim": 26.98,
+          "texto": "e"
+        },
+        {
+          "inicio": 26.98,
+          "fim": 27.06,
+          "texto": "do"
+        }
+      ]
+    },
+    {
+      "inicio": 27.06,
+      "fim": 27.42,
+      "texto": "FUNDEB.",
+      "palavras": [
+        {
+          "inicio": 27.06,
+          "fim": 27.42,
+          "texto": "FUNDEB."
+        }
+      ]
+    },
+    {
+      "inicio": 27.42,
+      "fim": 29.62,
+      "texto": "Só a união mandou 3,3",
+      "palavras": [
+        {
+          "inicio": 27.42,
+          "fim": 27.96,
+          "texto": "Só"
+        },
+        {
+          "inicio": 27.96,
+          "fim": 28.1,
+          "texto": "a"
+        },
+        {
+          "inicio": 28.1,
+          "fim": 28.32,
+          "texto": "união"
+        },
+        {
+          "inicio": 28.32,
+          "fim": 28.68,
+          "texto": "mandou"
+        },
+        {
+          "inicio": 28.68,
+          "fim": 29.62,
+          "texto": "3,3"
+        }
+      ]
+    },
+    {
+      "inicio": 29.62,
+      "fim": 30.27,
+      "texto": "bilhões.",
+      "palavras": [
+        {
+          "inicio": 29.62,
+          "fim": 30.12,
+          "texto": "bilhões."
+        }
+      ]
+    },
+    {
+      "inicio": 30.6,
+      "fim": 31.93,
+      "texto": "Agora, para onde vai?",
+      "palavras": [
+        {
+          "inicio": 30.6,
+          "fim": 31.0,
+          "texto": "Agora,"
+        },
+        {
+          "inicio": 31.2,
+          "fim": 31.3,
+          "texto": "para"
+        },
+        {
+          "inicio": 31.3,
+          "fim": 31.54,
+          "texto": "onde"
+        },
+        {
+          "inicio": 31.54,
+          "fim": 31.78,
+          "texto": "vai?"
+        }
+      ]
+    },
+    {
+      "inicio": 32.14,
+      "fim": 33.1,
+      "texto": "A maior fatia é a",
+      "palavras": [
+        {
+          "inicio": 32.14,
+          "fim": 32.24,
+          "texto": "A"
+        },
+        {
+          "inicio": 32.24,
+          "fim": 32.42,
+          "texto": "maior"
+        },
+        {
+          "inicio": 32.42,
+          "fim": 32.84,
+          "texto": "fatia"
+        },
+        {
+          "inicio": 32.84,
+          "fim": 33.02,
+          "texto": "é"
+        },
+        {
+          "inicio": 33.02,
+          "fim": 33.1,
+          "texto": "a"
+        }
+      ]
+    },
+    {
+      "inicio": 33.1,
+      "fim": 35.29,
+      "texto": "saúde, 2,9 bilhões.",
+      "palavras": [
+        {
+          "inicio": 33.1,
+          "fim": 33.4,
+          "texto": "saúde,"
+        },
+        {
+          "inicio": 33.72,
+          "fim": 34.58,
+          "texto": "2,9"
+        },
+        {
+          "inicio": 34.58,
+          "fim": 35.14,
+          "texto": "bilhões."
+        }
+      ]
+    },
+    {
+      "inicio": 35.5,
+      "fim": 36.86,
+      "texto": "Metade foi para hospitais e",
+      "palavras": [
+        {
+          "inicio": 35.5,
+          "fim": 35.94,
+          "texto": "Metade"
+        },
+        {
+          "inicio": 35.94,
+          "fim": 36.1,
+          "texto": "foi"
+        },
+        {
+          "inicio": 36.1,
+          "fim": 36.26,
+          "texto": "para"
+        },
+        {
+          "inicio": 36.26,
+          "fim": 36.7,
+          "texto": "hospitais"
+        },
+        {
+          "inicio": 36.7,
+          "fim": 36.86,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 36.86,
+      "fim": 38.01,
+      "texto": "atendimento especializado.",
+      "palavras": [
+        {
+          "inicio": 36.86,
+          "fim": 37.22,
+          "texto": "atendimento"
+        },
+        {
+          "inicio": 37.22,
+          "fim": 37.86,
+          "texto": "especializado."
+        }
+      ]
+    },
+    {
+      "inicio": 38.14,
+      "fim": 39.39,
+      "texto": "Depois vem a educação,",
+      "palavras": [
+        {
+          "inicio": 38.14,
+          "fim": 38.48,
+          "texto": "Depois"
+        },
+        {
+          "inicio": 38.48,
+          "fim": 38.7,
+          "texto": "vem"
+        },
+        {
+          "inicio": 38.7,
+          "fim": 38.78,
+          "texto": "a"
+        },
+        {
+          "inicio": 38.78,
+          "fim": 39.24,
+          "texto": "educação,"
+        }
+      ]
+    },
+    {
+      "inicio": 39.52,
+      "fim": 41.03,
+      "texto": "2,4 bilhões.",
+      "palavras": [
+        {
+          "inicio": 39.52,
+          "fim": 40.4,
+          "texto": "2,4"
+        },
+        {
+          "inicio": 40.4,
+          "fim": 40.88,
+          "texto": "bilhões."
+        }
+      ]
+    },
+    {
+      "inicio": 41.3,
+      "fim": 43.71,
+      "texto": "Em 2024, tinham sido 2,5,",
+      "palavras": [
+        {
+          "inicio": 41.3,
+          "fim": 41.44,
+          "texto": "Em"
+        },
+        {
+          "inicio": 41.44,
+          "fim": 41.92,
+          "texto": "2024,"
+        },
+        {
+          "inicio": 42.4,
+          "fim": 42.44,
+          "texto": "tinham"
+        },
+        {
+          "inicio": 42.44,
+          "fim": 42.66,
+          "texto": "sido"
+        },
+        {
+          "inicio": 42.66,
+          "fim": 43.56,
+          "texto": "2,5,"
+        }
+      ]
+    },
+    {
+      "inicio": 43.84,
+      "fim": 45.39,
+      "texto": "caiu 76 milhões.",
+      "palavras": [
+        {
+          "inicio": 43.84,
+          "fim": 44.16,
+          "texto": "caiu"
+        },
+        {
+          "inicio": 44.16,
+          "fim": 44.7,
+          "texto": "76"
+        },
+        {
+          "inicio": 44.7,
+          "fim": 45.24,
+          "texto": "milhões."
+        }
+      ]
+    },
+    {
+      "inicio": 45.82,
+      "fim": 46.78,
+      "texto": "As ruas e os serviços",
+      "palavras": [
+        {
+          "inicio": 45.82,
+          "fim": 46.0,
+          "texto": "As"
+        },
+        {
+          "inicio": 46.0,
+          "fim": 46.28,
+          "texto": "ruas"
+        },
+        {
+          "inicio": 46.28,
+          "fim": 46.38,
+          "texto": "e"
+        },
+        {
+          "inicio": 46.38,
+          "fim": 46.46,
+          "texto": "os"
+        },
+        {
+          "inicio": 46.46,
+          "fim": 46.78,
+          "texto": "serviços"
+        }
+      ]
+    },
+    {
+      "inicio": 46.78,
+      "fim": 47.98,
+      "texto": "da cidade ficaram com 2",
+      "palavras": [
+        {
+          "inicio": 46.78,
+          "fim": 46.92,
+          "texto": "da"
+        },
+        {
+          "inicio": 46.92,
+          "fim": 47.2,
+          "texto": "cidade"
+        },
+        {
+          "inicio": 47.2,
+          "fim": 47.6,
+          "texto": "ficaram"
+        },
+        {
+          "inicio": 47.6,
+          "fim": 47.7,
+          "texto": "com"
+        },
+        {
+          "inicio": 47.7,
+          "fim": 47.98,
+          "texto": "2"
+        }
+      ]
+    },
+    {
+      "inicio": 47.98,
+      "fim": 48.53,
+      "texto": "bilhões.",
+      "palavras": [
+        {
+          "inicio": 47.98,
+          "fim": 48.38,
+          "texto": "bilhões."
+        }
+      ]
+    },
+    {
+      "inicio": 48.64,
+      "fim": 50.73,
+      "texto": "Em 2024, 2,6.",
+      "palavras": [
+        {
+          "inicio": 48.64,
+          "fim": 48.82,
+          "texto": "Em"
+        },
+        {
+          "inicio": 48.82,
+          "fim": 49.26,
+          "texto": "2024,"
+        },
+        {
+          "inicio": 49.82,
+          "fim": 50.58,
+          "texto": "2,6."
+        }
+      ]
+    },
+    {
+      "inicio": 50.98,
+      "fim": 52.38,
+      "texto": "As aposentadorias e pensões dos",
+      "palavras": [
+        {
+          "inicio": 50.98,
+          "fim": 51.12,
+          "texto": "As"
+        },
+        {
+          "inicio": 51.12,
+          "fim": 51.76,
+          "texto": "aposentadorias"
+        },
+        {
+          "inicio": 51.76,
+          "fim": 51.88,
+          "texto": "e"
+        },
+        {
+          "inicio": 51.88,
+          "fim": 52.24,
+          "texto": "pensões"
+        },
+        {
+          "inicio": 52.24,
+          "fim": 52.38,
+          "texto": "dos"
+        }
+      ]
+    },
+    {
+      "inicio": 52.38,
+      "fim": 55.05,
+      "texto": "servidores levaram 798 milhões.",
+      "palavras": [
+        {
+          "inicio": 52.38,
+          "fim": 52.78,
+          "texto": "servidores"
+        },
+        {
+          "inicio": 52.78,
+          "fim": 53.26,
+          "texto": "levaram"
+        },
+        {
+          "inicio": 53.26,
+          "fim": 54.3,
+          "texto": "798"
+        },
+        {
+          "inicio": 54.3,
+          "fim": 54.9,
+          "texto": "milhões."
+        }
+      ]
+    },
+    {
+      "inicio": 55.26,
+      "fim": 56.85,
+      "texto": "E a administração da Prefeitura,",
+      "palavras": [
+        {
+          "inicio": 55.26,
+          "fim": 55.54,
+          "texto": "E"
+        },
+        {
+          "inicio": 55.54,
+          "fim": 55.64,
+          "texto": "a"
+        },
+        {
+          "inicio": 55.64,
+          "fim": 56.1,
+          "texto": "administração"
+        },
+        {
+          "inicio": 56.1,
+          "fim": 56.28,
+          "texto": "da"
+        },
+        {
+          "inicio": 56.28,
+          "fim": 56.7,
+          "texto": "Prefeitura,"
+        }
+      ]
+    },
+    {
+      "inicio": 56.92,
+      "fim": 58.21,
+      "texto": "555.",
+      "palavras": [
+        {
+          "inicio": 56.92,
+          "fim": 58.06,
+          "texto": "555."
+        }
+      ]
+    },
+    {
+      "inicio": 58.32,
+      "fim": 59.71,
+      "texto": "Mais que a assistência social,",
+      "palavras": [
+        {
+          "inicio": 58.32,
+          "fim": 58.64,
+          "texto": "Mais"
+        },
+        {
+          "inicio": 58.64,
+          "fim": 58.78,
+          "texto": "que"
+        },
+        {
+          "inicio": 58.78,
+          "fim": 58.82,
+          "texto": "a"
+        },
+        {
+          "inicio": 58.82,
+          "fim": 59.1,
+          "texto": "assistência"
+        },
+        {
+          "inicio": 59.1,
+          "fim": 59.56,
+          "texto": "social,"
+        }
+      ]
+    },
+    {
+      "inicio": 59.72,
+      "fim": 61.39,
+      "texto": "cultura e meio ambiente juntos.",
+      "palavras": [
+        {
+          "inicio": 59.72,
+          "fim": 60.1,
+          "texto": "cultura"
+        },
+        {
+          "inicio": 60.1,
+          "fim": 60.32,
+          "texto": "e"
+        },
+        {
+          "inicio": 60.32,
+          "fim": 60.56,
+          "texto": "meio"
+        },
+        {
+          "inicio": 60.56,
+          "fim": 60.88,
+          "texto": "ambiente"
+        },
+        {
+          "inicio": 60.88,
+          "fim": 61.24,
+          "texto": "juntos."
+        }
+      ]
+    },
+    {
+      "inicio": 61.74,
+      "fim": 63.82,
+      "texto": "O transporte tinha 617 milhões",
+      "palavras": [
+        {
+          "inicio": 61.74,
+          "fim": 61.88,
+          "texto": "O"
+        },
+        {
+          "inicio": 61.88,
+          "fim": 62.34,
+          "texto": "transporte"
+        },
+        {
+          "inicio": 62.34,
+          "fim": 62.48,
+          "texto": "tinha"
+        },
+        {
+          "inicio": 62.48,
+          "fim": 63.48,
+          "texto": "617"
+        },
+        {
+          "inicio": 63.48,
+          "fim": 63.82,
+          "texto": "milhões"
+        }
+      ]
+    },
+    {
+      "inicio": 63.82,
+      "fim": 65.55,
+      "texto": "previstos, gastou 201.",
+      "palavras": [
+        {
+          "inicio": 63.82,
+          "fim": 64.44,
+          "texto": "previstos,"
+        },
+        {
+          "inicio": 64.68,
+          "fim": 65.02,
+          "texto": "gastou"
+        },
+        {
+          "inicio": 65.02,
+          "fim": 65.4,
+          "texto": "201."
+        }
+      ]
+    },
+    {
+      "inicio": 66.0,
+      "fim": 66.93,
+      "texto": "Só nos ônibus,",
+      "palavras": [
+        {
+          "inicio": 66.0,
+          "fim": 66.26,
+          "texto": "Só"
+        },
+        {
+          "inicio": 66.26,
+          "fim": 66.42,
+          "texto": "nos"
+        },
+        {
+          "inicio": 66.42,
+          "fim": 66.78,
+          "texto": "ônibus,"
+        }
+      ]
+    },
+    {
+      "inicio": 67.0,
+      "fim": 68.78,
+      "texto": "a previsão era de 491",
+      "palavras": [
+        {
+          "inicio": 67.0,
+          "fim": 67.04,
+          "texto": "a"
+        },
+        {
+          "inicio": 67.04,
+          "fim": 67.36,
+          "texto": "previsão"
+        },
+        {
+          "inicio": 67.36,
+          "fim": 67.5,
+          "texto": "era"
+        },
+        {
+          "inicio": 67.5,
+          "fim": 67.6,
+          "texto": "de"
+        },
+        {
+          "inicio": 67.6,
+          "fim": 68.78,
+          "texto": "491"
+        }
+      ]
+    },
+    {
+      "inicio": 68.78,
+      "fim": 69.17,
+      "texto": "milhões.",
+      "palavras": [
+        {
+          "inicio": 68.78,
+          "fim": 69.02,
+          "texto": "milhões."
+        }
+      ]
+    },
+    {
+      "inicio": 69.46,
+      "fim": 70.55,
+      "texto": "Saíram 128.",
+      "palavras": [
+        {
+          "inicio": 69.46,
+          "fim": 69.8,
+          "texto": "Saíram"
+        },
+        {
+          "inicio": 69.8,
+          "fim": 70.4,
+          "texto": "128."
+        }
+      ]
+    },
+    {
+      "inicio": 71.0,
+      "fim": 71.79,
+      "texto": "Agora, repara.",
+      "palavras": [
+        {
+          "inicio": 71.0,
+          "fim": 71.26,
+          "texto": "Agora,"
+        },
+        {
+          "inicio": 71.36,
+          "fim": 71.64,
+          "texto": "repara."
+        }
+      ]
+    },
+    {
+      "inicio": 71.96,
+      "fim": 73.6,
+      "texto": "A segurança pública custou 125",
+      "palavras": [
+        {
+          "inicio": 71.96,
+          "fim": 72.04,
+          "texto": "A"
+        },
+        {
+          "inicio": 72.04,
+          "fim": 72.24,
+          "texto": "segurança"
+        },
+        {
+          "inicio": 72.24,
+          "fim": 72.64,
+          "texto": "pública"
+        },
+        {
+          "inicio": 72.64,
+          "fim": 73.0,
+          "texto": "custou"
+        },
+        {
+          "inicio": 73.0,
+          "fim": 73.6,
+          "texto": "125"
+        }
+      ]
+    },
+    {
+      "inicio": 73.6,
+      "fim": 74.37,
+      "texto": "milhões.",
+      "palavras": [
+        {
+          "inicio": 73.6,
+          "fim": 74.22,
+          "texto": "milhões."
+        }
+      ]
+    },
+    {
+      "inicio": 74.78,
+      "fim": 75.94,
+      "texto": "No município, isso é guarda",
+      "palavras": [
+        {
+          "inicio": 74.78,
+          "fim": 74.88,
+          "texto": "No"
+        },
+        {
+          "inicio": 74.88,
+          "fim": 75.34,
+          "texto": "município,"
+        },
+        {
+          "inicio": 75.52,
+          "fim": 75.62,
+          "texto": "isso"
+        },
+        {
+          "inicio": 75.62,
+          "fim": 75.68,
+          "texto": "é"
+        },
+        {
+          "inicio": 75.68,
+          "fim": 75.94,
+          "texto": "guarda"
+        }
+      ]
+    },
+    {
+      "inicio": 75.94,
+      "fim": 77.15,
+      "texto": "municipal e defesa civil.",
+      "palavras": [
+        {
+          "inicio": 75.94,
+          "fim": 76.36,
+          "texto": "municipal"
+        },
+        {
+          "inicio": 76.36,
+          "fim": 76.52,
+          "texto": "e"
+        },
+        {
+          "inicio": 76.52,
+          "fim": 76.78,
+          "texto": "defesa"
+        },
+        {
+          "inicio": 76.78,
+          "fim": 77.0,
+          "texto": "civil."
+        }
+      ]
+    },
+    {
+      "inicio": 77.36,
+      "fim": 78.45,
+      "texto": "A polícia é do Estado.",
+      "palavras": [
+        {
+          "inicio": 77.36,
+          "fim": 77.44,
+          "texto": "A"
+        },
+        {
+          "inicio": 77.44,
+          "fim": 77.78,
+          "texto": "polícia"
+        },
+        {
+          "inicio": 77.78,
+          "fim": 77.96,
+          "texto": "é"
+        },
+        {
+          "inicio": 77.96,
+          "fim": 78.04,
+          "texto": "do"
+        },
+        {
+          "inicio": 78.04,
+          "fim": 78.3,
+          "texto": "Estado."
+        }
+      ]
+    },
+    {
+      "inicio": 78.68,
+      "fim": 79.56,
+      "texto": "E a Câmara de Vereadores",
+      "palavras": [
+        {
+          "inicio": 78.68,
+          "fim": 78.78,
+          "texto": "E"
+        },
+        {
+          "inicio": 78.78,
+          "fim": 78.86,
+          "texto": "a"
+        },
+        {
+          "inicio": 78.86,
+          "fim": 79.12,
+          "texto": "Câmara"
+        },
+        {
+          "inicio": 79.12,
+          "fim": 79.24,
+          "texto": "de"
+        },
+        {
+          "inicio": 79.24,
+          "fim": 79.56,
+          "texto": "Vereadores"
+        }
+      ]
+    },
+    {
+      "inicio": 79.56,
+      "fim": 81.81,
+      "texto": "custou 284 milhões,",
+      "palavras": [
+        {
+          "inicio": 79.56,
+          "fim": 80.0,
+          "texto": "custou"
+        },
+        {
+          "inicio": 80.0,
+          "fim": 81.14,
+          "texto": "284"
+        },
+        {
+          "inicio": 81.14,
+          "fim": 81.66,
+          "texto": "milhões,"
+        }
+      ]
+    },
+    {
+      "inicio": 81.94,
+      "fim": 82.76,
+      "texto": "mais que o dobro.",
+      "palavras": [
+        {
+          "inicio": 81.94,
+          "fim": 82.26,
+          "texto": "mais"
+        },
+        {
+          "inicio": 82.26,
+          "fim": 82.38,
+          "texto": "que"
+        },
+        {
+          "inicio": 82.38,
+          "fim": 82.44,
+          "texto": "o"
+        },
+        {
+          "inicio": 82.44,
+          "fim": 82.76,
+          "texto": "dobro."
+        }
+      ]
+    },
+    {
+      "inicio": 82.76,
+      "fim": 83.82,
+      "texto": "E tem a parte que",
+      "palavras": [
+        {
+          "inicio": 82.76,
+          "fim": 83.22,
+          "texto": "E"
+        },
+        {
+          "inicio": 83.22,
+          "fim": 83.34,
+          "texto": "tem"
+        },
+        {
+          "inicio": 83.34,
+          "fim": 83.44,
+          "texto": "a"
+        },
+        {
+          "inicio": 83.44,
+          "fim": 83.66,
+          "texto": "parte"
+        },
+        {
+          "inicio": 83.66,
+          "fim": 83.82,
+          "texto": "que"
+        }
+      ]
+    },
+    {
+      "inicio": 83.82,
+      "fim": 84.85,
+      "texto": "quase ninguém vê.",
+      "palavras": [
+        {
+          "inicio": 83.82,
+          "fim": 84.1,
+          "texto": "quase"
+        },
+        {
+          "inicio": 84.1,
+          "fim": 84.4,
+          "texto": "ninguém"
+        },
+        {
+          "inicio": 84.4,
+          "fim": 84.7,
+          "texto": "vê."
+        }
+      ]
+    },
+    {
+      "inicio": 85.0,
+      "fim": 85.95,
+      "texto": "De cada 10 reais,",
+      "palavras": [
+        {
+          "inicio": 85.0,
+          "fim": 85.12,
+          "texto": "De"
+        },
+        {
+          "inicio": 85.12,
+          "fim": 85.26,
+          "texto": "cada"
+        },
+        {
+          "inicio": 85.26,
+          "fim": 85.58,
+          "texto": "10"
+        },
+        {
+          "inicio": 85.58,
+          "fim": 85.8,
+          "texto": "reais,"
+        }
+      ]
+    },
+    {
+      "inicio": 86.12,
+      "fim": 87.3,
+      "texto": "3 foram para salários e",
+      "palavras": [
+        {
+          "inicio": 86.12,
+          "fim": 86.3,
+          "texto": "3"
+        },
+        {
+          "inicio": 86.3,
+          "fim": 86.56,
+          "texto": "foram"
+        },
+        {
+          "inicio": 86.56,
+          "fim": 86.72,
+          "texto": "para"
+        },
+        {
+          "inicio": 86.72,
+          "fim": 87.16,
+          "texto": "salários"
+        },
+        {
+          "inicio": 87.16,
+          "fim": 87.3,
+          "texto": "e"
+        }
+      ]
+    },
+    {
+      "inicio": 87.3,
+      "fim": 88.33,
+      "texto": "encargos dos servidores.",
+      "palavras": [
+        {
+          "inicio": 87.3,
+          "fim": 87.62,
+          "texto": "encargos"
+        },
+        {
+          "inicio": 87.62,
+          "fim": 87.78,
+          "texto": "dos"
+        },
+        {
+          "inicio": 87.78,
+          "fim": 88.18,
+          "texto": "servidores."
+        }
+      ]
+    },
+    {
+      "inicio": 88.54,
+      "fim": 90.05,
+      "texto": "3,7 bilhões.",
+      "palavras": [
+        {
+          "inicio": 88.54,
+          "fim": 89.44,
+          "texto": "3,7"
+        },
+        {
+          "inicio": 89.44,
+          "fim": 89.9,
+          "texto": "bilhões."
+        }
+      ]
+    },
+    {
+      "inicio": 90.38,
+      "fim": 91.9,
+      "texto": "Já obras e equipamentos receberam",
+      "palavras": [
+        {
+          "inicio": 90.38,
+          "fim": 90.58,
+          "texto": "Já"
+        },
+        {
+          "inicio": 90.58,
+          "fim": 90.84,
+          "texto": "obras"
+        },
+        {
+          "inicio": 90.84,
+          "fim": 90.96,
+          "texto": "e"
+        },
+        {
+          "inicio": 90.96,
+          "fim": 91.4,
+          "texto": "equipamentos"
+        },
+        {
+          "inicio": 91.4,
+          "fim": 91.9,
+          "texto": "receberam"
+        }
+      ]
+    },
+    {
+      "inicio": 91.9,
+      "fim": 93.21,
+      "texto": "930 milhões.",
+      "palavras": [
+        {
+          "inicio": 91.9,
+          "fim": 92.48,
+          "texto": "930"
+        },
+        {
+          "inicio": 92.48,
+          "fim": 93.06,
+          "texto": "milhões."
+        }
+      ]
+    },
+    {
+      "inicio": 93.46,
+      "fim": 94.79,
+      "texto": "8 reais em cada 100.",
+      "palavras": [
+        {
+          "inicio": 93.46,
+          "fim": 93.74,
+          "texto": "8"
+        },
+        {
+          "inicio": 93.74,
+          "fim": 93.98,
+          "texto": "reais"
+        },
+        {
+          "inicio": 93.98,
+          "fim": 94.22,
+          "texto": "em"
+        },
+        {
+          "inicio": 94.22,
+          "fim": 94.36,
+          "texto": "cada"
+        },
+        {
+          "inicio": 94.36,
+          "fim": 94.64,
+          "texto": "100."
+        }
+      ]
+    },
+    {
+      "inicio": 94.92,
+      "fim": 97.11,
+      "texto": "Estavam previstos 1,6 bilhão.",
+      "palavras": [
+        {
+          "inicio": 94.92,
+          "fim": 95.18,
+          "texto": "Estavam"
+        },
+        {
+          "inicio": 95.18,
+          "fim": 95.64,
+          "texto": "previstos"
+        },
+        {
+          "inicio": 95.64,
+          "fim": 96.52,
+          "texto": "1,6"
+        },
+        {
+          "inicio": 96.52,
+          "fim": 96.96,
+          "texto": "bilhão."
+        }
+      ]
+    },
+    {
+      "inicio": 97.24,
+      "fim": 98.16,
+      "texto": "E teve área que gastou",
+      "palavras": [
+        {
+          "inicio": 97.24,
+          "fim": 97.36,
+          "texto": "E"
+        },
+        {
+          "inicio": 97.36,
+          "fim": 97.5,
+          "texto": "teve"
+        },
+        {
+          "inicio": 97.5,
+          "fim": 97.74,
+          "texto": "área"
+        },
+        {
+          "inicio": 97.74,
+          "fim": 97.88,
+          "texto": "que"
+        },
+        {
+          "inicio": 97.88,
+          "fim": 98.16,
+          "texto": "gastou"
+        }
+      ]
+    },
+    {
+      "inicio": 98.16,
+      "fim": 99.39,
+      "texto": "bem mais que o previsto.",
+      "palavras": [
+        {
+          "inicio": 98.16,
+          "fim": 98.48,
+          "texto": "bem"
+        },
+        {
+          "inicio": 98.48,
+          "fim": 98.74,
+          "texto": "mais"
+        },
+        {
+          "inicio": 98.74,
+          "fim": 98.82,
+          "texto": "que"
+        },
+        {
+          "inicio": 98.82,
+          "fim": 98.88,
+          "texto": "o"
+        },
+        {
+          "inicio": 98.88,
+          "fim": 99.24,
+          "texto": "previsto."
+        }
+      ]
+    },
+    {
+      "inicio": 99.5,
+      "fim": 100.61,
+      "texto": "Esporte e lazer.",
+      "palavras": [
+        {
+          "inicio": 99.5,
+          "fim": 99.92,
+          "texto": "Esporte"
+        },
+        {
+          "inicio": 99.92,
+          "fim": 100.16,
+          "texto": "e"
+        },
+        {
+          "inicio": 100.16,
+          "fim": 100.46,
+          "texto": "lazer."
+        }
+      ]
+    },
+    {
+      "inicio": 100.74,
+      "fim": 102.37,
+      "texto": "Estavam previstos 29 milhões.",
+      "palavras": [
+        {
+          "inicio": 100.74,
+          "fim": 101.0,
+          "texto": "Estavam"
+        },
+        {
+          "inicio": 101.0,
+          "fim": 101.46,
+          "texto": "previstos"
+        },
+        {
+          "inicio": 101.46,
+          "fim": 101.86,
+          "texto": "29"
+        },
+        {
+          "inicio": 101.86,
+          "fim": 102.22,
+          "texto": "milhões."
+        }
+      ]
+    },
+    {
+      "inicio": 102.62,
+      "fim": 104.3,
+      "texto": "Saíram 91, mais que o",
+      "palavras": [
+        {
+          "inicio": 102.62,
+          "fim": 102.94,
+          "texto": "Saíram"
+        },
+        {
+          "inicio": 102.94,
+          "fim": 103.36,
+          "texto": "91,"
+        },
+        {
+          "inicio": 103.8,
+          "fim": 104.1,
+          "texto": "mais"
+        },
+        {
+          "inicio": 104.1,
+          "fim": 104.26,
+          "texto": "que"
+        },
+        {
+          "inicio": 104.26,
+          "fim": 104.3,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 104.3,
+      "fim": 104.75,
+      "texto": "triplo.",
+      "palavras": [
+        {
+          "inicio": 104.3,
+          "fim": 104.6,
+          "texto": "triplo."
+        }
+      ]
+    },
+    {
+      "inicio": 104.9,
+      "fim": 106.48,
+      "texto": "Já a agricultura recebeu 86",
+      "palavras": [
+        {
+          "inicio": 104.9,
+          "fim": 105.12,
+          "texto": "Já"
+        },
+        {
+          "inicio": 105.12,
+          "fim": 105.24,
+          "texto": "a"
+        },
+        {
+          "inicio": 105.24,
+          "fim": 105.68,
+          "texto": "agricultura"
+        },
+        {
+          "inicio": 105.68,
+          "fim": 106.14,
+          "texto": "recebeu"
+        },
+        {
+          "inicio": 106.14,
+          "fim": 106.48,
+          "texto": "86"
+        }
+      ]
+    },
+    {
+      "inicio": 106.48,
+      "fim": 108.05,
+      "texto": "mil reais no ano inteiro.",
+      "palavras": [
+        {
+          "inicio": 106.48,
+          "fim": 106.96,
+          "texto": "mil"
+        },
+        {
+          "inicio": 106.96,
+          "fim": 107.22,
+          "texto": "reais"
+        },
+        {
+          "inicio": 107.22,
+          "fim": 107.44,
+          "texto": "no"
+        },
+        {
+          "inicio": 107.44,
+          "fim": 107.58,
+          "texto": "ano"
+        },
+        {
+          "inicio": 107.58,
+          "fim": 107.9,
+          "texto": "inteiro."
+        }
+      ]
+    },
+    {
+      "inicio": 108.2,
+      "fim": 109.36,
+      "texto": "3 centavos por morador.",
+      "palavras": [
+        {
+          "inicio": 108.2,
+          "fim": 108.4,
+          "texto": "3"
+        },
+        {
+          "inicio": 108.4,
+          "fim": 108.86,
+          "texto": "centavos"
+        },
+        {
+          "inicio": 108.86,
+          "fim": 109.02,
+          "texto": "por"
+        },
+        {
+          "inicio": 109.02,
+          "fim": 109.36,
+          "texto": "morador."
+        }
+      ]
+    },
+    {
+      "inicio": 109.36,
+      "fim": 110.6,
+      "texto": "A lei deixa a prefeitura",
+      "palavras": [
+        {
+          "inicio": 109.36,
+          "fim": 109.76,
+          "texto": "A"
+        },
+        {
+          "inicio": 109.76,
+          "fim": 109.92,
+          "texto": "lei"
+        },
+        {
+          "inicio": 109.92,
+          "fim": 110.2,
+          "texto": "deixa"
+        },
+        {
+          "inicio": 110.2,
+          "fim": 110.28,
+          "texto": "a"
+        },
+        {
+          "inicio": 110.28,
+          "fim": 110.6,
+          "texto": "prefeitura"
+        }
+      ]
+    },
+    {
+      "inicio": 110.6,
+      "fim": 112.64,
+      "texto": "gastar até 54% da receita",
+      "palavras": [
+        {
+          "inicio": 110.6,
+          "fim": 110.94,
+          "texto": "gastar"
+        },
+        {
+          "inicio": 110.94,
+          "fim": 111.08,
+          "texto": "até"
+        },
+        {
+          "inicio": 111.08,
+          "fim": 112.12,
+          "texto": "54%"
+        },
+        {
+          "inicio": 112.12,
+          "fim": 112.32,
+          "texto": "da"
+        },
+        {
+          "inicio": 112.32,
+          "fim": 112.64,
+          "texto": "receita"
+        }
+      ]
+    },
+    {
+      "inicio": 112.64,
+      "fim": 113.23,
+      "texto": "com pessoal.",
+      "palavras": [
+        {
+          "inicio": 112.64,
+          "fim": 112.8,
+          "texto": "com"
+        },
+        {
+          "inicio": 112.8,
+          "fim": 113.08,
+          "texto": "pessoal."
+        }
+      ]
+    },
+    {
+      "inicio": 113.36,
+      "fim": 115.84,
+      "texto": "Salvador está em 29,5%,",
+      "palavras": [
+        {
+          "inicio": 113.36,
+          "fim": 113.68,
+          "texto": "Salvador"
+        },
+        {
+          "inicio": 113.68,
+          "fim": 114.02,
+          "texto": "está"
+        },
+        {
+          "inicio": 114.02,
+          "fim": 114.16,
+          "texto": "em"
+        },
+        {
+          "inicio": 114.16,
+          "fim": 115.84,
+          "texto": "29,5%,"
+        }
+      ]
+    },
+    {
+      "inicio": 115.84,
+      "fim": 117.09,
+      "texto": "bem abaixo do teto.",
+      "palavras": [
+        {
+          "inicio": 115.84,
+          "fim": 116.18,
+          "texto": "bem"
+        },
+        {
+          "inicio": 116.18,
+          "fim": 116.54,
+          "texto": "abaixo"
+        },
+        {
+          "inicio": 116.54,
+          "fim": 116.68,
+          "texto": "do"
+        },
+        {
+          "inicio": 116.68,
+          "fim": 116.94,
+          "texto": "teto."
+        }
+      ]
+    },
+    {
+      "inicio": 117.28,
+      "fim": 118.15,
+      "texto": "E os pisos da lei.",
+      "palavras": [
+        {
+          "inicio": 117.28,
+          "fim": 117.36,
+          "texto": "E"
+        },
+        {
+          "inicio": 117.36,
+          "fim": 117.5,
+          "texto": "os"
+        },
+        {
+          "inicio": 117.5,
+          "fim": 117.72,
+          "texto": "pisos"
+        },
+        {
+          "inicio": 117.72,
+          "fim": 117.84,
+          "texto": "da"
+        },
+        {
+          "inicio": 117.84,
+          "fim": 118.0,
+          "texto": "lei."
+        }
+      ]
+    },
+    {
+      "inicio": 118.3,
+      "fim": 119.76,
+      "texto": "A saúde precisa de 15%",
+      "palavras": [
+        {
+          "inicio": 118.3,
+          "fim": 118.36,
+          "texto": "A"
+        },
+        {
+          "inicio": 118.36,
+          "fim": 118.6,
+          "texto": "saúde"
+        },
+        {
+          "inicio": 118.6,
+          "fim": 118.92,
+          "texto": "precisa"
+        },
+        {
+          "inicio": 118.92,
+          "fim": 119.12,
+          "texto": "de"
+        },
+        {
+          "inicio": 119.12,
+          "fim": 119.76,
+          "texto": "15%"
+        }
+      ]
+    },
+    {
+      "inicio": 119.76,
+      "fim": 120.55,
+      "texto": "dos impostos.",
+      "palavras": [
+        {
+          "inicio": 119.76,
+          "fim": 119.92,
+          "texto": "dos"
+        },
+        {
+          "inicio": 119.92,
+          "fim": 120.4,
+          "texto": "impostos."
+        }
+      ]
+    },
+    {
+      "inicio": 120.62,
+      "fim": 122.74,
+      "texto": "Recebeu 23,2%.",
+      "palavras": [
+        {
+          "inicio": 120.62,
+          "fim": 121.02,
+          "texto": "Recebeu"
+        },
+        {
+          "inicio": 121.02,
+          "fim": 122.74,
+          "texto": "23,2%."
+        }
+      ]
+    },
+    {
+      "inicio": 122.74,
+      "fim": 124.96,
+      "texto": "A educação precisa de 25%.",
+      "palavras": [
+        {
+          "inicio": 122.74,
+          "fim": 122.98,
+          "texto": "A"
+        },
+        {
+          "inicio": 122.98,
+          "fim": 123.38,
+          "texto": "educação"
+        },
+        {
+          "inicio": 123.38,
+          "fim": 123.64,
+          "texto": "precisa"
+        },
+        {
+          "inicio": 123.64,
+          "fim": 123.84,
+          "texto": "de"
+        },
+        {
+          "inicio": 123.84,
+          "fim": 124.96,
+          "texto": "25%."
+        }
+      ]
+    },
+    {
+      "inicio": 124.96,
+      "fim": 127.5,
+      "texto": "Recebeu 25,7%.",
+      "palavras": [
+        {
+          "inicio": 124.96,
+          "fim": 125.54,
+          "texto": "Recebeu"
+        },
+        {
+          "inicio": 125.54,
+          "fim": 127.5,
+          "texto": "25,7%."
+        }
+      ]
+    },
+    {
+      "inicio": 127.5,
+      "fim": 128.8,
+      "texto": "Quem analisa essas contas é",
+      "palavras": [
+        {
+          "inicio": 127.5,
+          "fim": 127.78,
+          "texto": "Quem"
+        },
+        {
+          "inicio": 127.78,
+          "fim": 128.1,
+          "texto": "analisa"
+        },
+        {
+          "inicio": 128.1,
+          "fim": 128.28,
+          "texto": "essas"
+        },
+        {
+          "inicio": 128.28,
+          "fim": 128.64,
+          "texto": "contas"
+        },
+        {
+          "inicio": 128.64,
+          "fim": 128.8,
+          "texto": "é"
+        }
+      ]
+    },
+    {
+      "inicio": 128.8,
+      "fim": 129.86,
+      "texto": "o Tribunal de Contas dos",
+      "palavras": [
+        {
+          "inicio": 128.8,
+          "fim": 128.9,
+          "texto": "o"
+        },
+        {
+          "inicio": 128.9,
+          "fim": 129.18,
+          "texto": "Tribunal"
+        },
+        {
+          "inicio": 129.18,
+          "fim": 129.4,
+          "texto": "de"
+        },
+        {
+          "inicio": 129.4,
+          "fim": 129.7,
+          "texto": "Contas"
+        },
+        {
+          "inicio": 129.7,
+          "fim": 129.86,
+          "texto": "dos"
+        }
+      ]
+    },
+    {
+      "inicio": 129.86,
+      "fim": 130.53,
+      "texto": "Municípios.",
+      "palavras": [
+        {
+          "inicio": 129.86,
+          "fim": 130.38,
+          "texto": "Municípios."
+        }
+      ]
+    },
+    {
+      "inicio": 130.68,
+      "fim": 131.43,
+      "texto": "E no fim do ano,",
+      "palavras": [
+        {
+          "inicio": 130.68,
+          "fim": 130.78,
+          "texto": "E"
+        },
+        {
+          "inicio": 130.78,
+          "fim": 130.84,
+          "texto": "no"
+        },
+        {
+          "inicio": 130.84,
+          "fim": 130.94,
+          "texto": "fim"
+        },
+        {
+          "inicio": 130.94,
+          "fim": 131.08,
+          "texto": "do"
+        },
+        {
+          "inicio": 131.08,
+          "fim": 131.28,
+          "texto": "ano,"
+        }
+      ]
+    },
+    {
+      "inicio": 131.52,
+      "fim": 132.94,
+      "texto": "as receitas passaram as despesas",
+      "palavras": [
+        {
+          "inicio": 131.52,
+          "fim": 131.62,
+          "texto": "as"
+        },
+        {
+          "inicio": 131.62,
+          "fim": 131.96,
+          "texto": "receitas"
+        },
+        {
+          "inicio": 131.96,
+          "fim": 132.4,
+          "texto": "passaram"
+        },
+        {
+          "inicio": 132.4,
+          "fim": 132.52,
+          "texto": "as"
+        },
+        {
+          "inicio": 132.52,
+          "fim": 132.94,
+          "texto": "despesas"
+        }
+      ]
+    },
+    {
+      "inicio": 132.94,
+      "fim": 134.81,
+      "texto": "em 486 milhões.",
+      "palavras": [
+        {
+          "inicio": 132.94,
+          "fim": 133.1,
+          "texto": "em"
+        },
+        {
+          "inicio": 133.1,
+          "fim": 134.36,
+          "texto": "486"
+        },
+        {
+          "inicio": 134.36,
+          "fim": 134.66,
+          "texto": "milhões."
+        }
+      ]
+    },
+    {
+      "inicio": 135.22,
+      "fim": 135.97,
+      "texto": "O dinheiro é seu.",
+      "palavras": [
+        {
+          "inicio": 135.22,
+          "fim": 135.32,
+          "texto": "O"
+        },
+        {
+          "inicio": 135.32,
+          "fim": 135.48,
+          "texto": "dinheiro"
+        },
+        {
+          "inicio": 135.48,
+          "fim": 135.68,
+          "texto": "é"
+        },
+        {
+          "inicio": 135.68,
+          "fim": 135.82,
+          "texto": "seu."
+        }
+      ]
+    },
+    {
+      "inicio": 136.06,
+      "fim": 137.12,
+      "texto": "E você pode conferir cada",
+      "palavras": [
+        {
+          "inicio": 136.06,
+          "fim": 136.18,
+          "texto": "E"
+        },
+        {
+          "inicio": 136.18,
+          "fim": 136.3,
+          "texto": "você"
+        },
+        {
+          "inicio": 136.3,
+          "fim": 136.46,
+          "texto": "pode"
+        },
+        {
+          "inicio": 136.46,
+          "fim": 136.88,
+          "texto": "conferir"
+        },
+        {
+          "inicio": 136.88,
+          "fim": 137.12,
+          "texto": "cada"
+        }
+      ]
+    },
+    {
+      "inicio": 137.12,
+      "fim": 138.6,
+      "texto": "número no portal da transparência.",
+      "palavras": [
+        {
+          "inicio": 137.12,
+          "fim": 137.52,
+          "texto": "número"
+        },
+        {
+          "inicio": 137.52,
+          "fim": 137.68,
+          "texto": "no"
+        },
+        {
+          "inicio": 137.68,
+          "fim": 137.94,
+          "texto": "portal"
+        },
+        {
+          "inicio": 137.94,
+          "fim": 138.08,
+          "texto": "da"
+        },
+        {
+          "inicio": 138.08,
+          "fim": 138.6,
+          "texto": "transparência."
+        }
+      ]
+    },
+    {
+      "inicio": 138.6,
+      "fim": 139.82,
+      "texto": "Em qual área você acha",
+      "palavras": [
+        {
+          "inicio": 138.6,
+          "fim": 139.0,
+          "texto": "Em"
+        },
+        {
+          "inicio": 139.0,
+          "fim": 139.18,
+          "texto": "qual"
+        },
+        {
+          "inicio": 139.18,
+          "fim": 139.44,
+          "texto": "área"
+        },
+        {
+          "inicio": 139.44,
+          "fim": 139.62,
+          "texto": "você"
+        },
+        {
+          "inicio": 139.62,
+          "fim": 139.82,
+          "texto": "acha"
+        }
+      ]
+    },
+    {
+      "inicio": 139.82,
+      "fim": 141.17,
+      "texto": "que Salvador devia gastar mais?",
+      "palavras": [
+        {
+          "inicio": 139.82,
+          "fim": 139.92,
+          "texto": "que"
+        },
+        {
+          "inicio": 139.92,
+          "fim": 140.18,
+          "texto": "Salvador"
+        },
+        {
+          "inicio": 140.18,
+          "fim": 140.54,
+          "texto": "devia"
+        },
+        {
+          "inicio": 140.54,
+          "fim": 140.82,
+          "texto": "gastar"
+        },
+        {
+          "inicio": 140.82,
+          "fim": 141.02,
+          "texto": "mais?"
+        }
+      ]
+    },
+    {
+      "inicio": 141.38,
+      "fim": 142.29,
+      "texto": "Me conta nos comentários.",
+      "palavras": [
+        {
+          "inicio": 141.38,
+          "fim": 141.48,
+          "texto": "Me"
+        },
+        {
+          "inicio": 141.48,
+          "fim": 141.66,
+          "texto": "conta"
+        },
+        {
+          "inicio": 141.66,
+          "fim": 141.8,
+          "texto": "nos"
+        },
+        {
+          "inicio": 141.8,
+          "fim": 142.14,
+          "texto": "comentários."
+        }
+      ]
+    },
+    {
+      "inicio": 142.52,
+      "fim": 143.5,
+      "texto": "E segue o Arroba Eu",
+      "palavras": [
+        {
+          "inicio": 142.52,
+          "fim": 142.68,
+          "texto": "E"
+        },
+        {
+          "inicio": 142.68,
+          "fim": 142.9,
+          "texto": "segue"
+        },
+        {
+          "inicio": 142.9,
+          "fim": 143.02,
+          "texto": "o"
+        },
+        {
+          "inicio": 143.02,
+          "fim": 143.3,
+          "texto": "Arroba"
+        },
+        {
+          "inicio": 143.3,
+          "fim": 143.5,
+          "texto": "Eu"
+        }
+      ]
+    },
+    {
+      "inicio": 143.5,
+      "fim": 144.7,
+      "texto": "Magno Leite para entender o",
+      "palavras": [
+        {
+          "inicio": 143.5,
+          "fim": 143.8,
+          "texto": "Magno"
+        },
+        {
+          "inicio": 143.8,
+          "fim": 144.08,
+          "texto": "Leite"
+        },
+        {
+          "inicio": 144.08,
+          "fim": 144.26,
+          "texto": "para"
+        },
+        {
+          "inicio": 144.26,
+          "fim": 144.52,
+          "texto": "entender"
+        },
+        {
+          "inicio": 144.52,
+          "fim": 144.7,
+          "texto": "o"
+        }
+      ]
+    },
+    {
+      "inicio": 144.7,
+      "fim": 145.44,
+      "texto": "que mexe com o seu",
+      "palavras": [
+        {
+          "inicio": 144.7,
+          "fim": 144.78,
+          "texto": "que"
+        },
+        {
+          "inicio": 144.78,
+          "fim": 145.18,
+          "texto": "mexe"
+        },
+        {
+          "inicio": 145.18,
+          "fim": 145.28,
+          "texto": "com"
+        },
+        {
+          "inicio": 145.28,
+          "fim": 145.34,
+          "texto": "o"
+        },
+        {
+          "inicio": 145.34,
+          "fim": 145.44,
+          "texto": "seu"
+        }
+      ]
+    },
+    {
+      "inicio": 145.44,
+      "fim": 146.62,
+      "texto": "bolso e quais são seus",
+      "palavras": [
+        {
+          "inicio": 145.44,
+          "fim": 145.82,
+          "texto": "bolso"
+        },
+        {
+          "inicio": 145.82,
+          "fim": 145.96,
+          "texto": "e"
+        },
+        {
+          "inicio": 145.96,
+          "fim": 146.22,
+          "texto": "quais"
+        },
+        {
+          "inicio": 146.22,
+          "fim": 146.48,
+          "texto": "são"
+        },
+        {
+          "inicio": 146.48,
+          "fim": 146.62,
+          "texto": "seus"
+        }
+      ]
+    },
+    {
+      "inicio": 146.62,
+      "fim": 147.15,
+      "texto": "direitos.",
+      "palavras": [
+        {
+          "inicio": 146.62,
+          "fim": 147.0,
+          "texto": "direitos."
+        }
+      ]
+    }
+  ],
+  "cenas": [
+    {
+      "titulo": "Salvador",
+      "peca": "mapa",
+      "dados": {
+        "uf": "BA",
+        "municipio": "Salvador"
+      },
+      "inicio": 0.0,
+      "fim": 13.8
+    },
+    {
+      "titulo": "Arrecadou em 2025",
+      "peca": "numero",
+      "dados": {
+        "valor": "R$ 12,4 bi",
+        "rotulo": "Arrecadou em 2025",
+        "detalhe": "Só a União mandou R$ 3,3 bi"
+      },
+      "inicio": 13.8,
+      "fim": 30.58
+    },
+    {
+      "titulo": "Para onde foi",
+      "peca": "maquete",
+      "dados": {
+        "setores": [
+          {
+            "nome": "Saúde",
+            "rotulo": "R$ 2,9 BI",
+            "valor": 2900000000.0,
+            "tipo": "hospital",
+            "t": 1.06
+          },
+          {
+            "nome": "Educação",
+            "rotulo": "R$ 2,4 BI",
+            "valor": 2400000000.0,
+            "tipo": "escola",
+            "t": 7.28,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 2,5 BI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Ruas e serviços",
+            "rotulo": "R$ 2 BI",
+            "valor": 2000000000.0,
+            "tipo": "rua",
+            "t": 14.78,
+            "anteriores": [
+              {
+                "ano": "2024",
+                "rotulo": "R$ 2,6 BI",
+                "cor": "dourado"
+              }
+            ]
+          },
+          {
+            "nome": "Aposentadorias",
+            "rotulo": "R$ 798 MI",
+            "valor": 798000000.0,
+            "tipo": "casa",
+            "t": 20.04
+          },
+          {
+            "nome": "Administração",
+            "rotulo": "R$ 555 MI",
+            "valor": 555000000.0,
+            "tipo": "predio",
+            "t": 24.08
+          },
+          {
+            "nome": "Transporte",
+            "rotulo": "R$ 201 MI",
+            "valor": 201000000.0,
+            "tipo": "rua",
+            "t": 30.82
+          },
+          {
+            "nome": "Câmara",
+            "rotulo": "R$ 284 MI",
+            "valor": 284000000.0,
+            "tipo": "predio",
+            "t": 47.66
+          }
+        ],
+        "ano": "2025",
+        "cor": "verde",
+        "pilha_mi": 200.0,
+        "titulo": "GASTOU EM 2025: R$ 11,9 BI"
+      },
+      "inicio": 30.58,
+      "fim": 82.88
+    },
+    {
+      "titulo": "Salários x obras",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          3700.0,
+          930.0
+        ],
+        "rotulos": [
+          "Salários e encargos R$ 3,7 bi",
+          "Obras e equipamentos R$ 930 mi"
+        ]
+      },
+      "inicio": 82.88,
+      "fim": 97.12
+    },
+    {
+      "titulo": "Esporte e lazer",
+      "peca": "numero",
+      "dados": {
+        "valor": "R$ 91 mi",
+        "rotulo": "Esporte e lazer em 2025",
+        "detalhe": "Previsto: R$ 29 mi · Agricultura: R$ 86 mil no ano"
+      },
+      "inicio": 97.12,
+      "fim": 109.6
+    },
+    {
+      "titulo": "Pessoal: 29,5% (teto 54%)",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          54.0,
+          29.5
+        ],
+        "rotulos": [
+          "Teto da lei 54%",
+          "Salvador 29,5%"
+        ]
+      },
+      "inicio": 109.6,
+      "fim": 117.16
+    },
+    {
+      "titulo": "Pisos da lei",
+      "peca": "barras",
+      "dados": {
+        "valores": [
+          15.0,
+          23.2,
+          25.0,
+          25.7
+        ],
+        "rotulos": [
+          "Saúde mínimo 15%",
+          "Saúde 23,2%",
+          "Educação mínimo 25%",
+          "Educação 25,7%"
+        ]
+      },
+      "inicio": 117.16,
+      "fim": 130.56
+    },
+    {
+      "titulo": "Sobra no fim do ano",
+      "peca": "numero",
+      "dados": {
+        "valor": "R$ 486 mi",
+        "rotulo": "Receitas acima das despesas em 2025",
+        "detalhe": "Confira no portal da transparência"
+      },
+      "inicio": 130.56,
+      "fim": 147.8
+    }
+  ],
+  "audio": "audio/1000-teste-salvador-narracao-do-video-023-ja-.wav"
+}
